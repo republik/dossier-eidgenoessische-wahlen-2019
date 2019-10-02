@@ -76,7 +76,7 @@ Lorem ipsum dolor.
 	  }
 	]
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.6",
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.7",
   "size": "breakout"
 }
 ```
