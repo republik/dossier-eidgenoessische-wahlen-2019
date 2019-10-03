@@ -310,40 +310,372 @@ Lorem ipsum dolor. Etwas zum Abschluss…
 
 Hier kommen Teaser zu Artikeln…
 
+HOMESTORY
+
+<section><h6>ARTICLECOLLECTION</h6>
+
+```
+{
+  "membersOnly": true,
+  "unauthorizedText": ""
+}
+```
+
+## 
+
+<section><h6>TEASERGROUP</h6>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-stell-dir-vor?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "wkO-BtIZm",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Stell dir vor, du wirst in den Nationalrat gewählt und musst nun Interessen vertreten. Für wen setzt du dich ein und was ist es dir wert?
+
+## 
+
+#### Auftakt zum Lobbying-Schwerpunkt.
+
+Von [Philipp Albrecht](/~palbrecht), [Dennis Bühler](/~dbuehler "Dennis Bühler") (Text) und Kati Rickenbach (Illustrationen), 02.10.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-koeppel-hat-recht?autoSlug",
+  "kind": "opinion",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-binswanger?autoSlug",
+  "titleSize": "standard",
+  "id": "opClmY_XQ",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Binswanger
+
+# Köppel hat recht
+
+## 
+
+#### Im Ständeratswahlkampf ist Roger Köppel chancenlos, deshalb denunziert er die Konkurrenten als «Pöstli-Jäger». Das Manöver ist zwar peinlich und durchschaubar, aber der Vorwurf nicht unberechtigt.
+
+Von [Daniel Binswanger](/~dbinswanger), 28.09.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-klimapolitik?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "YP8qo7jsfX",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Die grosse Abrechnung
+
+## 
+
+#### Die Wahlen stehen an, die Legislatur ist zu Ende. Was hat die Bundes­versammlung in den vergangenen vier Jahren erreicht? Bei welchen Themen ist das Parlament gescheitert, und welche Herausforderungen stehen an? Der Rück- und Ausblick.
+
+Von der Republik-Redaktion, 27.09.2019
+
+<hr /></section>
+
+<hr /></section>
+
+<hr /></section>
+
+MARTULLO
+
+<section><h6>ARTICLECOLLECTION</h6>
+
+```
+{
+  "membersOnly": true,
+  "unauthorizedText": ""
+}
+```
+
+## 
+
+<section><h6>TEASERGROUP</h6>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-parolen-quiz?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "qPOAsnQ-u",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Welche Partei sind Sie, wenn Sie Partei sind?
+
+## 
+
+#### Sie sagen dem Fragetool, wie Sie bei den Abstimmungs­vorlagen der letzten vier Jahre entschieden haben. Das Tool sagt Ihnen, welcher Partei Sie am nächsten sind.
+
+Von [Elia Blülle](<>), [Pascal Scheiwiler](/~f0d2dc2a-1308-4c40-b4ff-ca4e32f48019 "Pascal Scheiwiler") (Redaktion), [Andreas Moor](/~amoor) (Umsetzung) und Niels Blaesi (Illustrationen), 27.09.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-wahlen-mobilisierung?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "IoLfomu9JH",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Was in der Schweiz Wahlen entscheidet
+
+## 
+
+#### Wer glaubt, dass Parteien einander Wähler abjagen, kennt nur einen Teil der Wahrheit. Das Zauberwort für den Erfolg lautet: Mobilisierung. Unsere Vorschau zu den Wahlen im Oktober.
+
+Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 16.09.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-chancenloses-chancenland?autoSlug",
+  "kind": "opinion",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-binswanger?autoSlug",
+  "titleSize": "standard",
+  "id": "n9_1s0dvFV",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Binswanger
+
+# Chancenloses Chancen­land
+
+## 
+
+#### Die Operation Libero unterstützt mit einer überparteilichen Kampagne Nationalrats­kandidatinnen aus verschiedenen Lagern. Doch Überparteilichkeit ist ein dehnbarer Begriff. 
+
+Von [Daniel Binswanger](/~dbinswanger), 07.09.2019
+
+<hr /></section>
+
+<hr /></section>
+
+<hr /></section>
+
+TINDÄR
+
+<section><h6>ARTICLECOLLECTION</h6>
+
+```
+{
+  "membersOnly": true,
+  "unauthorizedText": ""
+}
+```
+
+## 
+
+<section><h6>TEASERGROUP</h6>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-opa-wird-schwierig?autoSlug",
+  "kind": "opinion",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-binswanger?autoSlug",
+  "titleSize": "standard",
+  "id": "RZ041pWub",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Binswanger
+
+# Opa wird schwierig
+
+## 
+
+#### Bei der SVP ist der Wurm drin. Doch Roger Köppel hat ein Rezept, um die Situation zu retten: mit Feingefühl. 
+
+Von [Daniel Binswanger](/~dbinswanger), 24.08.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-parlamentarierkarrieren?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "BXEyRUoDNo",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Mehr Stress im Ringen um politische Macht
+
+## 
+
+#### Wer wird wiedergewählt? Wer abgewählt? Im Herbst sind Wahlen. Wir analysieren, warum Schweizer Politiker aus dem Parlament ausscheiden – mit Daten der letzten 100 Jahre.
+
+Von [Claude Longchamp](/~clongchamp "Claude  Longchamp"), 15.07.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-cvp?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "I5TE-AVhyN",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Im Reich der Mitte
+
+## 
+
+#### Die CVP will das Land zusammenhalten – und sich so vor dem Zerfall retten. Kann das klappen? Eine Reise durch Stammlande und Parteigeschichte.
+
+Von [Urs Bruderer](/~ubruderer), 27.03.2019
+
+<hr /></section>
+
+<hr /></section>
+
+<hr /></section>
 
 
-https&#x3A;//www.republik.ch/2019/06/06/homestory
-
-https&#x3A;//www.republik.ch/2019/09/27/welche-partei-sind-sie
-
-https&#x3A;//www.republik.ch/2019/09/21/methode-martullo
-
-https&#x3A;//www.republik.ch/wahltindaer
-
-https&#x3A;//www.republik.ch/2019/03/27/im-reich-der-mitte
-
-https&#x3A;//www.republik.ch/2019/10/02/interessen-vertreten
-
-https&#x3A;//www.republik.ch/2019/09/27/die-grosse-abrechnung
 
 
-
-
-
-
-
-
-
-https&#x3A;//www.republik.ch/2019/09/27/die-grosse-abrechnung
-
-https&#x3A;//www.republik.ch/2019/09/16/was-in-der-schweiz-wahlen-entscheidet
-
-https&#x3A;//www.republik.ch/2019/07/15/mehr-stress-im-ringen-um-politische-macht
-
-https&#x3A;//www.republik.ch/2019/09/28/koeppel-hat-recht
-
-https&#x3A;//www.republik.ch/2019/09/07/chancenloses-chancen-land
-
-https&#x3A;//www.republik.ch/2019/08/24/opa-wird-schwierig
 
 <hr /></section>
