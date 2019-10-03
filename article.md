@@ -455,7 +455,33 @@ Von der Republik-Redaktion, 27.09.2019
 
 <hr /></section>
 
-MARTULLO
+<hr /></section>
+
+<section><h6>DYNAMIC_COMPONENT</h6>
+
+```
+{
+  "autoHtml": false,
+  "props": {
+    "item": {
+      "color": "#000",
+      "author": "Von <a title='Elia Blülle' href='/~eblulle'>Elia Blülle</a>, <a title='Dennis Bühler' href='/~dbuehler'>Dennis Bühler</a>, <a title='Anja Conzett' href='/~acon'>Anja Conzett</a> (Text) und Reto Sterchi (Bilder), 21.09.2019",
+      "url": "https://www.republik.ch/2019/09/21/methode-martullo",
+      "title": "Methode Martullo",
+      "split": true,
+      "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/magazine/images/87c38f1874e7127122c6a0b1ebcae1fa518bf926.jpeg",
+      "lead": "Sie gehört zum innersten Zirkel der SVP, ist eine mächtige Unternehmerin, reicher als alle anderen Parlamentarier zusammen. Ihr Wahlkampf? Ein Lehrstück in Menschenfängerei. Wer ist Magdalena Martullo?",
+      "bgColor": "#F9F99C"
+    }
+  },
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
+}
+```
+
+<hr /></section>
+
+<section><h6>CENTER</h6>
+
 
 <section><h6>ARTICLECOLLECTION</h6>
 
