@@ -467,6 +467,7 @@ Von der Republik-Redaktion, 27.09.2019
   "props": {
     "item": {
       "color": "#fff",
+      "header": "Aus der Redaktion",
       "author": "Von <a title='Sylke Gruhnwald' href='/~sylke'>Sylke Gruhnwald</a>, <a href='/~tpreusse'>Thomas Preusse</a> und <a title='Patrick Venetz' href='/~pae'>Patrick Venetz</a>, 13.09.2019</p>",
       "url": "https://www.republik.ch/2019/09/13/wahltindaer-erklaerung",
       "title": "Wählerin sucht Kandidat: Spielen Sie unser «Wahltindär»",
