@@ -264,6 +264,10 @@ Lorem ipsum. Etwas zum Wahlverhalten…
     "1999",
     "2015"
   ],
+  "domain": [
+    0,
+    100
+  ],
   "xIntervalStep": 4,
   "colorRange": [
     "#39bbcc"
