@@ -22,7 +22,7 @@ Von [Andreas Moor](/~65b64225-3843-4e41-a7a6-716ae81a5d57), 02.10.2019
 
 <section><h6>CENTER</h6>
 
-Die Schweiz wählt alle vier Jahre alle Sitze in beiden Kammern des Parlaments neu. 
+Die Schweiz wählt alle vier Jahre alle Sitze in beiden Kammern des Parlaments neu. Allgemeine Einführung
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -83,7 +83,7 @@ Die Schweiz wählt alle vier Jahre alle Sitze in beiden Kammern des Parlaments n
 
 <hr /></section>
 
-Lorem ipsum dolor.
+Lorem ipsum dolor. Etwas zum Nationalrat…
 
 <section><h6>CHART</h6>
 
@@ -171,7 +171,7 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 <hr /></section>
 
-Lorem ipsum solor.
+Lorem ipsum solor. Etwas zum Ständerat…
 
 <section><h6>CHART</h6>
 
@@ -252,7 +252,7 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/st
 
 <hr /></section>
 
-Lorem ipsum.
+Lorem ipsum. Etwas zum Wahlverhalten…
 
 <section><h6>CHART</h6>
 
@@ -312,6 +312,6 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 <hr /></section>
 
-Lorem ipsum dolor.
+Lorem ipsum dolor. Etwas zum Abschluss…
 
 <hr /></section>
