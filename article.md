@@ -320,7 +320,7 @@ Hier kommen Teaser zu Artikeln…
   "props": {
     "item": {
       "color": "#000",
-      "author": "Von <a title="Daniel Ryser" href="/~dryser">Daniel Ryser</a>, Olivier Würgler (Text) und Doug Chayka (Illustration), 06.06.2019",
+      "author": "Von <a title='Daniel Ryser' href='/~dryser'>Daniel Ryser</a>, Olivier Würgler (Text) und Doug Chayka (Illustration), 06.06.2019",
       "url": "https://www.republik.ch/2019/06/06/homestory",
       "title": "Homestory",
       "split": true,
@@ -593,7 +593,7 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 16.09.2019
 
 ## 
 
-#### Die Operation Libero unterstützt mit einer überparteilichen Kampagne Nationalrats­kandidatinnen aus verschiedenen Lagern. Doch Überparteilichkeit ist ein dehnbarer Begriff. 
+#### Die Operation Libero unterstützt mit einer überparteilichen Kampagne Nationalrats­kandidatinnen aus verschiedenen Lagern. Doch Überparteilichkeit ist ein dehnbarer Begriff.
 
 Von [Daniel Binswanger](/~dbinswanger), 07.09.2019
 
@@ -647,7 +647,7 @@ TINDÄR
 
 ## 
 
-#### Bei der SVP ist der Wurm drin. Doch Roger Köppel hat ein Rezept, um die Situation zu retten: mit Feingefühl. 
+#### Bei der SVP ist der Wurm drin. Doch Roger Köppel hat ein Rezept, um die Situation zu retten: mit Feingefühl.
 
 Von [Daniel Binswanger](/~dbinswanger), 24.08.2019
 
@@ -724,8 +724,6 @@ Von [Urs Bruderer](/~ubruderer), 27.03.2019
 <hr /></section>
 
 <hr /></section>
-
-
 
 
 
