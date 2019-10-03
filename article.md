@@ -471,7 +471,7 @@ Von der Republik-Redaktion, 27.09.2019
       "split": true,
       "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/magazine/images/5c967281d2b0527a382f6316f89975290c67f45c.png",
       "lead": "Über 4600 Personen kandidieren für den National- und Ständerat. Wofür stehen sie, welche Interessen vertreten sie? Wischen Sie, wie bei einer Dating-App, durch die Profile der Kandidatinnen in Ihrem Kanton.",
-      "bgColor": "#F9F99C"
+      "bgColor": "#670404"
     }
   },
   "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
@@ -612,14 +612,14 @@ Von [Daniel Binswanger](/~dbinswanger), 07.09.2019
   "autoHtml": false,
   "props": {
     "item": {
-      "color": "#000",
+      "color": "#fff",
       "author": "Von <a title='Daniel Ryser' href='/~dryser'>Daniel Ryser</a>, Olivier Würgler (Text) und Doug Chayka (Illustration), 06.06.2019",
       "url": "https://www.republik.ch/2019/06/06/homestory",
       "title": "Homestory",
       "split": true,
       "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/article-wahnsinn-wahlkampf/images/c98623a67ed25b949a23f33115e9f359309bb337.gif",
       "lead": "Zwei seriöse Republik-Reporter touren kreuz und quer durch die Schweiz und suchen Politikerinnen und Politiker heim. Sie wollen die Demokratie retten … obwohl, nein, eigentlich wollen sie sich vor allem betrinken und dass die Politiker sie nicht mit Floskeln langweilen. Das ist «Homestory» – die Wahljahr-Serie.",
-      "bgColor": "#fff"
+      "bgColor": "#000"
     }
   },
   "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
