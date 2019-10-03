@@ -22,7 +22,7 @@ Letzte Aktualisierung: 03.10.2019
 
 <section><h6>CENTER</h6>
 
-Die Schweiz wählt alle vier Jahre ein neues Parlament. Dieses Jahr kandidieren 4 663 Personen für alle 200 Sitze im Nationalrat, 183 Kandidatinnen bewerben sich für 45 Sitze im Ständerat (Appenzell Innerrhoden wählt erst im April 2020).
+Die Schweiz wählt alle vier Jahre ein neues Parlament. Dieses Jahr kandidieren 4 663 Personen für alle 200 Sitze im Nationalrat, 183 Kandidatinnen bewerben sich für 45 Sitze im Ständerat (Appenzell Innerrhoden wählte bereits im April [Daniel Fässler](https://www.parlament.ch/de/biografie/daniel-fässler/4056) von der CVP).
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
