@@ -320,13 +320,13 @@ Hier kommen Teaser zu Artikeln…
   "props": {
     "item": {
       "color": "#000",
-      "author": "Von <a title='Daniel Ryser' href='/~dryser'>Daniel Ryser</a>, Olivier Würgler (Text) und Doug Chayka (Illustration), 06.06.2019",
-      "url": "https://www.republik.ch/2019/06/06/homestory",
-      "title": "Homestory",
+      "author": "Von <a title='Elia Blülle' href='/~eblulle'>Elia Blülle</a>, <a title='Dennis Bühler' href='/~dbuehler'>Dennis Bühler</a>, <a title='Anja Conzett' href='/~acon'>Anja Conzett</a> (Text) und Reto Sterchi (Bilder), 21.09.2019",
+      "url": "https://www.republik.ch/2019/09/21/methode-martullo",
+      "title": "Methode Martullo",
       "split": true,
-      "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/article-wahnsinn-wahlkampf/images/c98623a67ed25b949a23f33115e9f359309bb337.gif",
-      "lead": "Zwei seriöse Republik-Reporter touren kreuz und quer durch die Schweiz und suchen Politikerinnen und Politiker heim. Sie wollen die Demokratie retten … obwohl, nein, eigentlich wollen sie sich vor allem betrinken und dass die Politiker sie nicht mit Floskeln langweilen. Das ist «Homestory» – die Wahljahr-Serie.",
-      "bgColor": "#fff"
+      "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/magazine/images/87c38f1874e7127122c6a0b1ebcae1fa518bf926.jpeg",
+      "lead": "Sie gehört zum innersten Zirkel der SVP, ist eine mächtige Unternehmerin, reicher als alle anderen Parlamentarier zusammen. Ihr Wahlkampf? Ein Lehrstück in Menschenfängerei. Wer ist Magdalena Martullo?",
+      "bgColor": "#F9F99C"
     }
   },
   "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
@@ -341,7 +341,7 @@ Hier kommen Teaser zu Artikeln…
 
 ```
 {
-  "membersOnly": true,
+  "membersOnly": false,
   "unauthorizedText": ""
 }
 ```
@@ -464,13 +464,13 @@ Von der Republik-Redaktion, 27.09.2019
   "autoHtml": false,
   "props": {
     "item": {
-      "color": "#000",
-      "author": "Von <a title='Elia Blülle' href='/~eblulle'>Elia Blülle</a>, <a title='Dennis Bühler' href='/~dbuehler'>Dennis Bühler</a>, <a title='Anja Conzett' href='/~acon'>Anja Conzett</a> (Text) und Reto Sterchi (Bilder), 21.09.2019",
-      "url": "https://www.republik.ch/2019/09/21/methode-martullo",
-      "title": "Methode Martullo",
+      "color": "#fff",
+      "author": "Von <a title='Sylke Gruhnwald' href='/~sylke'>Sylke Gruhnwald</a>, <a href='/~tpreusse'>Thomas Preusse</a> und <a title='Patrick Venetz' href='/~pae'>Patrick Venetz</a>, 13.09.2019</p>",
+      "url": "https://www.republik.ch/2019/09/13/wahltindaer-erklaerung",
+      "title": "Wählerin sucht Kandidat: Spielen Sie unser «Wahltindär»",
       "split": true,
-      "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/magazine/images/87c38f1874e7127122c6a0b1ebcae1fa518bf926.jpeg",
-      "lead": "Sie gehört zum innersten Zirkel der SVP, ist eine mächtige Unternehmerin, reicher als alle anderen Parlamentarier zusammen. Ihr Wahlkampf? Ein Lehrstück in Menschenfängerei. Wer ist Magdalena Martullo?",
+      "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/magazine/images/5c967281d2b0527a382f6316f89975290c67f45c.png",
+      "lead": "Über 4600 Personen kandidieren für den National- und Ständerat. Wofür stehen sie, welche Interessen vertreten sie? Wischen Sie, wie bei einer Dating-App, durch die Profile der Kandidatinnen in Ihrem Kanton.",
       "bgColor": "#F9F99C"
     }
   },
@@ -487,7 +487,7 @@ Von der Republik-Redaktion, 27.09.2019
 
 ```
 {
-  "membersOnly": true,
+  "membersOnly": false,
   "unauthorizedText": ""
 }
 ```
@@ -603,13 +603,40 @@ Von [Daniel Binswanger](/~dbinswanger), 07.09.2019
 
 <hr /></section>
 
-TINDÄR
+<hr /></section>
+
+<section><h6>DYNAMIC_COMPONENT</h6>
+
+```
+{
+  "autoHtml": false,
+  "props": {
+    "item": {
+      "color": "#000",
+      "author": "Von <a title='Daniel Ryser' href='/~dryser'>Daniel Ryser</a>, Olivier Würgler (Text) und Doug Chayka (Illustration), 06.06.2019",
+      "url": "https://www.republik.ch/2019/06/06/homestory",
+      "title": "Homestory",
+      "split": true,
+      "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/article-wahnsinn-wahlkampf/images/c98623a67ed25b949a23f33115e9f359309bb337.gif",
+      "lead": "Zwei seriöse Republik-Reporter touren kreuz und quer durch die Schweiz und suchen Politikerinnen und Politiker heim. Sie wollen die Demokratie retten … obwohl, nein, eigentlich wollen sie sich vor allem betrinken und dass die Politiker sie nicht mit Floskeln langweilen. Das ist «Homestory» – die Wahljahr-Serie.",
+      "bgColor": "#fff"
+    }
+  },
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
+}
+```
+
+<hr /></section>
+
+<section><h6>CENTER</h6>
+
+
 
 <section><h6>ARTICLECOLLECTION</h6>
 
 ```
 {
-  "membersOnly": true,
+  "membersOnly": false,
   "unauthorizedText": ""
 }
 ```
