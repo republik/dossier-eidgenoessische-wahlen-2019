@@ -35,7 +35,7 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Dieses Jahr kandidieren 
         "label": "Kandidierende",
         "value": "4735",
         "unit": "",
-        "description": "Anzahl Kandidatinnen für 245 Sitze in National- und Ständerat",
+        "description": "Anzahl Kandidierende für 245 Sitze in National- und Ständerat",
         "source": {
           "name": "Republik Wahltindär",
           "url": "https://www.republik.ch/wahltindaer",
