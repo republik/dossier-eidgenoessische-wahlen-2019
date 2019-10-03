@@ -22,7 +22,7 @@ Letzte Aktualisierung: 03.10.2019
 
 <section><h6>CENTER</h6>
 
-Die Schweiz wählt alle vier Jahre alle Sitze in beiden Kammern des Parlaments neu. Allgemeine Einführung
+Die Schweiz wählt alle vier Jahre ein neues Parlament. Dieses Jahr kandidieren 4 663 Personen für alle 200 Sitze im Nationalrat; 183 Kandidatinnen bewerben sich für 45 Sitze im Ständerat (Appenzell Innerrhoden wählte bereits im April [Daniel Fässler](https://www.parlament.ch/de/biografie/daniel-fässler/4056) von der CVP).
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -35,7 +35,7 @@ Die Schweiz wählt alle vier Jahre alle Sitze in beiden Kammern des Parlaments n
         "label": "Kandidierende",
         "value": "4735",
         "unit": "",
-        "description": "Anzahl Kandidatinnen und Kandidaten für 246 Sitze in National- und Ständerat",
+        "description": "Anzahl Kandidierende für 245 Sitze in National- und Ständerat",
         "source": {
           "name": "Republik Wahltindär",
           "url": "https://www.republik.ch/wahltindaer",
@@ -69,7 +69,7 @@ Die Schweiz wählt alle vier Jahre alle Sitze in beiden Kammern des Parlaments n
       },
       {
         "type": "timer",
-        "label": "Zeit bis zur Wahl",
+        "label": "Countdown",
         "value": 1571652000000,
         "description": "Zeit bis zur Schliessung der meisten Wahllokale am 21. Oktober um 12:00",
         "color": "#39bbcc"
