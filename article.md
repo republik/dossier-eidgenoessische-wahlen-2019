@@ -41,7 +41,7 @@ Die Schweiz wählt alle vier Jahre alle Sitze in beiden Kammern des Parlaments n
           "url": "https://www.republik.ch/wahltindaer",
           "date": "01.10.2019"
         },
-        "color": "rgb(187,21,26)"
+        "color": "#39bbcc"
       },
       {
         "label": "Kandidatinnen",
@@ -53,7 +53,7 @@ Die Schweiz wählt alle vier Jahre alle Sitze in beiden Kammern des Parlaments n
           "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/tabellen.assetdetail.9466387.html",
           "date": "30.09.2019"
         },
-        "color": "rgb(187,21,26)"
+        "color": "#39bbcc"
       },
       {
         "label": "Stimmberechtigte",
@@ -65,14 +65,14 @@ Die Schweiz wählt alle vier Jahre alle Sitze in beiden Kammern des Parlaments n
           "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/abstimmungen/stimmbeteiligung.assetdetail.7646490.html",
           "date": "23.10.2018"
         },
-        "color": "rgb(187,21,26)"
+        "color": "#39bbcc"
       },
       {
         "type": "timer",
         "label": "Zeit bis zur Wahl",
         "value": 1571652000000,
         "description": "Verbleibende Zeit bis zur Schliessung der Wahllokale am 21. Oktober um 12:00",
-        "color": "rgb(187,21,26)"
+        "color": "#39bbcc"
       }
     ]
   },
@@ -263,7 +263,7 @@ Lorem ipsum. Etwas zum Wahlverhalten…
     "2015"
   ],
   "colorRange": [
-    "rgb(187,21,26)"
+    "#39bbcc"
   ]
 }
 ```
