@@ -71,7 +71,7 @@ Die Schweiz wählt alle vier Jahre alle Sitze in beiden Kammern des Parlaments n
         "type": "timer",
         "label": "Zeit bis zur Wahl",
         "value": 1571652000000,
-        "description": "Verbleibende Zeit bis zur Schliessung der Wahllokale am 21. Oktober um 12:00",
+        "description": "Zeit bis zur Schliessung der meisten Wahllokale am 21. Oktober um 12:00",
         "color": "#39bbcc"
       }
     ]
