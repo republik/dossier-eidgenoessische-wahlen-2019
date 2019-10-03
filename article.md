@@ -329,7 +329,7 @@ Lorem ipsum dolor. Etwas zum Abschluss…
       "bgColor": "#F9F99C"
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.9"
 }
 ```
 
@@ -476,7 +476,7 @@ Von der Republik-Redaktion, 27.09.2019
       "bgColor": "#670404"
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.9"
 }
 ```
 
@@ -625,7 +625,7 @@ Von [Daniel Binswanger](/~dbinswanger), 07.09.2019
       "bgColor": "#000"
     }
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.9"
 }
 ```
 
