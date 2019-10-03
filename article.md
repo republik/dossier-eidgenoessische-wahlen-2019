@@ -16,7 +16,7 @@ description: Lead
 
 Lead
 
-Von [Andreas Moor](/~65b64225-3843-4e41-a7a6-716ae81a5d57), 02.10.2019
+Letzte Aktualisierung: 03.10.2019
 
 <hr /></section>
 
@@ -308,8 +308,6 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 Lorem ipsum dolor. Etwas zum Abschluss…
 
-Hier kommen Teaser zu Artikeln…
-
 <hr /></section>
 
 <section><h6>DYNAMIC_COMPONENT</h6>
@@ -341,8 +339,8 @@ Hier kommen Teaser zu Artikeln…
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -455,6 +453,8 @@ Von der Republik-Redaktion, 27.09.2019
 
 <hr /></section>
 
+
+
 <hr /></section>
 
 <section><h6>DYNAMIC_COMPONENT</h6>
@@ -482,13 +482,12 @@ Von der Republik-Redaktion, 27.09.2019
 
 <section><h6>CENTER</h6>
 
-
 <section><h6>ARTICLECOLLECTION</h6>
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -603,6 +602,8 @@ Von [Daniel Binswanger](/~dbinswanger), 07.09.2019
 
 <hr /></section>
 
+
+
 <hr /></section>
 
 <section><h6>DYNAMIC_COMPONENT</h6>
@@ -630,14 +631,12 @@ Von [Daniel Binswanger](/~dbinswanger), 07.09.2019
 
 <section><h6>CENTER</h6>
 
-
-
 <section><h6>ARTICLECOLLECTION</h6>
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
