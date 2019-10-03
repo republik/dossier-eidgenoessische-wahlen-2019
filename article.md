@@ -76,7 +76,7 @@ Die Schweiz wählt alle vier Jahre alle Sitze in beiden Kammern des Parlaments n
       }
     ]
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.8",
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.9",
   "size": "breakout"
 }
 ```
