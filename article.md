@@ -310,7 +310,32 @@ Lorem ipsum dolor. Etwas zum Abschluss…
 
 Hier kommen Teaser zu Artikeln…
 
-HOMESTORY
+<hr /></section>
+
+<section><h6>DYNAMIC_COMPONENT</h6>
+
+```
+{
+  "autoHtml": false,
+  "props": {
+    "item": {
+      "color": "#000",
+      "author": "Von <a title="Daniel Ryser" href="/~dryser">Daniel Ryser</a>, Olivier Würgler (Text) und Doug Chayka (Illustration), 06.06.2019",
+      "url": "https://www.republik.ch/2019/06/06/homestory",
+      "title": "Homestory",
+      "split": true,
+      "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/article-wahnsinn-wahlkampf/images/c98623a67ed25b949a23f33115e9f359309bb337.gif",
+      "lead": "Zwei seriöse Republik-Reporter touren kreuz und quer durch die Schweiz und suchen Politikerinnen und Politiker heim. Sie wollen die Demokratie retten … obwohl, nein, eigentlich wollen sie sich vor allem betrinken und dass die Politiker sie nicht mit Floskeln langweilen. Das ist «Homestory» – die Wahljahr-Serie.",
+      "bgColor": "#fff"
+    }
+  },
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.6"
+}
+```
+
+<hr /></section>
+
+<section><h6>CENTER</h6>
 
 <section><h6>ARTICLECOLLECTION</h6>
 
