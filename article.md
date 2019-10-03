@@ -113,7 +113,7 @@ Lorem ipsum dolor. Etwas zum Nationalrat…
 }
 ```
 
-### Erstarkende Rechte, fragmentierte Mitte
+### Fragmentierung der Mitte
 
 Stimmenanteile der Parteien bei Nationalratswahlen
 
