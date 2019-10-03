@@ -257,11 +257,14 @@ Lorem ipsum. Etwas zum Wahlverhalten…
   "unit": "%",
   "numerFormat": "%",
   "xTicks": [
-    "1919",
-    "1963",
+    "1935",
+    "1951",
+    "1967",
+    "1983",
     "1999",
     "2015"
   ],
+  "xIntervalStep": 4,
   "colorRange": [
     "#39bbcc"
   ]
@@ -270,15 +273,10 @@ Lorem ipsum. Etwas zum Wahlverhalten…
 
 ### Einpendeln oder Trendwende?
 
-Wahlbeteiligung bei Nationalratswahlen seit 1919
+Wahlbeteiligung bei Nationalratswahlen seit 1935
 
 ```
 year,value
-1919,80.3787
-1922,76.3659
-1925,76.8011
-1928,78.7863
-1931,78.8259
 1935,78.3118
 1939,74.2935
 1943,70.0426
