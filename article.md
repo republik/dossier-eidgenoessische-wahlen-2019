@@ -87,9 +87,11 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
 
 Die grosse Kammer des Parlaments wird seit 1919 im Proporzverfahren gewählt. Der Kanton Zürich entsendet als bevölkerungsreichster Kanton 35 Abgeordnete, die sechs kleinsten Kantone AI, AR, GL, NW, OW und UR jeweils nur einen. 
 
-In jüngster Vergangenheit konnte insbesondere die SVP einen markanten Wählerzuwachs verzeichnen. Seit 1987 konnte sie ihren Wähleranteil von 11% auf 29.4% fast verdreifachen und kam so 2015 auf 65 Nationalratssitze – dies trotz der Abspaltung der BDP im Jahr 2008.
+In jüngster Vergangenheit konnte insbesondere die **SVP** einen markanten Wählerzuwachs verzeichnen. Seit 1987 konnte sie ihren Wähleranteil von 11% auf 29.4% fast verdreifachen und kam so 2015 auf 65 Nationalratssitze – dies trotz der Abspaltung der BDP im Jahr 2008.
 
-Die anderen grossen Parteien mussten in den letzen Jahren teilweise bedrohliche Verluste verzeichnen: Die CVP hat seit 1987 fast die Hälfte ihrer Wählerschaft und 15 ihrer Sitze eingebüsst und kam bei den Wahlen 2015 auf noch 27 Abgeordnete. Die FDP konnte ihren Sinkflug 2015 stoppen und stellt seither 33 Abgeordnete (1987 waren es noch 51). Die SP stagniert nach einem Zwischenhoch während den Nullerjahren bei rund 18% Wähleranteil und 43 Mandaten.
+Die anderen grossen Parteien mussten in den letzen Jahren teilweise bedrohliche Verluste verzeichnen: Die **CVP** hat seit 1987 fast die Hälfte ihrer Wählerschaft und 15 ihrer Sitze eingebüsst und kam bei den Wahlen 2015 auf noch 27 Abgeordnete. Die **FDP** konnte ihren Sinkflug 2015 stoppen und stellt seither 33 Abgeordnete (1987 waren es noch 51). Die **SP** stagniert nach einem Zwischenhoch während den Nullerjahren bei rund 18% Wähleranteil und 43 Mandaten.
+
+Die **Grüne Partei** ist seit 1975 im Nationalrat vertreten und erreichte 2007 mit 20 Sitzen und 9.6% Wähleranteil ihr bislang bestes Ergebnis. Die beiden (relativen) Neulinge **GLP** und **BDP** sind seit 2015 mit je 7 Sitzen vertreten.
 
 <section><h6>CHART</h6>
 
