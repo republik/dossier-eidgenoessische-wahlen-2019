@@ -16,7 +16,7 @@ description: Lead
 
 Lead
 
-Letzte Aktualisierung: 03.10.2019
+Letzte Aktualisierung: 04.10.2019
 
 <hr /></section>
 
@@ -39,7 +39,7 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
         "source": {
           "name": "SmartVote",
           "url": "https://www.smartvote.ch",
-          "date": "01.10.2019"
+          "date": "04.10.2019"
         },
         "color": "#39bbcc"
       },
