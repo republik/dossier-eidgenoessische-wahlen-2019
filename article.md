@@ -22,7 +22,7 @@ Letzte Aktualisierung: 03.10.2019
 
 <section><h6>CENTER</h6>
 
-Die Schweiz wählt alle vier Jahre ein neues Parlament. Dieses Jahr kandidieren 4 663 Personen für alle 200 Sitze im Nationalrat; 183 Kandidatinnen bewerben sich für 45 Sitze im Ständerat (Appenzell Innerrhoden wählte bereits im April [Daniel Fässler](https://www.parlament.ch/de/biografie/daniel-fässler/4056) von der CVP).
+Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. Oktober kandidieren 4 663 Personen für die 200 Sitze im Nationalrat; 183 Kandidatinnen bewerben sich für 45 Sitze im Ständerat (Appenzell Innerrhoden wählte bereits im April [Daniel Fässler](https://www.parlament.ch/de/biografie/daniel-fässler/4056) von der CVP).
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -32,13 +32,13 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Dieses Jahr kandidieren 
   "props": {
     "values": [
       {
-        "label": "Kandidierende",
-        "value": "4735",
+        "label": "Kandidaturen",
+        "value": "4’663",
         "unit": "",
-        "description": "Anzahl Kandidierende für 245 Sitze in National- und Ständerat",
+        "description": "Anzahl Kandidierende für 200 Sitze im Nationalrat",
         "source": {
-          "name": "Republik Wahltindär",
-          "url": "https://www.republik.ch/wahltindaer",
+          "name": "SmartVote",
+          "url": "https://www.smartvote.ch",
           "date": "01.10.2019"
         },
         "color": "#39bbcc"
@@ -83,7 +83,9 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Dieses Jahr kandidieren 
 
 <hr /></section>
 
-Lorem ipsum dolor. Etwas zum Nationalrat…
+## Nationalrat
+
+Die grosse Kammer des Parlaments wird seit 1919 im Proporzverfahren gewählt. 
 
 <section><h6>CHART</h6>
 
@@ -97,6 +99,10 @@ Lorem ipsum dolor. Etwas zum Nationalrat…
   "numberFormat": "%",
   "sort": "none",
   "domain": [
+    0,
+    1
+  ],
+  "xTicks": [
     0,
     1
   ],
@@ -165,6 +171,58 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 <hr /></section>
 
+Laut Umfragen wird vor allem die Sorge um den Klimawandel die Wahl beeinflussen. Gemäss [Wahlbarometer des SRF](https://www.srf.ch/news/schweiz/wahlen-2019/wahlbarometer/klimafrage-bleibt-entscheidend-gruene-parteien-auf-rekordkurs) dürfen vor allem die Parteien mit ökologischem Schwerpunkt auf wesentlich höhere Wähleranteile hoffen: den Grünen werden 10.5% (+3.4 gegenüber 2015) prognostiziert, den Grünliberalen 6.9% (+2.3). Auf bürgerlicher Seite muss die SVP mit empfindlichen Verlusten rechnen, bleibt aber mit 26.8% (–2.6) die mit Abstand grösste Partei im Nationalrat. Die CVP wird voraussichtlich ihren langsamen Niedergang fortsetzen, während FDP und SP beide (auf hohem Niveau) stagnieren.
+
+<section><h6>CHART</h6>
+
+```
+{
+  "type": "TimeBar",
+  "y": "year",
+  "color": "party",
+  "colorLegend": true,
+  "colorSort": "none",
+  "numberFormat": "%",
+  "sort": "none",
+  "domain": [
+    -0.03,
+    0.03
+  ],
+  "xTicks": [],
+  "colorRange": [
+    "#3CAD00",
+    "#d62728",
+    "#ff7f0e",
+    "#BCBD21",
+    "#2077B4",
+    "#FFDD00",
+    "#2BA02B",
+    "#bbb"
+  ]
+}
+```
+
+### Grüne Welle
+
+Prognose der Gewinne und Verluste bei den Nationalratswahlen 2019
+
+```
+year,party,value
+1,GPS,0.034
+2,SP,-0.001
+3,CVP,-0.014
+4,GLP,0.023
+5,FDP,0.003
+6,BDP,-0.015
+7,SVP,-0.026
+```
+
+Quelle: [Wahlbarometer SRF](https://www.srf.ch/news/schweiz/wahlen-2019/wahlbarometer/klimafrage-bleibt-entscheidend-gruene-parteien-auf-rekordkurs), 05.09.2019. Fehlerbereich +/-1.2 Prozentpunkte. 
+
+<hr /></section>
+
+## Ständerat
+
 Lorem ipsum solor. Etwas zum Ständerat…
 
 <section><h6>CHART</h6>
@@ -178,6 +236,10 @@ Lorem ipsum solor. Etwas zum Ständerat…
   "colorSort": "none",
   "sort": "none",
   "domain": [
+    0,
+    46
+  ],
+  "xTicks": [
     0,
     46
   ],
@@ -246,6 +308,8 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/st
 
 <hr /></section>
 
+## Wähler
+
 Lorem ipsum. Etwas zum Wahlverhalten…
 
 <section><h6>CHART</h6>
@@ -308,7 +372,7 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 <hr /></section>
 
-Lorem ipsum dolor. Etwas zum Abschluss…
+Die erste Session der _51. Legislatur der Bundesversammlung_ (2019–2023) wird vom 2. bis 20. Dezember stattfinden.
 
 <hr /></section>
 
