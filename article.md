@@ -201,7 +201,7 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 <hr /></section>
 
-Laut Umfragen wird vor allem die Sorge um die [Klimakrise](https://github.com/republik/dossier-klimawandel?autoSlug "Dossier: Klimakrise") die Wahl beeinflussen. Gemäss [Wahlbarometer des SRF](https://www.srf.ch/news/schweiz/wahlen-2019/wahlbarometer/klimafrage-bleibt-entscheidend-gruene-parteien-auf-rekordkurs) dürfen vor allem die Parteien mit ökologischem Schwerpunkt auf wesentlich höhere Wähleranteile hoffen: den Grünen werden 10.5% (+3.4 gegenüber 2015) prognostiziert, den Grünliberalen 6.9% (+2.3). 
+Laut Umfragen wird 2019 vor allem die Sorge um die [Klimakrise](https://github.com/republik/dossier-klimawandel?autoSlug "Dossier: Klimakrise") die Wahl beeinflussen. Gemäss [Wahlbarometer des SRF](https://www.srf.ch/news/schweiz/wahlen-2019/wahlbarometer/klimafrage-bleibt-entscheidend-gruene-parteien-auf-rekordkurs) dürfen am 20. Oktober vor allem die Parteien mit ökologischem Schwerpunkt auf wesentlich höhere Wähleranteile hoffen: den Grünen werden 10.5% (+3.4 gegenüber 2015) prognostiziert, den Grünliberalen 6.9% (+2.3). 
 
 Auf bürgerlicher Seite muss die SVP mit empfindlichen Verlusten rechnen, bleibt aber mit 26.8% (–2.6) die mit Abstand grösste Partei im Nationalrat. Die CVP wird voraussichtlich ihren langsamen Niedergang fortsetzen, während FDP und SP beide weiterhin (auf hohem Niveau) stagnieren.
 
@@ -255,7 +255,9 @@ Quelle: [Wahlbarometer SRF](https://www.srf.ch/news/schweiz/wahlen-2019/wahlbaro
 
 ## Ständerat
 
-Lorem ipsum solor. Etwas zum Ständerat…
+Der Ständerat vertritt die Interessen der Kantone auf Bundesebene. Jeder Kanton entsendet zwei Abgeordnete, jeder Halbkanton einen.
+
+Bemerkenswert ist der Aufstieg der SP im «Stöckli»: Seit 1919 ist die Anzahl ihrer Ständerätinnen von Null stetig auf heute 12 angewachsen. Seit 2007 haben sich die Grenzen in der kleinen Kammen nur wenig verschoben. Zwar ist auch in der kleinen Kammer ein Aufkommen der kleineren Parteien Grüne und GLP zu verzeichnen, doch blieben die grossen bürgerlichen Blöcke erhalten: Der Parteilose [Thomas Minder](https://www.parlament.ch/de/biografie/thomas-minder/4112) gehört der SVP-Fraktion an; [Werner Luginbühl](https://www.parlament.ch/de/biografie/werner-luginbühl/3918) von der BDP war bis 2008 SVP-Mitglied.
 
 <section><h6>CHART</h6>
 
