@@ -127,7 +127,7 @@ Die **Grüne Partei** ist seit 1975 im Nationalrat vertreten und erreichte 2007 
 
 ### Fragmentierung der Mitte
 
-Stimmenanteile der Parteien bei Nationalratswahlen
+Stimmenanteile der Parteien bei Nationalratswahlen in %
 
 ```
 year,party,value
