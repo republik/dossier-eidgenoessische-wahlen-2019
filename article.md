@@ -121,7 +121,8 @@ Die **Grüne Partei** ist seit 1975 im Nationalrat vertreten und erreichte 2007 
     "#FFDD00",
     "#2BA02B",
     "#bbb"
-  ]
+  ],
+  "size": "narrow"
 }
 ```
 
@@ -289,7 +290,8 @@ Seit 2007 haben sich die Grenzen in der kleinen Kammen nur wenig verschoben. Zwa
     "#FFDD00",
     "#2BA02B",
     "#bbb"
-  ]
+  ],
+  "size": "narrow"
 }
 ```
 
@@ -396,7 +398,8 @@ Die Wahlbeteiligung sank von 1935 bis 1995 stetig. Vor dem Krieg liessen sich no
   "xIntervalStep": 4,
   "colorRange": [
     "#39bbcc"
-  ]
+  ],
+  "size": "narrow"
 }
 ```
 
