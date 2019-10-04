@@ -121,8 +121,7 @@ Die **Grüne Partei** ist seit 1975 im Nationalrat vertreten und erreichte 2007 
     "#FFDD00",
     "#2BA02B",
     "#bbb"
-  ],
-  "size": "narrow"
+  ]
 }
 ```
 
