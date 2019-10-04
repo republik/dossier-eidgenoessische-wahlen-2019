@@ -230,7 +230,8 @@ Auf bürgerlicher Seite muss die SVP mit empfindlichen Verlusten rechnen, bleibt
     "#FFDD00",
     "#2BA02B",
     "#bbb"
-  ]
+  ],
+  "size": "narrow"
 }
 ```
 
