@@ -255,7 +255,7 @@ Quelle: [Wahlbarometer SRF](https://www.srf.ch/news/schweiz/wahlen-2019/wahlbaro
 
 ## Ständerat
 
-Der Ständerat vertritt die Interessen der Kantone auf Bundesebene. Jeder Kanton entsendet zwei Abgeordnete, jeder Halbkanton einen.
+Der Ständerat vertritt die Interessen der Kantone auf Bundesebene. Jeder Kanton entsendet zwei Abgeordnete, jeder Halbkanton einen. Bei der Wahl der Mitglieder hat die Persönlichkeit des Kandidaten oft mehr Gewicht als der Parteizugehörigkeit.
 
 Bemerkenswert ist der Aufstieg der SP im «Stöckli»: Seit 1919 ist die Anzahl ihrer Ständerätinnen von Null stetig auf heute 12 angewachsen. Seit 2007 haben sich die Grenzen in der kleinen Kammen nur wenig verschoben. Zwar ist auch in der kleinen Kammer ein Aufkommen der kleineren Parteien Grüne und GLP zu verzeichnen, doch blieben die grossen bürgerlichen Blöcke erhalten: Der Parteilose [Thomas Minder](https://www.parlament.ch/de/biografie/thomas-minder/4112) gehört der SVP-Fraktion an; [Werner Luginbühl](https://www.parlament.ch/de/biografie/werner-luginbühl/3918) von der BDP war bis 2008 SVP-Mitglied.
 
@@ -430,7 +430,7 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 <hr /></section>
 
-Die erste Session der _51. Legislatur der Bundesversammlung_ (2019–2023) wird vom 2. bis 20. Dezember stattfinden. 
+Die erste Session der _51. Legislatur der Bundesversammlung_ (2019–2023) wird vom 2. bis 20. Dezember stattfinden. Am 11. Dezember steht voraussichtlich ein wichtiges Traktandum an: Die Gesamterneuerungswahl des Bundesrates. Aber auch andere Herausforderungen sorgen dafür, dass dem Parlament in den nächsten Jahren die Arbeit nicht ausgeht: [Klima, Digitalisierung, Gesundheit, Renten, Europa, Gleichstellung, Energiepolitik](https://github.com/republik/article-klimapolitik?autoSlug "Die grosse Abrechnung"). 
 
 <hr /></section>
 
