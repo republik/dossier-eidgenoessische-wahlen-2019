@@ -260,7 +260,7 @@ Der Ständerat vertritt die Interessen der Kantone auf Bundesebene. Jeder Kanton
 
 Bemerkenswert ist der Aufstieg der SP im «Stöckli»: Seit 1919 ist die Anzahl ihrer Ständerätinnen von Null auf heute 12 angewachsen. Markant ist auch hier der Niedergang der CVP, die seit ihrem besten Ergebnis im Jahr 1987 6 Sitze verloren hat.
 
-Seit 2007 haben sich die Grenzen in der kleinen Kammer nur wenig verschoben. Zwar ist auch hier ein Aufstieg der kleineren Parteien Grüne und GLP zu verzeichnen, doch blieben die grossen bürgerlichen Blöcke erhalten: Der Parteilose [Thomas Minder](https://www.parlament.ch/de/biografie/thomas-minder/4112) gehört der SVP-Fraktion an; [Werner Luginbühl](https://www.parlament.ch/de/biografie/werner-luginbühl/3918) von der BDP war bis 2008 SVP-Mitglied.
+Seit 2007 haben sich die Grenzen in der kleinen Kammer nur wenig verschoben. Zwar ist auch hier ein Aufstieg der kleineren Parteien Grüne und GLP zu verzeichnen, doch halten sich die grossen bürgerlichen Blöcke weiterhin die Waage: Der Parteilose [Thomas Minder](https://www.parlament.ch/de/biografie/thomas-minder/4112) gehört der SVP-Fraktion an; [Werner Luginbühl](https://www.parlament.ch/de/biografie/werner-luginbühl/3918) von der BDP war bis 2008 SVP-Mitglied.
 
 <section><h6>CHART</h6>
 
