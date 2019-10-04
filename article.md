@@ -370,7 +370,7 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/st
 
 ## Wahlbeteiligung
 
-Die Wahlbeteiligung sank von 1935 bis 1995 stetig. Vor dem Krieg liessen sich vier Fünfteln des Stimmvolkes für die Nationalratswahlen an die Urnen bewegen, 1995 nur noch 42.2%. Seither ist die Wahlbeteiligung wieder leicht gewachsen: 2015 gab wieder fast die Hälfte ihre Stimme ab.
+Die Wahlbeteiligung sank von 1935 bis 1995 stetig. Vor dem Krieg liessen sich noch vier Fünftel des Stimmvolkes für die Nationalratswahlen an die Urnen bewegen, 1995 waren es nur noch halb soviel. Seither ist die Wahlbeteiligung wieder leicht gewachsen: 2015 gab wieder fast die Hälfte ihre Stimme ab.
 
 <section><h6>CHART</h6>
 
