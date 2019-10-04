@@ -91,7 +91,7 @@ In jüngster Vergangenheit konnte insbesondere die **SVP** einen markanten Wähl
 
 Die anderen grossen Parteien mussten in den letzen Jahren teilweise bedrohliche Verluste verzeichnen: Die **CVP** hat seit 1987 fast die Hälfte ihrer Wählerschaft und 15 ihrer Sitze eingebüsst und kam bei den Wahlen 2015 auf noch 27 Abgeordnete. Die **FDP** konnte ihren Sinkflug 2015 stoppen und stellt seither 33 Abgeordnete (1987 waren es noch 51). Die **SP** stagniert nach einem Zwischenhoch während den Nullerjahren bei rund 19% Wähleranteil und 43 Mandaten.
 
-Die **Grüne Partei** ist seit 1975 im Nationalrat vertreten und erreichte 2007 mit 20 Sitzen und 9.6% Wähleranteil ihr bislang bestes Ergebnis. Die beiden (relativen) Neulinge **GLP** und **BDP** sind seit 2015 mit je 7 Sitzen vertreten.
+Die **Grüne Partei** ist seit 1975 im Nationalrat vertreten und erreichte 2007 mit 20 Sitzen und 9.6% Wähleranteil ihr bislang bestes Ergebnis; heute ist sie mit 11 Sitzen die fünftstärkste Kraft im Bundeshaus. Die beiden (relativen) Neulinge **GLP** und **BDP** sind seit 2015 mit je 7 Sitzen vertreten.
 
 <section><h6>CHART</h6>
 
