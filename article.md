@@ -1,6 +1,6 @@
 ---
 template: dossier
-slug: wahlen
+slug: wahlen2019
 feed: true
 gallery: true
 title: "Eidgenössische Wahlen\_2019"
@@ -85,7 +85,11 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
 
 ## Nationalrat
 
-Die grosse Kammer des Parlaments wird seit 1919 im Proporzverfahren gewählt. 
+Die grosse Kammer des Parlaments wird seit 1919 im Proporzverfahren gewählt. Der Kanton Zürich entsendet als bevölkerungsreichster Kanton 35 Abgeordnete, die sechs kleinsten Kantone AI, AR, GL, NW, OW und UR jeweils nur einen. 
+
+In jüngster Vergangenheit konnte insbesondere die SVP einen markanten Wählerzuwachs verzeichnen. Seit 1987 konnte sie ihren Wähleranteil von 11% auf 29.4% fast verdreifachen und kam so 2015 auf 65 Nationalratssitze – dies trotz der Abspaltung der BDP im Jahr 2008.
+
+Die anderen grossen Parteien mussten in den letzen Jahren teilweise bedrohliche Verluste verzeichnen: Die CVP hat seit 1987 fast die Hälfte ihrer Wählerschaft und 15 ihrer Sitze eingebüsst und kam bei den Wahlen 2015 auf noch 27 Abgeordnete. Die FDP konnte ihren Sinkflug 2015 stoppen und stellt seither 33 Abgeordnete (1987 waren es noch 51). Die SP stagniert nach einem Zwischenhoch während den Nullerjahren bei rund 18% Wähleranteil und 43 Mandaten.
 
 <section><h6>CHART</h6>
 
@@ -125,38 +129,6 @@ Stimmenanteile der Parteien bei Nationalratswahlen
 
 ```
 year,party,value
-1999,GPS,0.049664
-1999,SP,0.224735
-1999,CVP,0.158537
-1999,GLP,0.000000
-1999,FDP,0.199171
-1999,BDP,0.000000
-1999,SVP,0.225438
-1999,Übrige,0.142455
-2003,GPS,0.074324
-2003,SP,0.233227
-2003,CVP,0.143750
-2003,GLP,0.000000
-2003,FDP,0.173347
-2003,BDP,0.000000
-2003,SVP,0.266532
-2003,Übrige,0.108820
-2007,GPS,0.095861
-2007,SP,0.195462
-2007,CVP,0.144789
-2007,GLP,0.014272
-2007,FDP,0.157614
-2007,BDP,0.000000
-2007,SVP,0.288968
-2007,Übrige,0.103034
-2011,GPS,0.084328
-2011,SP,0.187222
-2011,CVP,0.123040
-2011,GLP,0.053809
-2011,FDP,0.151045
-2011,BDP,0.054154
-2011,SVP,0.265562
-2011,Übrige,0.080839
 2015,GPS,0.070571
 2015,SP,0.188410
 2015,CVP,0.116459
@@ -165,6 +137,62 @@ year,party,value
 2015,BDP,0.041038
 2015,SVP,0.293860
 2015,Übrige,0.079438
+2011,GPS,0.084328
+2011,SP,0.187222
+2011,CVP,0.123040
+2011,GLP,0.053809
+2011,FDP,0.151045
+2011,BDP,0.054154
+2011,SVP,0.265562
+2011,Übrige,0.080839
+2007,GPS,0.095861
+2007,SP,0.195462
+2007,CVP,0.144789
+2007,GLP,0.014272
+2007,FDP,0.157614
+2007,BDP,0.000000
+2007,SVP,0.288968
+2007,Übrige,0.103034
+2003,GPS,0.074324
+2003,SP,0.233227
+2003,CVP,0.143750
+2003,GLP,0.000000
+2003,FDP,0.173347
+2003,BDP,0.000000
+2003,SVP,0.266532
+2003,Übrige,0.108820
+1999,GPS,0.049664
+1999,SP,0.224735
+1999,CVP,0.158537
+1999,GLP,0.000000
+1999,FDP,0.199171
+1999,BDP,0.000000
+1999,SVP,0.225438
+1999,Übrige,0.142455
+1995,GPS,0.050421
+1995,SP,0.217929
+1995,CVP,0.167936
+1995,GLP,0.000000
+1995,FDP,0.201811
+1995,BDP,0.000000
+1995,SVP,0.149005
+1995,Übrige,0.212898
+1991,GPS,0.060735
+1991,SP,0.184907
+1991,CVP,0.179995
+1991,GLP,0.000000
+1991,FDP,0.209908
+1991,BDP,0.000000
+1991,SVP,0.119010
+1991,Übrige,0.245446
+1987,GPS,0.048788
+1987,SP,0.184169
+1987,CVP,0.195829
+1987,GLP,0.000000
+1987,FDP,0.229325
+1987,BDP,0.000000
+1987,SVP,0.110240
+1987,Übrige,0.231649
 ```
 
 Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/nationalratswahlen.assetdetail.217191.html).
@@ -262,38 +290,6 @@ Sitzverteilung im Ständerat nach Parteien
 
 ```
 year,party,value
-1999,GPS,0.000000
-1999,SP,6.000000
-1999,CVP,15.000000
-1999,GLP,0.000000
-1999,FDP,17.000000
-1999,BDP,0.000000
-1999,SVP,7.000000
-1999,Übrige,1.000000
-2003,GPS,0.000000
-2003,SP,9.000000
-2003,CVP,15.000000
-2003,GLP,0.000000
-2003,FDP,14.000000
-2003,BDP,0.000000
-2003,SVP,8.000000
-2003,Übrige,0.000000
-2007,GPS,2.000000
-2007,SP,9.000000
-2007,CVP,15.000000
-2007,GLP,1.000000
-2007,FDP,12.000000
-2007,BDP,0.000000
-2007,SVP,7.000000
-2007,Übrige,0.000000
-2011,GPS,2.000000
-2011,SP,11.000000
-2011,CVP,13.000000
-2011,GLP,2.000000
-2011,FDP,11.000000
-2011,BDP,1.000000
-2011,SVP,5.000000
-2011,Übrige,1.000000
 2015,GPS,1.000000
 2015,SP,12.000000
 2015,CVP,13.000000
@@ -302,6 +298,62 @@ year,party,value
 2015,BDP,1.000000
 2015,SVP,5.000000
 2015,Übrige,1.000000
+2011,GPS,2.000000
+2011,SP,11.000000
+2011,CVP,13.000000
+2011,GLP,2.000000
+2011,FDP,11.000000
+2011,BDP,1.000000
+2011,SVP,5.000000
+2011,Übrige,1.000000
+2007,GPS,2.000000
+2007,SP,9.000000
+2007,CVP,15.000000
+2007,GLP,1.000000
+2007,FDP,12.000000
+2007,BDP,0.000000
+2007,SVP,7.000000
+2007,Übrige,0.000000
+2003,GPS,0.000000
+2003,SP,9.000000
+2003,CVP,15.000000
+2003,GLP,0.000000
+2003,FDP,14.000000
+2003,BDP,0.000000
+2003,SVP,8.000000
+2003,Übrige,0.000000
+1999,GPS,0.000000
+1999,SP,6.000000
+1999,CVP,15.000000
+1999,GLP,0.000000
+1999,FDP,17.000000
+1999,BDP,0.000000
+1999,SVP,7.000000
+1999,Übrige,1.000000
+1995,GPS,0.000000
+1995,SP,5.000000
+1995,CVP,16.000000
+1995,GLP,0.000000
+1995,FDP,17.000000
+1995,BDP,0.000000
+1995,SVP,5.000000
+1995,Übrige,3.000000
+1991,GPS,0.000000
+1991,SP,3.000000
+1991,CVP,16.000000
+1991,GLP,0.000000
+1991,FDP,18.000000
+1991,BDP,0.000000
+1991,SVP,4.000000
+1991,Übrige,5.000000
+1987,GPS,0.000000
+1987,SP,5.000000
+1987,CVP,19.000000
+1987,GLP,0.000000
+1987,FDP,14.000000
+1987,BDP,0.000000
+1987,SVP,4.000000
+1987,Übrige,4.000000
 ```
 
 Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/staenderatswahlen.assetdetail.81547.html).
@@ -372,7 +424,7 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 <hr /></section>
 
-Die erste Session der _51. Legislatur der Bundesversammlung_ (2019–2023) wird vom 2. bis 20. Dezember stattfinden.
+Die erste Session der _51. Legislatur der Bundesversammlung_ (2019–2023) wird vom 2. bis 20. Dezember stattfinden. 
 
 <hr /></section>
 
