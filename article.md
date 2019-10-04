@@ -432,7 +432,17 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 <hr /></section>
 
-Die erste Session der _51. Legislatur der Bundesversammlung_ (2019–2023) wird vom 2. bis 20. Dezember stattfinden. Am 11. Dezember steht voraussichtlich ein wichtiges Traktandum an: Die Gesamterneuerungswahl des Bundesrates. Aber auch andere Herausforderungen sorgen dafür, dass dem Parlament in den nächsten Jahren die Arbeit nicht ausgeht: [Klima, Digitalisierung, Gesundheit, Renten, Europa, Gleichstellung, Energiepolitik](https://github.com/republik/article-klimapolitik?autoSlug "Die grosse Abrechnung"). 
+Die erste Session der _51. Legislatur der Bundesversammlung_ (2019–2023) wird vom 2. bis 20. Dezember stattfinden. Am 11. Dezember steht voraussichtlich ein wichtiges Traktandum an: Die Gesamterneuerungswahl des Bundesrates. Aber auch andere Herausforderungen sorgen dafür, dass dem Parlament in den nächsten Jahren die Arbeit nicht ausgeht: [Klima, Digitalisierung, Gesundheit, Renten, Europa, Gleichstellung, Energiepolitik](https://github.com/republik/article-klimapolitik?autoSlug "Die grosse Abrechnung").
+
+<section><h6>INFOBOX</h6>
+
+### Über das Dossier «Eidgenössische Wahlen 2019»
+
+Das Dossier bündelt die wichtigsten Fakten zu den eidgenössischen Wahlen am 20. Oktober 2019. Alle Quellen und Original­daten sowie die Methoden ihrer Aufbereitung sind [hier](https://github.com/republik/dossier-eidgenoessische-wahlen-2019/blob/master/data/) dokumentiert. Dieses Dossier wird aktualisiert, sobald die Resultate der Wahlen feststehen.
+
+<hr /></section>
+
+
 
 <hr /></section>
 
