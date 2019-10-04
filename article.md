@@ -257,7 +257,9 @@ Quelle: [Wahlbarometer SRF](https://www.srf.ch/news/schweiz/wahlen-2019/wahlbaro
 
 Der Ständerat vertritt die Interessen der Kantone auf Bundesebene. Jeder Kanton entsendet zwei Abgeordnete, jeder Halbkanton einen. Bei der Wahl der Mitglieder hat die Persönlichkeit des Kandidaten oft mehr Gewicht als der Parteizugehörigkeit.
 
-Bemerkenswert ist der Aufstieg der SP im «Stöckli»: Seit 1919 ist die Anzahl ihrer Ständerätinnen von Null stetig auf heute 12 angewachsen. Seit 2007 haben sich die Grenzen in der kleinen Kammen nur wenig verschoben. Zwar ist auch in der kleinen Kammer ein Aufkommen der kleineren Parteien Grüne und GLP zu verzeichnen, doch blieben die grossen bürgerlichen Blöcke erhalten: Der Parteilose [Thomas Minder](https://www.parlament.ch/de/biografie/thomas-minder/4112) gehört der SVP-Fraktion an; [Werner Luginbühl](https://www.parlament.ch/de/biografie/werner-luginbühl/3918) von der BDP war bis 2008 SVP-Mitglied.
+Bemerkenswert ist der Aufstieg der SP im «Stöckli»: Seit 1919 ist die Anzahl ihrer Ständerätinnen von Null stetig auf heute 12 angewachsen. Markant ist auch hier der Niedergang der CVP, die seit ihrem besten Ergebnis im Jahr 1987 6 Sitze verloren hat.
+
+Seit 2007 haben sich die Grenzen in der kleinen Kammen nur wenig verschoben. Zwar ist auch in der kleinen Kammer ein Aufkommen der kleineren Parteien Grüne und GLP zu verzeichnen, doch blieben die grossen bürgerlichen Blöcke erhalten: Der Parteilose [Thomas Minder](https://www.parlament.ch/de/biografie/thomas-minder/4112) gehört der SVP-Fraktion an; [Werner Luginbühl](https://www.parlament.ch/de/biografie/werner-luginbühl/3918) von der BDP war bis 2008 SVP-Mitglied.
 
 <section><h6>CHART</h6>
 
@@ -366,9 +368,9 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/st
 
 <hr /></section>
 
-## Wähler
+## Wahlbeteiligung
 
-Lorem ipsum. Etwas zum Wahlverhalten…
+Die Wahlbeteiligung sank von 1935 bis 1995 stetig. Vor dem Krieg liessen sich vier Fünfteln des Stimmvolkes für die Nationalratswahlen an die Urnen bewegen, 1995 nur noch 42.2%. Seither ist die Wahlbeteiligung wieder leicht gewachsen: 2015 gab wieder fast die Hälfte ihre Stimme ab.
 
 <section><h6>CHART</h6>
 
