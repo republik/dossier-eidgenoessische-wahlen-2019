@@ -5,7 +5,6 @@ feed: true
 gallery: true
 title: "Dossier: Wahlen\_2019"
 subject: ''
-description: Lead
 ---
 
 <section><h6>TITLE</h6>
@@ -85,7 +84,7 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
 
 ## Nationalrat
 
-Die grosse Kammer des Parlaments wird seit 1919 im [Proporzverfahren](https://de.wikipedia.org/wiki/Verh%C3%A4ltniswahl) gewählt. Der Kanton Zürich entsendet als bevölkerungs­reichster Kanton 35 Abgeordnete, die sechs bevölkerungs­ärmsten Kantone AI, AR, GL, NW, OW und UR jeweils nur einen. 
+Die grosse Kammer des Parlaments wird seit 1919 im [im Proporzverfahren gewählt](https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/nationalratswahlen). Der Kanton Zürich entsendet als bevölkerungs­reichster Kanton 35 Abgeordnete, die sechs bevölkerungs­ärmsten Kantone AI, AR, GL, NW, OW und UR jeweils nur einen. 
 
 In jüngerer Vergangen­heit konnte insbesondere die SVP einen markanten Wählerzuwachs verzeichnen. Seit 1987 steigerte sie ihren Wähler­anteil von 11 auf 29,4 Prozent und kam 2015 auf 65 Nationalrats­sitze – und dies, obwohl sich 2008 die BDP abspaltete. Der SVP gelang es unter anderem, den Schweizer Demokraten und der Auto-Partei ihre Wähler abzujagen (zusammen 8,5 Prozent im Jahr 1991).
 
@@ -444,7 +443,7 @@ Die erste Session der 51. Legislatur der Bundes­versammlung (2019–2023) wird
 
 ### Zum Dossier Wahlen 2019
 
-Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beträgen zu den eidgenössischen Wahlen am 20. Oktober 2019. Alle Quellen und Original­daten sowie die Methoden ihrer Aufbereitung sind [hier](https://github.com/republik/dossier-eidgenoessische-wahlen-2019/blob/master/data/) dokumentiert. Dieses Dossier wird aktualisiert, sobald die Resultate der Wahlen feststehen.
+Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beträgen zu den eidgenössischen Wahlen am 20. Oktober 2019. Alle Quellen und Original­daten sowie die Methoden ihrer Aufbereitung sind [sind hier dokumentiert](https://github.com/republik/dossier-eidgenoessische-wahlen-2019/blob/master/data/).
 
 <hr /></section>
 
@@ -783,11 +782,11 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ###### 
 
-# Stell dir vor, du wirst in den Nationalrat gewählt. Für wen setzt du dich ein und was ist es dir wert?
+# Stell dir vor, du wirst in den Nationalrat gewählt ….
 
 ## 
 
-#### Auftakt zum Lobbying-Schwerpunkt.
+#### …Für wen setzt du dich ein und was ist es dir wert Auftakt zum Lobbying-Schwerpunkt.
 
 Von [Philipp Albrecht](/~palbrecht), [Dennis Bühler](/~dbuehler "Dennis Bühler") (Text) und Kati Rickenbach (Illustrationen), 02.10.2019
 
