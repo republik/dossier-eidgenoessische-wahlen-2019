@@ -16,7 +16,7 @@ description: Lead
 
 ⁣
 
-Letzte Aktualisierung: 04.10.2019
+Letzte Aktualisierung: 08.10.2019
 
 <hr /></section>
 
@@ -1056,7 +1056,7 @@ Von [Urs Bruderer](/~ubruderer), 27.03.2019
 
 ## 
 
-#### Die Operation Libero unterstützt mit einer überparteilichen Kampagne Nationalrats­kandidatinnen aus verschiedenen Lagern. Doch Überparteilichkeit ist ein dehnbarer Begriff. 
+#### Die Operation Libero unterstützt mit einer überparteilichen Kampagne Nationalrats­kandidatinnen aus verschiedenen Lagern. Doch Überparteilichkeit ist ein dehnbarer Begriff.
 
 Von [Daniel Binswanger](/~dbinswanger), 07.09.2019
 
