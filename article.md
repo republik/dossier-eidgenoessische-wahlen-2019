@@ -261,7 +261,7 @@ Quelle: [Wahlbarometer SRF](https://www.srf.ch/news/schweiz/wahlen-2019/wahlbaro
 
 Der Ständerat vertritt die Interessen der Kantone auf Bundes­ebene. Jeder Kanton entsendet zwei Abgeordnete, jeder Halb­kanton einen. Bei der Wahl der Mitglieder hat die Persönlich­keit des Kandidaten oft mehr Gewicht als die Partei­zugehörigkeit.
 
-Bemerkenswert ist der Aufstieg der SP im «Stöckli»: Seit 1919 ist die Anzahl ihrer Stände­rätinnen von 0 auf heute 12 angewachsen. Markant ist auch hier der Nieder­gang der CVP, die seit ihrem besten Ergebnis im Jahr 1987 6 Sitze verloren hat.
+Bemerkenswert ist der Aufstieg der SP im «Stöckli»: Seit 1991 ist die Anzahl ihrer Stände­rätinnen von 3  auf heute 12 angewachsen. Markant ist auch hier der Nieder­gang der CVP, die seit ihrem besten Ergebnis im Jahr 1987 6 Sitze verloren hat (bei der Wahl des [Nachfolgers von Karin Keller-Sutter](https://www.parlament.ch/de/biografie/benedikt-würth/4237) gewann sie wieder einen hinzu).
 
 Seit 2007 haben sich die Grenzen in der kleinen Kammer nur wenig verschoben. Zwar ist auch hier ein langsames Erstarken der kleineren Parteien Grüne, GLP und BDP zu verzeichnen, ob sie sich jedoch auf Dauer halten können, werden erst die kommenden Wahlen zeigen.
 
@@ -297,7 +297,7 @@ Seit 2007 haben sich die Grenzen in der kleinen Kammer nur wenig verschoben. Zwa
 }
 ```
 
-### Linksdrall in der kleinen Kammer
+### Bürgerliche Dominanz kleinen Kammer
 
 Sitzverteilung im Ständerat nach Parteien
 
@@ -369,7 +369,7 @@ year,party,value
 1987,Übrige,4.000000
 ```
 
-Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/staenderatswahlen.assetdetail.81547.html).
+Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/staenderatswahlen.assetdetail.81547.html). Sitzverteilung zu Beginn der Legislatur.
 
 <hr /></section>
 
@@ -484,8 +484,8 @@ Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beträg
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -754,8 +754,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -901,8 +901,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
