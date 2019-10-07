@@ -260,7 +260,7 @@ Der Ständerat vertritt die Interessen der Kantone auf Bundesebene. Jeder Kanton
 
 Bemerkenswert ist der Aufstieg der SP im «Stöckli»: Seit 1919 ist die Anzahl ihrer Ständerätinnen von Null auf heute 12 angewachsen. Markant ist auch hier der Niedergang der CVP, die seit ihrem besten Ergebnis im Jahr 1987 6 Sitze verloren hat.
 
-Seit 2007 haben sich die Grenzen in der kleinen Kammer nur wenig verschoben. Zwar ist auch hier ein Aufstieg der kleineren Parteien Grüne und GLP zu verzeichnen, doch halten sich die beiden grossen Blöcke weiterhin die Waage: Der Parteilose [Thomas Minder](https://www.parlament.ch/de/biografie/thomas-minder/4112) gehört der SVP-Fraktion an; [Werner Luginbühl](https://www.parlament.ch/de/biografie/werner-luginbühl/3918) von der BDP war bis 2008 SVP-Mitglied.
+Seit 2007 haben sich die Grenzen in der kleinen Kammer nur wenig verschoben. Zwar ist auch hier ein langsames Erstarken der kleineren Parteien Grüne,  GLP und BDP zu verzeichnen, ob sie sich jedoch auf Dauer halten können, werden erst die kommenden Wahlen zeigen.
 
 <section><h6>CHART</h6>
 
@@ -294,7 +294,7 @@ Seit 2007 haben sich die Grenzen in der kleinen Kammer nur wenig verschoben. Zwa
 }
 ```
 
-### Stabiles Stöckli
+### Linksdrall im Stöckli
 
 Sitzverteilung im Ständerat nach Parteien
 
@@ -372,16 +372,15 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/st
 
 ## Wahlbeteiligung
 
-Die Wahlbeteiligung sank von 1935 bis 1995 stetig. Vor dem Krieg liessen sich noch vier Fünftel des Stimmvolkes für die Nationalratswahlen an die Urnen bewegen, 1995 waren es nur noch halb soviel. Seither ist die Wahlbeteiligung wieder leicht gewachsen: 2015 gab wieder fast die Hälfte ihre Stimme ab.
+Die Wahlbeteiligung sank von 1935 bis 1995 stetig. Vor dem Zweiten Weltkrieg liessen sich noch vier Fünftel des Stimmvolkes für die Nationalratswahlen an die Urnen bewegen, 1995 waren es nur noch halb so viele. Seither ist die Wahlbeteiligung wieder leicht gewachsen: 2015 gab wieder über 48% der Wahlberechtigten ihre Stimme ab.
 
 <section><h6>CHART</h6>
 
 ```
 {
-  "type": "TimeBar",
   "y": "value",
   "unit": "%",
-  "numerFormat": "%",
+  "numberFormat": ".1f",
   "xTicks": [
     "1935",
     "1951",
@@ -390,19 +389,21 @@ Die Wahlbeteiligung sank von 1935 bis 1995 stetig. Vor dem Krieg liessen sich no
     "1999",
     "2015"
   ],
-  "domain": [
+  "yTicks": [
     0,
+    50,
     100
   ],
   "xIntervalStep": 4,
   "colorRange": [
     "#39bbcc"
   ],
-  "size": "narrow"
+  "size": "narrow",
+  "type": "Line"
 }
 ```
 
-### Einpendeln oder Trendwende?
+### Plateau oder Trendwende?
 
 Wahlbeteiligung bei Nationalratswahlen seit 1935
 
@@ -437,13 +438,13 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 ## Ausblick
 
-Die erste Session der _51. Legislatur der Bundesversammlung_ (2019–2023) wird vom 2. bis 20. Dezember stattfinden. Am 11. Dezember steht voraussichtlich ein wichtiges Traktandum an: Die Gesamterneuerungswahl des Bundesrates. Aber auch andere Herausforderungen sorgen dafür, dass dem Parlament in den nächsten Jahren die Arbeit nicht ausgeht: [Klima, Digitalisierung, Gesundheit, Renten, Europa, Gleichstellung, Energiepolitik](https://github.com/republik/article-klimapolitik?autoSlug "Die grosse Abrechnung").
+Die erste Session der _51. Legislatur der Bundesversammlung_ (2019–2023) wird vom 2. bis 20. Dezember stattfinden. Am 11. Dezember steht voraussichtlich ein wichtiges Traktandum an: Die Gesamterneuerungswahl des Bundesrates. Aber auch andere Herausforderungen sorgen dafür, dass dem Parlament in den nächsten Jahren die Arbeit nicht ausgeht: [Klima, Digitalisierung, Gesundheit, Renten, Europa, Gleichstellung, Energiepolitik](https://github.com/republik/article-klimapolitik?autoSlug "Die grosse Abrechnung") – die Liste ist nicht vollständig und jeder Punkt ist von grosser Dringlichkeit.
 
 <section><h6>INFOBOX</h6>
 
 ### Über das Dossier «Eidgenössische Wahlen 2019»
 
-Das Dossier bündelt die wichtigsten Fakten zu den eidgenössischen Wahlen am 20. Oktober 2019. Alle Quellen und Original­daten sowie die Methoden ihrer Aufbereitung sind [hier](https://github.com/republik/dossier-eidgenoessische-wahlen-2019/blob/master/data/) dokumentiert. Dieses Dossier wird aktualisiert, sobald die Resultate der Wahlen feststehen.
+Das Dossier bündelt die wichtigsten Fakten und Republik-Beträge zu den eidgenössischen Wahlen am 20. Oktober 2019. Alle Quellen und Original­daten sowie die Methoden ihrer Aufbereitung sind [hier](https://github.com/republik/dossier-eidgenoessische-wahlen-2019/blob/master/data/) dokumentiert. Dieses Dossier wird aktualisiert, sobald die Resultate der Wahlen feststehen.
 
 <hr /></section>
 
