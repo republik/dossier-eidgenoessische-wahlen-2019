@@ -259,7 +259,7 @@ Der Ständerat vertritt die Interessen der Kantone auf Bundes­ebene. Jeder Kant
 
 Bemerkenswert ist der Aufstieg der SP im «Stöckli»: Seit 1919 ist die Anzahl ihrer Stände­rätinnen von 0 auf heute 12 angewachsen. Markant ist auch hier der Nieder­gang der CVP, die seit ihrem besten Ergebnis im Jahr 1987 6 Sitze verloren hat.
 
-Seit 2007 haben sich die Grenzen in der kleinen Kammer nur wenig verschoben. Zwar ist auch hier ein langsames Erstarken der kleineren Parteien Grüne,  GLP und BDP zu verzeichnen, ob sie sich jedoch auf Dauer halten können, werden erst die kommenden Wahlen zeigen.
+Seit 2007 haben sich die Grenzen in der kleinen Kammer nur wenig verschoben. Zwar ist auch hier ein langsames Erstarken der kleineren Parteien Grüne, GLP und BDP zu verzeichnen, ob sie sich jedoch auf Dauer halten können, werden erst die kommenden Wahlen zeigen.
 
 <section><h6>CHART</h6>
 
