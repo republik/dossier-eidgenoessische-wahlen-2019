@@ -481,8 +481,130 @@ Das Dossier bündelt wissenswerte Fakten und eine Auswahl von Republik-Beträgen
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
+}
+```
+
+## 
+
+<section><h6>TEASERGROUP</h6>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-wahlen-mobilisierung?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "wkO-BtIZm",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Was in der Schweiz Wahlen entscheidet
+
+## 
+
+#### Wer glaubt, dass Parteien einander Wähler abjagen, kennt nur einen Teil der Wahrheit. Das Zauberwort für den Erfolg lautet: Mobilisierung. Unsere Vorschau zu den Wahlen im Oktober.
+
+Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 16.09.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-parlamentarierkarrieren?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "opClmY_XQ",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Mehr Stress im Ringen um politische Macht
+
+## 
+
+#### Wer wird wiedergewählt? Wer abgewählt? Im Herbst sind Wahlen. Wir analysieren, warum Schweizer Politiker aus dem Parlament ausscheiden – mit Daten der letzten 100 Jahre.
+
+Von [Claude Longchamp](/~clongchamp "Claude  Longchamp"), 15.07.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-staenderatswahlen?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "YP8qo7jsfX",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Die stabile Kammer
+
+## 
+
+#### Bei den nationalen Wahlen bahnt sich ein Links-Grün-Rutsch an. Aber nur im Nationalrat. In der kleinen Kammer stehen die Zeichen anders. Ein Rück- und ein Ausblick zu den Ständeratswahlen.
+
+Von [Claude Longchamp](/~clongchamp "Claude  Longchamp"), 20.05.2019
+
+<hr /></section>
+
+<hr /></section>
+
+<hr /></section>
+
+<section><h6>ARTICLECOLLECTION</h6>
+
+```
+{
+  "membersOnly": true,
+  "unauthorizedText": ""
 }
 ```
 
@@ -499,12 +621,12 @@ Das Dossier bündelt wissenswerte Fakten und eine Auswahl von Republik-Beträgen
   "teaserType": "articleTile",
   "byline": null,
   "onlyImage": false,
-  "url": "https://github.com/republik/article-stell-dir-vor?autoSlug",
+  "url": "https://github.com/republik/article-parolen-quiz?autoSlug",
   "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
   "titleSize": "standard",
-  "id": "wkO-BtIZm",
+  "id": "ebBHLYDsD",
   "portrait": true,
   "showImage": true,
   "bgColor": "#fff"
@@ -513,48 +635,13 @@ Das Dossier bündelt wissenswerte Fakten und eine Auswahl von Republik-Beträgen
 
 ###### 
 
-# Stell dir vor, du wirst in den Nationalrat gewählt und musst nun Interessen vertreten. Für wen setzt du dich ein und was ist es dir wert?
+# Welche Partei sind Sie, wenn Sie Partei sind?
 
 ## 
 
-#### Auftakt zum Lobbying-Schwerpunkt.
+#### Sie sagen dem Fragetool, wie Sie bei den Abstimmungs­vorlagen der letzten vier Jahre entschieden haben. Das Tool sagt Ihnen, welcher Partei Sie am nächsten sind.
 
-Von [Philipp Albrecht](/~palbrecht), [Dennis Bühler](/~dbuehler "Dennis Bühler") (Text) und Kati Rickenbach (Illustrationen), 02.10.2019
-
-<hr /></section>
-
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "formatColor": "#08809A",
-  "onlyImage": false,
-  "url": "https://github.com/republik/article-koeppel-hat-recht?autoSlug",
-  "kind": "opinion",
-  "center": false,
-  "textPosition": "topleft",
-  "formatUrl": "https://github.com/republik/format-binswanger?autoSlug",
-  "titleSize": "standard",
-  "id": "opClmY_XQ",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-###### Binswanger
-
-# Köppel hat recht
-
-## 
-
-#### Im Ständeratswahlkampf ist Roger Köppel chancenlos, deshalb denunziert er die Konkurrenten als «Pöstli-Jäger». Das Manöver ist zwar peinlich und durchschaubar, aber der Vorwurf nicht unberechtigt.
-
-Von [Daniel Binswanger](/~dbinswanger), 28.09.2019
+Von [Elia Blülle](<>), [Pascal Scheiwiler](/~f0d2dc2a-1308-4c40-b4ff-ca4e32f48019 "Pascal Scheiwiler") (Redaktion), [Andreas Moor](/~amoor) (Umsetzung) und Niels Blaesi (Illustrationen), 27.09.2019
 
 <hr /></section>
 
@@ -572,7 +659,7 @@ Von [Daniel Binswanger](/~dbinswanger), 28.09.2019
   "center": false,
   "textPosition": "topleft",
   "titleSize": "standard",
-  "id": "YP8qo7jsfX",
+  "id": "p-BJ0l9LEC",
   "portrait": true,
   "showImage": true,
   "bgColor": "#fff"
@@ -588,6 +675,41 @@ Von [Daniel Binswanger](/~dbinswanger), 28.09.2019
 #### Die Wahlen stehen an, die Legislatur ist zu Ende. Was hat die Bundes­versammlung in den vergangenen vier Jahren erreicht? Bei welchen Themen ist das Parlament gescheitert, und welche Herausforderungen stehen an? Der Rück- und Ausblick.
 
 Von der Republik-Redaktion, 27.09.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-kantone-stimmverhalten?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "9exfFiqYke",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Swissminiatur der Volks­abstimmungen
+
+## 
+
+#### Zürich und Bern setzen den Trend – und der Aargau wurde als Durchschnittskanton von Baselland und Graubünden abgelöst: eine politologische Analyse der ablaufenden Legislatur.
+
+Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 <hr /></section>
 
@@ -629,8 +751,8 @@ Von der Republik-Redaktion, 27.09.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -647,7 +769,7 @@ Von der Republik-Redaktion, 27.09.2019
   "teaserType": "articleTile",
   "byline": null,
   "onlyImage": false,
-  "url": "https://github.com/republik/article-parolen-quiz?autoSlug",
+  "url": "https://github.com/republik/article-stell-dir-vor?autoSlug",
   "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
@@ -661,13 +783,13 @@ Von der Republik-Redaktion, 27.09.2019
 
 ###### 
 
-# Welche Partei sind Sie, wenn Sie Partei sind?
+# Stell dir vor, du wirst in den Nationalrat gewählt. Für wen setzt du dich ein und was ist es dir wert?
 
 ## 
 
-#### Sie sagen dem Fragetool, wie Sie bei den Abstimmungs­vorlagen der letzten vier Jahre entschieden haben. Das Tool sagt Ihnen, welcher Partei Sie am nächsten sind.
+#### Auftakt zum Lobbying-Schwerpunkt.
 
-Von [Elia Blülle](<>), [Pascal Scheiwiler](/~f0d2dc2a-1308-4c40-b4ff-ca4e32f48019 "Pascal Scheiwiler") (Redaktion), [Andreas Moor](/~amoor) (Umsetzung) und Niels Blaesi (Illustrationen), 27.09.2019
+Von [Philipp Albrecht](/~palbrecht), [Dennis Bühler](/~dbuehler "Dennis Bühler") (Text) und Kati Rickenbach (Illustrationen), 02.10.2019
 
 <hr /></section>
 
@@ -681,11 +803,10 @@ Von [Elia Blülle](<>), [Pascal Scheiwiler](/~f0d2dc2a-1308-4c40-b4ff-ca4e32f480
   "byline": null,
   "formatColor": "#08809A",
   "onlyImage": false,
-  "url": "https://github.com/republik/article-wahlen-mobilisierung?autoSlug",
+  "url": "https://github.com/republik/article-man-kann-sich-grandios-irren?autoSlug",
   "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
-  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
   "titleSize": "standard",
   "id": "IoLfomu9JH",
   "portrait": true,
@@ -694,15 +815,15 @@ Von [Elia Blülle](<>), [Pascal Scheiwiler](/~f0d2dc2a-1308-4c40-b4ff-ca4e32f480
 }
 ```
 
-###### Auf lange Sicht
+###### 
 
-# Was in der Schweiz Wahlen entscheidet
+# «Es gibt heute einfach zu viele Exzesse»
 
 ## 
 
-#### Wer glaubt, dass Parteien einander Wähler abjagen, kennt nur einen Teil der Wahrheit. Das Zauberwort für den Erfolg lautet: Mobilisierung. Unsere Vorschau zu den Wahlen im Oktober.
+#### Die Gesundheitsbranche und die Bauern haben eine Übermacht im Parlament, sagt der ehemalige Migros-Chef­lobbyist Martin Schläpfer. Ein Gespräch über die Kunst des Lobbyierens und die Folgen für die Politik.
 
-Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 16.09.2019
+Ein Interview von [Philipp Albrecht](/~palbrecht), [Dennis Bühler](/~dbuehler "Dennis Bühler") (Text) und Yves Bachmann (Bilder), 07.10.2019
 
 <hr /></section>
 
@@ -716,11 +837,10 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 16.09.2019
   "byline": null,
   "formatColor": "#08809A",
   "onlyImage": false,
-  "url": "https://github.com/republik/article-chancenloses-chancenland?autoSlug",
-  "kind": "opinion",
+  "url": "https://github.com/republik/article-parteispenden?autoSlug",
+  "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
-  "formatUrl": "https://github.com/republik/format-binswanger?autoSlug",
   "titleSize": "standard",
   "id": "n9_1s0dvFV",
   "portrait": true,
@@ -729,15 +849,15 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 16.09.2019
 }
 ```
 
-###### Binswanger
+###### 
 
-# Chancenloses Chancen­land
+# Wahlkampf-Millionen auf Bestellung
 
 ## 
 
-#### Die Operation Libero unterstützt mit einer überparteilichen Kampagne Nationalrats­kandidatinnen aus verschiedenen Lagern. Doch Überparteilichkeit ist ein dehnbarer Begriff.
+#### Dokumente aus dem Innersten der SVP geben einen umfassenden Einblick in die Wahl­kampf­finanzierung der Partei. Wir haben sie analysiert – und veröffentlichen sie.
 
-Von [Daniel Binswanger](/~dbinswanger), 07.09.2019
+Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.2019
 
 <hr /></section>
 
@@ -778,8 +898,8 @@ Von [Daniel Binswanger](/~dbinswanger), 07.09.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -797,8 +917,8 @@ Von [Daniel Binswanger](/~dbinswanger), 07.09.2019
   "byline": null,
   "formatColor": "#08809A",
   "onlyImage": false,
-  "url": "https://github.com/republik/article-opa-wird-schwierig?autoSlug",
-  "kind": "opinion",
+  "url": "https://github.com/republik/article-cvpfail?autoSlug",
+  "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
   "formatUrl": "https://github.com/republik/format-binswanger?autoSlug",
@@ -810,15 +930,15 @@ Von [Daniel Binswanger](/~dbinswanger), 07.09.2019
 }
 ```
 
-###### Binswanger
+###### 
 
-# Opa wird schwierig
+# Warum stoppt Google die fragwürdige CVP-Kampagne nicht?
 
 ## 
 
-#### Bei der SVP ist der Wurm drin. Doch Roger Köppel hat ein Rezept, um die Situation zu retten: mit Feingefühl.
+#### Die brave Mittepartei fährt im Wahlkampf einen aggressiven Werbefeldzug im Internet. Die Kritik folgt prompt. Kaum hinterfragt wird dagegen die Rolle des Suchmaschinen­konzerns. Bis jetzt.
 
-Von [Daniel Binswanger](/~dbinswanger), 24.08.2019
+Von [Adrienne Fichter](/~adriennefichter), 19.09.2019
 
 <hr /></section>
 
@@ -832,7 +952,7 @@ Von [Daniel Binswanger](/~dbinswanger), 24.08.2019
   "byline": null,
   "formatColor": "#08809A",
   "onlyImage": false,
-  "url": "https://github.com/republik/article-parlamentarierkarrieren?autoSlug",
+  "url": "https://github.com/republik/article-interview-pfister?autoSlug",
   "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
@@ -845,15 +965,15 @@ Von [Daniel Binswanger](/~dbinswanger), 24.08.2019
 }
 ```
 
-###### Auf lange Sicht
+###### 
 
-# Mehr Stress im Ringen um politische Macht
+# «Die CVP muss zu einer Bewegung werden»
 
 ## 
 
-#### Wer wird wiedergewählt? Wer abgewählt? Im Herbst sind Wahlen. Wir analysieren, warum Schweizer Politiker aus dem Parlament ausscheiden – mit Daten der letzten 100 Jahre.
+#### Gerhard Pfister will von der SVP lernen und lehnt deren Stil ab. Der CVP-Chef über die Herausforderungen einer Mittepartei.
 
-Von [Claude Longchamp](/~clongchamp "Claude  Longchamp"), 15.07.2019
+Ein Interview von [Urs Bruderer](/~ubruderer) und [Dennis Bühler](/~dbuehler "Dennis Bühler"), 28.03.2019
 
 <hr /></section>
 
@@ -887,6 +1007,126 @@ Von [Claude Longchamp](/~clongchamp "Claude  Longchamp"), 15.07.2019
 #### Die CVP will das Land zusammenhalten – und sich so vor dem Zerfall retten. Kann das klappen? Eine Reise durch Stammlande und Parteigeschichte.
 
 Von [Urs Bruderer](/~ubruderer), 27.03.2019
+
+<hr /></section>
+
+<hr /></section>
+
+<hr /></section>
+
+<section><h6>ARTICLECOLLECTION</h6>
+
+```
+{
+  "membersOnly": true,
+  "unauthorizedText": ""
+}
+```
+
+## 
+
+<section><h6>TEASERGROUP</h6>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-chancenloses-chancenland?autoSlug",
+  "kind": "opinion",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-binswanger?autoSlug",
+  "titleSize": "standard",
+  "id": "BbXpwQtMN",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Binswanger
+
+# Chancenloses Chancen­land
+
+## 
+
+#### Die Operation Libero unterstützt mit einer überparteilichen Kampagne Nationalrats­kandidatinnen aus verschiedenen Lagern. Doch Überparteilichkeit ist ein dehnbarer Begriff. 
+
+Von [Daniel Binswanger](/~dbinswanger), 07.09.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-der-hitzesommer-waehlt-mit?autoSlug",
+  "kind": "opinion",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-binswanger?autoSlug",
+  "titleSize": "standard",
+  "id": "jq1zx0wiWc",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Binswanger
+
+# Der Hitzesommer wählt mit
+
+## 
+
+#### Im Moment versuchen die Bürgerinnen, sich abzukühlen, im Herbst werden sie wählen. Was viel miteinander zu tun hat.
+
+Von [Daniel Binswanger](/~dbinswanger), 29.06.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-tb?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "MHYzeAy53C",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Im Zweifelsfall geschmeidig
+
+## 
+
+#### Thierry Burkart vertritt in der FDP alte Werte und gilt als frische Kraft. Der Aargauer ist auf bestem Weg in den Ständerat.
+
+Ein Porträt von Ursula von Arx (Text) und Yves Bachmann (Bilder), 19.07.2019
 
 <hr /></section>
 
