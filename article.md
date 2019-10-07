@@ -3,7 +3,7 @@ template: dossier
 slug: wahlen2019
 feed: true
 gallery: true
-title: "Eidgenössische Wahlen\_2019"
+title: "Dossier: Wahlen\_2019"
 subject: ''
 description: Lead
 ---
