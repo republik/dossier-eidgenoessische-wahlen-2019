@@ -297,7 +297,7 @@ Seit 2007 haben sich die Grenzen in der kleinen Kammer nur wenig verschoben. Zwa
 }
 ```
 
-### Bürgerliche Dominanz kleinen Kammer
+### Bürgerliche Dominanz der kleinen Kammer
 
 Sitzverteilung im Ständerat nach Parteien
 
