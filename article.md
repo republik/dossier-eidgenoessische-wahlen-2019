@@ -790,7 +790,7 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ## 
 
-#### …Für wen setzt du dich ein und was ist es dir wert Auftakt zum Lobbying-Schwerpunkt.
+#### …für wen setzt du dich ein und was ist es dir wert? Auftakt zum Lobbying-Schwerpunkt.
 
 Von [Philipp Albrecht](/~palbrecht), [Dennis Bühler](/~dbuehler "Dennis Bühler") (Text) und Kati Rickenbach (Illustrationen), 02.10.2019
 
@@ -1123,7 +1123,7 @@ Von [Daniel Binswanger](/~dbinswanger), 29.06.2019
 
 ###### 
 
-# Im Zweifelsfall geschmeidig
+# Im Zweifels­fall geschmeidig
 
 ## 
 
