@@ -85,9 +85,9 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
 
 ## Nationalrat
 
-Die grosse Kammer des Parlaments wird seit 1919 im Proporzverfahren gewählt. Der Kanton Zürich entsendet als bevölkerungsreichster Kanton 35 Abgeordnete, die sechs bevölkerungsmässig kleinsten Kantone AI, AR, GL, NW, OW und UR jeweils nur einen. 
+Die grosse Kammer des Parlaments wird seit 1919 im Proporzverfahren gewählt. Der Kanton Zürich entsendet als bevölkerungsreichster Kanton 35 Abgeordnete, die sechs bevölkerungsärmsten Kantone AI, AR, GL, NW, OW und UR jeweils nur einen. 
 
-In jüngster Vergangenheit konnte insbesondere die **SVP** einen markanten Wählerzuwachs verzeichnen. Seit 1987 konnte sie ihren Wähleranteil von 11% auf 29.4% fast verdreifachen und kam so 2015 auf 65 Nationalratssitze – dies trotz der Abspaltung der BDP im Jahr 2008. Es gelang der Partei unter anderem, den Schweizer Demokraten und der Auto-Partei ihre Wähler abzujagen (zusammen 8,5% im Jahr 1991).
+In jüngerer Vergangenheit konnte insbesondere die **SVP** einen markanten Wählerzuwachs verzeichnen. Seit 1987 vermochte sie ihren Wähleranteil von 11% auf 29.4% fast zu verdreifachen und kam so 2015 auf 65 Nationalratssitze – dies trotz der Abspaltung der BDP im Jahr 2008. Es gelang der Partei unter anderem, den Schweizer Demokraten und der Auto-Partei ihre Wähler abzujagen (zusammen 8,5% im Jahr 1991).
 
 Die anderen grossen Parteien mussten in den letzen Jahren teilweise bedrohliche Verluste verzeichnen: Die **CVP** hat seit 1987 fast die Hälfte ihrer Wählerschaft und 15 ihrer Sitze eingebüsst und kam bei den Wahlen 2015 auf noch 27 Abgeordnete. Die **FDP** konnte ihren Sinkflug 2015 stoppen und stellt seither 33 Abgeordnete (1987 waren es noch 51). Die **SP** stagniert nach einem Zwischenhoch während den Nullerjahren bei rund 19% Wähleranteil und 43 Mandaten.
 
@@ -444,7 +444,7 @@ Die erste Session der _51. Legislatur der Bundesversammlung_ (2019–2023) wird 
 
 ### Über das Dossier «Eidgenössische Wahlen 2019»
 
-Das Dossier bündelt die wichtigsten Fakten und Republik-Beträge zu den eidgenössischen Wahlen am 20. Oktober 2019. Alle Quellen und Original­daten sowie die Methoden ihrer Aufbereitung sind [hier](https://github.com/republik/dossier-eidgenoessische-wahlen-2019/blob/master/data/) dokumentiert. Dieses Dossier wird aktualisiert, sobald die Resultate der Wahlen feststehen.
+Das Dossier bündelt wissenswerte Fakten und eine Auswahlt von Republik-Beträgen zu den eidgenössischen Wahlen am 20. Oktober 2019. Alle Quellen und Original­daten sowie die Methoden ihrer Aufbereitung sind [hier](https://github.com/republik/dossier-eidgenoessische-wahlen-2019/blob/master/data/) dokumentiert. **Dieses Dossier wird aktualisiert, sobald die Resultate der Wahlen feststehen.**
 
 <hr /></section>
 
