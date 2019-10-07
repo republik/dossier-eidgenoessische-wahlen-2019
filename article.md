@@ -1,10 +1,14 @@
 ---
-template: dossier
+twitterTitle: "Daten, Fakten –\_und ein Best-of der Republik-Beiträge"
+twitterImage: images/b06c06835694fa8e114bb54e6cfc49501ceff76e.png?size=1204x604
 slug: wahlen2019
-feed: true
-gallery: true
-title: "Dossier: Wahlen\_2019"
 subject: ''
+facebookTitle: "Daten, Fakten –\_und ein Best-of der Republik-Beiträge"
+gallery: true
+facebookImage: images/140a0a8f18ccd1179e52505c9c5d3d3f4f615f70.png?size=1204x630
+title: "Dossier: Wahlen\_2019"
+template: dossier
+feed: true
 ---
 
 <section><h6>TITLE</h6>
