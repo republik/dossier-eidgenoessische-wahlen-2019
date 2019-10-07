@@ -261,7 +261,7 @@ Quelle: [Wahlbarometer SRF](https://www.srf.ch/news/schweiz/wahlen-2019/wahlbaro
 
 Der Ständerat vertritt die Interessen der Kantone auf Bundes­ebene. Jeder Kanton entsendet zwei Abgeordnete, jeder Halb­kanton einen. Bei der Wahl der Mitglieder hat die Persönlich­keit des Kandidaten oft mehr Gewicht als die Partei­zugehörigkeit.
 
-Bemerkenswert ist der Aufstieg der SP im «Stöckli»: Seit 1991 ist die Anzahl ihrer Stände­rätinnen von 3  auf heute 12 angewachsen. Markant ist auch hier der Nieder­gang der CVP, die seit ihrem besten Ergebnis im Jahr 1987 6 Sitze verloren hat (bei der Wahl des [Nachfolgers von Karin Keller-Sutter](https://www.parlament.ch/de/biografie/benedikt-würth/4237) gewann sie wieder einen hinzu).
+Bemerkenswert ist der Aufstieg der SP im «Stöckli»: Seit 1991 ist die Anzahl ihrer Stände­rätinnen von 3 auf heute 12 angewachsen. Markant ist auch hier der Nieder­gang der CVP, die seit ihrem besten Ergebnis im Jahr 1987 6 Sitze verloren hat (bei der Wahl des [Nachfolgers von Karin Keller-Sutter](https://www.parlament.ch/de/biografie/benedikt-würth/4237) gewann sie wieder einen hinzu).
 
 Seit 2007 haben sich die Grenzen in der kleinen Kammer nur wenig verschoben. Zwar ist auch hier ein langsames Erstarken der kleineren Parteien Grüne, GLP und BDP zu verzeichnen, ob sie sich jedoch auf Dauer halten können, werden erst die kommenden Wahlen zeigen.
 
