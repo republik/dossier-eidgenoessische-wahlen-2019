@@ -84,7 +84,7 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
 
 ## Nationalrat
 
-Die grosse Kammer des Parlaments wird seit 1919 im [im Proporzverfahren gewählt](https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/nationalratswahlen). Der Kanton Zürich entsendet als bevölkerungs­reichster Kanton 35 Abgeordnete, die sechs bevölkerungs­ärmsten Kantone AI, AR, GL, NW, OW und UR jeweils nur einen. 
+Die grosse Kammer des Parlaments wird seit 1919 im [im Proporzverfahren gewählt](https://www.parlament.ch/blog/Pages/100-jahre-proporz-lange-anlauf-neuen-wahlsystem-erste-wahl-1919.aspx). Der Kanton Zürich entsendet als bevölkerungs­reichster Kanton 35 Abgeordnete, die sechs bevölkerungs­ärmsten Kantone AI, AR, GL, NW, OW und UR jeweils nur einen. 
 
 In jüngerer Vergangen­heit konnte insbesondere die SVP einen markanten Wählerzuwachs verzeichnen. Seit 1987 steigerte sie ihren Wähler­anteil von 11 auf 29,4 Prozent und kam 2015 auf 65 Nationalrats­sitze – und dies, obwohl sich 2008 die BDP abspaltete. Der SVP gelang es unter anderem, den Schweizer Demokraten und der Auto-Partei ihre Wähler abzujagen (zusammen 8,5 Prozent im Jahr 1991).
 
