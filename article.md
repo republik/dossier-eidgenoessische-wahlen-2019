@@ -62,8 +62,8 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
         "description": "Anzahl Stimmberechtigte",
         "source": {
           "name": "BFS",
-          "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/abstimmungen/stimmbeteiligung.assetdetail.7646490.html",
-          "date": "23.10.2018"
+          "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/abstimmungen/jahr-2019.assetdetail.8126483.html",
+          "date": "19.05.2019"
         },
         "color": "#39bbcc"
       },
@@ -481,8 +481,8 @@ Das Dossier bündelt wissenswerte Fakten und eine Auswahl von Republik-Beträgen
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -629,8 +629,8 @@ Von der Republik-Redaktion, 27.09.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -778,8 +778,8 @@ Von [Daniel Binswanger](/~dbinswanger), 07.09.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
