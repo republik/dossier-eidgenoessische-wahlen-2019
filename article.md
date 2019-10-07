@@ -22,7 +22,7 @@ Letzte Aktualisierung: 08.10.2019
 
 <section><h6>CENTER</h6>
 
-Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. Oktober 2019 kandidieren 4 663 Personen für die 200 Sitze im Nationalrat; 183 Kandidatinnen bewerben sich für 45 Sitze im Ständerat (Appenzell Innerrhoden [wählte bereits im April](https://www.parlament.ch/de/biografie/daniel-fässler/4056)).
+Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. Oktober 2019 kandidieren 4663 Personen für die 200 Sitze im Nationalrat; 183 Kandidatinnen bewerben sich für 45 Sitze im Ständerat (Appenzell Innerrhoden [wählte bereits im April](https://www.parlament.ch/de/biografie/daniel-fässler/4056)).
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -87,11 +87,11 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
 
 Die grosse Kammer des Parlaments wird seit 1919 im [Proporzverfahren](https://de.wikipedia.org/wiki/Verh%C3%A4ltniswahl) gewählt. Der Kanton Zürich entsendet als bevölkerungsreichster Kanton 35 Abgeordnete, die sechs bevölkerungsärmsten Kantone AI, AR, GL, NW, OW und UR jeweils nur einen. 
 
-In jüngerer Vergangenheit konnte insbesondere die SVP einen markanten Wählerzuwachs verzeichnen. Seit 1987 steigerte sie ihren Wähleranteil von 11 auf 29.4 Prozent und kam 2015 auf 65 Nationalratssitze – und dies, obwohl sich 2008 die BDP abspaltete. Der SVP gelang es unter anderem, den Schweizer Demokraten und der Auto-Partei ihre Wähler abzujagen (zusammen 8,5% im Jahr 1991).
+In jüngerer Vergangenheit konnte insbesondere die SVP einen markanten Wählerzuwachs verzeichnen. Seit 1987 steigerte sie ihren Wähleranteil von 11 auf 29,4 Prozent und kam 2015 auf 65 Nationalratssitze – und dies, obwohl sich 2008 die BDP abspaltete. Der SVP gelang es unter anderem, den Schweizer Demokraten und der Auto-Partei ihre Wähler abzujagen (zusammen 8,5 Prozent im Jahr 1991).
 
-Die anderen Bundesratsparteien mussten in den letzen Jahren teilweise bedrohliche Verluste verzeichnen: Die CVP büsste seit 1987 fast die Hälfte ihrer Wählerschaft und 15 ihrer Sitze ein und kam bei den Wahlen 2015 auf noch 27 Abgeordnete. Die FDP konnte ihren Sinkflug 2015 stoppen und stellt seither 33 Abgeordnete (1987 waren es noch 51). Die SP stagniert nach einem Zwischenhoch während den Nullerjahren bei rund 19% Wähleranteil und 43 Mandaten.
+Die anderen Bundesratsparteien mussten in den letzen Jahren teilweise bedrohliche Verluste verzeichnen: Die CVP büsste seit 1987 fast die Hälfte ihrer Wählerschaft und 15 ihrer Sitze ein und kam bei den Wahlen 2015 auf noch 27 Abgeordnete. Die FDP konnte ihren Sinkflug 2015 stoppen und stellt seither 33 Abgeordnete (1987 waren es noch 51). Die SP stagniert nach einem Zwischenhoch während den Nullerjahren bei rund 19 Prozent Wähleranteil und 43 Mandaten.
 
-Die Grüne Partei ist seit 1975 im Nationalrat vertreten und erreichte 2007 mit 20 Sitzen und 9.6 Prozent Wähleranteil ihr bislang bestes Ergebnis; heute ist sie mit 11 Sitzen die fünftstärkste Kraft im Bundeshaus. Die beiden Neulinge GLP und BDP sind seit 2015 mit je 7 Sitzen vertreten.
+Die Grüne Partei ist seit 1975 im Nationalrat vertreten und erreichte 2007 mit 20 Sitzen und 9,6 Prozent Wähleranteil ihr bislang bestes Ergebnis; heute ist sie mit 11 Sitzen die fünftstärkste Kraft im Bundeshaus. Die beiden Neulinge GLP und BDP sind seit 2015 mit je sieben Sitzen vertreten.
 
 <section><h6>CHART</h6>
 
@@ -127,7 +127,7 @@ Die Grüne Partei ist seit 1975 im Nationalrat vertreten und erreichte 2007 mit 
 
 ### Fragmentierung der Mitte
 
-Stimmenanteile der Parteien bei Nationalratswahlen in %
+Stimmenanteile der Parteien bei Nationalratswahlen in Prozent
 
 ```
 year,party,value
@@ -201,9 +201,9 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 <hr /></section>
 
-Laut Umfragen beeinflusst 2019 vor allem die Sorge um die [Klimakrise](https://github.com/republik/dossier-klimawandel?autoSlug "Dossier: Klimakrise") die Wahl. Gemäss dem [Wahlbarometer von SRF](https://www.srf.ch/news/schweiz/wahlen-2019/wahlbarometer/klimafrage-bleibt-entscheidend-gruene-parteien-auf-rekordkurs) dürfen am 20. Oktober 2019 die Parteien mit ökologischem Schwerpunkt auf höhere Wähleranteile hoffen: den Grünen werden 10.5 Prozent (+3.4 gegenüber 2015) prognostiziert, den Grünliberalen 6.9 Prozent (+2.3). 
+Laut Umfragen beeinflusst 2019 vor allem die Sorge um die [Klimakrise](https://github.com/republik/dossier-klimawandel?autoSlug "Dossier: Klimakrise") die Wahl. Gemäss dem [Wahlbarometer von SRF](https://www.srf.ch/news/schweiz/wahlen-2019/wahlbarometer/klimafrage-bleibt-entscheidend-gruene-parteien-auf-rekordkurs) dürfen am 20. Oktober 2019 die Parteien mit ökologischem Schwerpunkt auf höhere Wähleranteile hoffen: den Grünen werden 10.5 Prozent (+3,4 gegenüber 2015) prognostiziert, den Grünliberalen 6,9 Prozent (+2,3). 
 
-Auf bürgerlicher Seite muss die SVP mit empfindlichen Verlusten rechnen, bleibt aber mit 26.8% (–2.6) die mit Abstand grösste Partei im Land. Die CVP wird voraussichtlich ihren langsamen Niedergang fortsetzen, während FDP und SP beide weiterhin stagnieren.
+Auf bürgerlicher Seite muss die SVP mit empfindlichen Verlusten rechnen, bleibt aber mit 26,8 Prozent (–2.6) die mit Abstand grösste Partei im Land. Die CVP wird voraussichtlich ihren langsamen Niedergang fortsetzen, während FDP und SP beide weiterhin stagnieren.
 
 <section><h6>CHART</h6>
 
@@ -258,7 +258,7 @@ Quelle: [Wahlbarometer SRF](https://www.srf.ch/news/schweiz/wahlen-2019/wahlbaro
 
 Der Ständerat vertritt die Interessen der Kantone auf Bundesebene. Jeder Kanton entsendet zwei Abgeordnete, jeder Halbkanton einen. Bei der Wahl der Mitglieder hat die Persönlichkeit des Kandidaten oft mehr Gewicht als der Parteizugehörigkeit.
 
-Bemerkenswert ist der Aufstieg der SP im «Stöckli»: Seit 1919 ist die Anzahl ihrer Ständerätinnen von Null auf heute 12 angewachsen. Markant ist auch hier der Niedergang der CVP, die seit ihrem besten Ergebnis im Jahr 1987 6 Sitze verloren hat.
+Bemerkenswert ist der Aufstieg der SP im «Stöckli»: Seit 1919 ist die Anzahl ihrer Ständerätinnen von Null auf heute zwölf angewachsen. Markant ist auch hier der Niedergang der CVP, die seit ihrem besten Ergebnis im Jahr 1987 sechs Sitze verloren hat.
 
 Seit 2007 haben sich die Grenzen in der kleinen Kammer nur wenig verschoben. Zwar ist auch hier ein langsames Erstarken der kleineren Parteien Grüne,  GLP und BDP zu verzeichnen, ob sie sich jedoch auf Dauer halten können, werden erst die kommenden Wahlen zeigen.
 
@@ -372,7 +372,7 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/st
 
 ## Wahlbeteiligung
 
-Die Wahlbeteiligung sank von 1935 bis 1995 stetig. Vor dem Zweiten Weltkrieg liessen sich noch vier Fünftel des Stimmvolkes für die Nationalratswahlen an die Urnen bewegen, 1995 waren es nur noch halb so viele. Seither ist die Wahlbeteiligung wieder leicht gewachsen: 2015 gab wieder über 48% der Wahlberechtigten ihre Stimme ab.
+Die Wahlbeteiligung sank von 1935 bis 1995 stetig. Vor dem Zweiten Weltkrieg liessen sich noch vier Fünftel des Stimmvolkes für die Nationalratswahlen an die Urnen bewegen, 1995 waren es nur noch halb so viele. Seither ist die Wahlbeteiligung wieder leicht gewachsen: 2015 gab wieder über 48 Prozent der Wahlberechtigten ihre Stimme ab.
 
 <section><h6>CHART</h6>
 
@@ -438,7 +438,7 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 ## Ausblick
 
-Die erste Session der 51. Legislatur der Bundesversammlung (2019–2023) wird vom 2. bis 20. Dezember stattfinden. Am 11. Dezember steht voraussichtlich ein wichtiges Traktandum an: Die Gesamterneuerungswahl des Bundesrates. Aber auch andere Herausforderungen sorgen dafür, dass dem Parlament in den nächsten Jahren die Arbeit nicht ausgeht: [Klima, Digitalisierung, Gesundheit, Renten, Europa, Gleichstellung, Energiepolitik](https://github.com/republik/article-klimapolitik?autoSlug "Die grosse Abrechnung") – die Liste ist nicht vollständig.
+Die erste Session der 51. Legislatur der Bundesversammlung (2019–2023) wird vom 2. bis 20. Dezember stattfinden. Am 11. Dezember steht voraussichtlich ein wichtiges Traktandum an: Die Gesamt­erneuerungs­wahl des Bundesrates. Aber auch andere Herausforderungen sorgen dafür, dass dem Parlament in den nächsten Jahren die Arbeit nicht ausgeht: [Klima, Digitalisierung, Gesundheit, Renten, Europa, Gleichstellung, Energiepolitik](https://github.com/republik/article-klimapolitik?autoSlug "Die grosse Abrechnung") – die Liste ist nicht vollständig.
 
 <section><h6>INFOBOX</h6>
 
