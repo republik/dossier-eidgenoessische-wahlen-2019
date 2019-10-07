@@ -480,8 +480,8 @@ Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beträg
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -750,8 +750,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -897,8 +897,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -1037,7 +1037,7 @@ Von [Urs Bruderer](/~ubruderer), 27.03.2019
   "formatColor": "#08809A",
   "onlyImage": false,
   "url": "https://github.com/republik/article-chancenloses-chancenland?autoSlug",
-  "kind": "opinion",
+  "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
   "formatUrl": "https://github.com/republik/format-binswanger?autoSlug",
@@ -1072,7 +1072,7 @@ Von [Daniel Binswanger](/~dbinswanger), 07.09.2019
   "formatColor": "#08809A",
   "onlyImage": false,
   "url": "https://github.com/republik/article-der-hitzesommer-waehlt-mit?autoSlug",
-  "kind": "opinion",
+  "kind": "editorial",
   "center": false,
   "textPosition": "topleft",
   "formatUrl": "https://github.com/republik/format-binswanger?autoSlug",
