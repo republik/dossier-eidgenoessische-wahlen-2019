@@ -480,8 +480,8 @@ Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beträg
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -728,10 +728,10 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
   "props": {
     "item": {
       "color": "#fff",
-      "header": "Aus der Redaktion",
       "author": "Von <a title='Sylke Gruhnwald' href='/~sylke'>Sylke Gruhnwald</a>, <a href='/~tpreusse'>Thomas Preusse</a> und <a title='Patrick Venetz' href='/~pae'>Patrick Venetz</a>, 13.09.2019</p>",
+      "header": "Aus der Redaktion",
       "url": "https://www.republik.ch/2019/09/13/wahltindaer-erklaerung",
-      "title": "Wählerin sucht Kandidat: Spielen Sie unser «Wahltindär»",
+      "title": "Wählerin sucht Kandidat: Spielen Sie «Wahltindär»",
       "split": true,
       "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/magazine/images/5c967281d2b0527a382f6316f89975290c67f45c.png",
       "lead": "Über 4600 Personen kandidieren für den National- und Ständerat. Wofür stehen sie, welche Interessen vertreten sie? Wischen Sie, wie bei einer Dating-App, durch die Profile der Kandidatinnen in Ihrem Kanton.",
@@ -750,8 +750,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -897,8 +897,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
