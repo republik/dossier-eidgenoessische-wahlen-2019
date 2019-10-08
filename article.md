@@ -88,7 +88,7 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
 
 ## Nationalrat
 
-Die grosse Kammer des Parlaments wird seit 1919 im [im Proporzverfahren gewählt](https://www.parlament.ch/blog/Pages/100-jahre-proporz-lange-anlauf-neuen-wahlsystem-erste-wahl-1919.aspx). Der Kanton Zürich entsendet als bevölkerungs­reichster Kanton 35 Abgeordnete, die sechs bevölkerungs­ärmsten Kantone AI, AR, GL, NW, OW und UR jeweils nur einen. 
+Die grosse Kammer des Parlaments wird seit 1919 [im Proporzverfahren gewählt](https://www.parlament.ch/blog/Pages/100-jahre-proporz-lange-anlauf-neuen-wahlsystem-erste-wahl-1919.aspx). Der Kanton Zürich entsendet als bevölkerungs­reichster Kanton 35 Abgeordnete, die sechs bevölkerungs­ärmsten Kantone AI, AR, GL, NW, OW und UR jeweils nur einen. 
 
 In jüngerer Vergangen­heit konnte insbesondere die SVP einen markanten Wählerzuwachs verzeichnen. Seit 1987 steigerte sie ihren Wähler­anteil von 11 auf 29,4 Prozent und kam 2015 auf 65 Nationalrats­sitze – und dies, obwohl sich 2008 die BDP abspaltete. Der SVP gelang es unter anderem, den Schweizer Demokraten und der Auto-Partei ihre Wähler abzujagen (zusammen 8,5 Prozent im Jahr 1991).
 
@@ -441,13 +441,13 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 ## Ausblick
 
-Die erste Session der 51. Legislatur der Bundes­versammlung (2019–2023) wird vom 2. bis 20. Dezember stattfinden. Am 11. Dezember steht voraus­sichtlich ein wichtiges Traktandum an: Die Gesamt­erneuerungs­wahl des Bundesrates. Aber auch andere Heraus­forderungen sorgen dafür, dass dem Parlament in den nächsten Jahren die Arbeit nicht ausgeht: [Klima, Digitalisierung, Gesundheit, Renten, Europa, Gleichstellung, Energiepolitik](https://github.com/republik/article-klimapolitik?autoSlug "Die grosse Abrechnung") – die Liste ist nicht vollständig.
+Die erste Session der 51. Legislatur der Bundes­versammlung (2019–2023) wird vom 2. bis 20. Dezember stattfinden. Am 11. Dezember steht ein wichtiges Traktandum an: die Gesamt­erneuerungs­wahl des Bundesrates. Aber auch andere Heraus­forderungen sorgen dafür, dass dem Parlament in den nächsten Jahren die Arbeit nicht ausgeht: [Klima, Digitalisierung, Gesundheit, Renten, Europa, Gleichstellung, Energiepolitik](https://github.com/republik/article-klimapolitik?autoSlug "Die grosse Abrechnung") – die Liste ist nicht vollständig.
 
 <section><h6>INFOBOX</h6>
 
 ### Zum Dossier Wahlen 2019
 
-Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beträgen zu den eidgenössischen Wahlen am 20. Oktober 2019. Alle Quellen und Original­daten sowie die Methoden ihrer Aufbereitung sind [sind hier dokumentiert](https://github.com/republik/dossier-eidgenoessische-wahlen-2019/blob/master/data/).
+Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beträgen zu den eidgenössischen Wahlen am 20. Oktober 2019. Alle Quellen und Original­daten sowie die Methoden ihrer Aufbereitung [sind hier dokumentiert](https://github.com/republik/dossier-eidgenoessische-wahlen-2019/blob/master/data/).
 
 <hr /></section>
 
