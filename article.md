@@ -73,7 +73,7 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
       {
         "type": "timer",
         "label": "Countdown",
-        "value": 1571652000000,
+        "value": 1571565600000,
         "description": "Zeit bis zur Schliessung der meisten Wahllokale am 20. Oktober um 12:00",
         "color": "#39bbcc"
       }
