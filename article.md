@@ -79,7 +79,7 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
       }
     ]
   },
-  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v2.9",
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/indicators.js?v3.1",
   "size": "breakout"
 }
 ```
