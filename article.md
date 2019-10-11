@@ -463,6 +463,153 @@ Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beträg
   "props": {
     "item": {
       "color": "#000",
+      "author": "Von <a href='/~robeck'>Ronja Beck</a> (Text) und Xaviera Altena (Illustration), 11.10.2019",
+      "url": "https://www.republik.ch/2019/10/11/die-jungen-gehen-zu-wenig-waehlen-und-influencer-so",
+      "title": "Die Jungen gehen zu wenig wählen. Und Influencer so: ¯\\_(ツ)_/¯",
+      "split": true,
+      "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/magazine/images/c72e2ea26581b6828e012ed8161ebf1cd5528650.gif",
+      "lead": "Werden junge Schweizerinnen gefragt, was sie politisch motivieren würde, antworten viele: Influencer. Warum hat die Branche Angst vor der eigenen Macht?",
+      "bgColor": "#F9E537"
+    }
+  },
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.9"
+}
+```
+
+<hr /></section>
+
+<section><h6>CENTER</h6>
+
+<section><h6>ARTICLECOLLECTION</h6>
+
+```
+{
+  "membersOnly": true,
+  "unauthorizedText": ""
+}
+```
+
+## 
+
+<section><h6>TEASERGROUP</h6>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-geht-waehlen-sonst-tun-es-andere?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "xLEDHSddk",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Ihr wollt Wähler? Gebt ihnen Party!
+
+## 
+
+#### In der Schweiz werden Wahlen behandelt wie der Geburtstag einer ungeliebten Grosstante. Es geht auch anders. 
+
+Ein Kommentar von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4), 11.10.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-stimmrechtsalter-16?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "7C_alNbyoe",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Mehr junge Wählende würden Zürich guttun
+
+## 
+
+#### Die Jugend interessiert sich wieder für Politik. Und trotzdem zeichnet sich bei den Zürcher Wahlen eine rekordtiefe Beteiligung ab. Was tun?
+
+Von [Claude  Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": null,
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "NX3j9pfVXg",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# 
+
+## 
+
+#### 
+
+
+
+<hr /></section>
+
+<hr /></section>
+
+<hr /></section>
+
+
+
+<hr /></section>
+
+<section><h6>DYNAMIC_COMPONENT</h6>
+
+```
+{
+  "autoHtml": false,
+  "props": {
+    "item": {
+      "color": "#000",
       "author": "Von <a title='Elia Blülle' href='/~eblulle'>Elia Blülle</a>, <a title='Dennis Bühler' href='/~dbuehler'>Dennis Bühler</a>, <a title='Anja Conzett' href='/~acon'>Anja Conzett</a> (Text) und Reto Sterchi (Bilder), 21.09.2019",
       "url": "https://www.republik.ch/2019/09/21/methode-martullo",
       "title": "Methode Martullo",
