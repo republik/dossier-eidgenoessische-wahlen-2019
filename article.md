@@ -19,7 +19,7 @@ feed: true
 
 ⁣
 
-Letzte Aktualisierung: 08.10.2019
+Letzte Aktualisierung: 11.10.2019
 
 <hr /></section>
 
@@ -204,9 +204,9 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 <hr /></section>
 
-Laut Umfragen beeinflusst 2019 vor allem die Sorge um die [Klimakrise](https://github.com/republik/dossier-klimawandel?autoSlug "Dossier: Klimakrise") die Wahl. Gemäss dem [Wahlbarometer von SRF](https://www.srf.ch/news/schweiz/wahlen-2019/wahlbarometer/klimafrage-bleibt-entscheidend-gruene-parteien-auf-rekordkurs) dürfen am 20. Oktober 2019 die Parteien mit ökologischem Schwer­punkt auf höhere Wähler­anteile hoffen: den Grünen werden 10,5 Prozent (+3,4 gegenüber 2015) prognostiziert, den Grün­liberalen 6,9 Prozent (+2,3). 
+Laut Umfragen beeinflusst 2019 vor allem die Sorge um die [Klimakrise](https://github.com/republik/dossier-klimawandel?autoSlug "Dossier: Klimakrise") die Wahl. Gemäss dem [Wahlbarometer von SRF](https://www.srf.ch/news/schweiz/wahlen-2019/klimafrage-spaltet-die-waehler-liberaler-ueberdruss-und-linke-euphorie) dürfen am 20. Oktober 2019 die Parteien mit ökologischem Schwer­punkt auf höhere Wähler­anteile hoffen: den Grünen werden 10,7 Prozent (+3,6 gegenüber 2015) prognostiziert, den Grün­liberalen 7,3 Prozent (+2,7). 
 
-Auf bürgerlicher Seite muss die SVP mit empfindlichen Verlusten rechnen, bleibt aber mit 26,8 Prozent (–2,6) die mit Abstand grösste Partei im Land. Die CVP wird voraus­sichtlich ihren langsamen Nieder­gang fort­setzen, während FDP und SP beide weiterhin stagnieren.
+Auf bürgerlicher Seite muss die SVP mit empfindlichen Verlusten rechnen, bleibt aber mit 27,3 Prozent (–2,1) die mit Abstand grösste Partei im Land. Den übrigen Parteien werden kleinere Verluste vorhergesagt – insbesodere die Aussichten der FDP haben sich in den letzten Wochen vor der Wahl verdüstert.
 
 <section><h6>CHART</h6>
 
@@ -244,16 +244,16 @@ Prognose der Gewinne und Verluste bei den Wahlen 2019
 
 ```
 year,party,value
-1,GPS,0.034
-2,SP,-0.001
-3,CVP,-0.014
-4,GLP,0.023
-5,FDP,0.003
-6,BDP,-0.015
-7,SVP,-0.026
+1,GPS,0.036
+2,SP,-0.006
+3,CVP,-0.01
+4,GLP,0.027
+5,FDP,-0.012
+6,BDP,-0.013
+7,SVP,-0.021
 ```
 
-Quelle: [Wahlbarometer SRF](https://www.srf.ch/news/schweiz/wahlen-2019/wahlbarometer/klimafrage-bleibt-entscheidend-gruene-parteien-auf-rekordkurs), 05.09.2019. Fehlerbereich +/–1,2 Prozent­punkte. 
+Quelle: [Wahlbarometer SRF](https://www.srf.ch/news/schweiz/wahlen-2019/klimafrage-spaltet-die-waehler-liberaler-ueberdruss-und-linke-euphorie), 09.10.2019. Fehlerbereich +/–1,4 Prozentpunkte. 
 
 <hr /></section>
 
@@ -447,7 +447,7 @@ Die erste Session der 51. Legislatur der Bundes­versammlung (2019–2023) wird
 
 ### Zum Dossier Wahlen 2019
 
-Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beträgen zu den eidgenössischen Wahlen am 20. Oktober 2019. Alle Quellen und Original­daten sowie die Methoden ihrer Aufbereitung [sind hier dokumentiert](https://github.com/republik/dossier-eidgenoessische-wahlen-2019/blob/master/data/).
+Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beträgen zu den eidgenössischen Wahlen am 20. Oktober 2019. Alle Quellen und Original­daten sowie die Methoden ihrer Aufbereitung [sind hier dokumentiert](https://github.com/republik/dossier-eidgenoessische-wahlen-2019) (ein­schliess­lich eines [Protokolls der Aktualisierungen](https://github.com/republik/dossier-eidgenoessische-wahlen-2019/commits/master)).
 
 <hr /></section>
 
