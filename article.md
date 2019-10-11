@@ -520,9 +520,44 @@ Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beträg
 
 ## 
 
-#### In der Schweiz werden Wahlen behandelt wie der Geburtstag einer ungeliebten Grosstante. Es geht auch anders. 
+#### In der Schweiz werden Wahlen behandelt wie der Geburtstag einer ungeliebten Grosstante. Es geht auch anders.
 
 Ein Kommentar von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4), 11.10.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-bern-wappet-sich-gegen-den-angriff-aus-dem-silicon-valley?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "7C_alNbyoe",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Die Schweiz wappnet sich für den Angriff aus dem Silicon Valley
+
+## 
+
+#### Recherchen zeigen: Facebooks «I’m a Voter»-Button hat Wahlen und Abstimmungen in 66 Ländern beeinflusst. Jetzt plant der Konzern, das umstrittene Instrument auch bei den eidgenössischen Wahlen einzusetzen. Bern ist alarmiert. 
+
+Von [Adrienne Fichter](/~adriennefichter), 16.05.2018
 
 <hr /></section>
 
@@ -542,7 +577,7 @@ Ein Kommentar von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4), 11.10.
   "textPosition": "topleft",
   "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
   "titleSize": "standard",
-  "id": "7C_alNbyoe",
+  "id": "NX3j9pfVXg",
   "portrait": true,
   "showImage": true,
   "bgColor": "#fff"
@@ -558,39 +593,6 @@ Ein Kommentar von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4), 11.10.
 #### Die Jugend interessiert sich wieder für Politik. Und trotzdem zeichnet sich bei den Zürcher Wahlen eine rekordtiefe Beteiligung ab. Was tun?
 
 Von [Claude  Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
-
-<hr /></section>
-
-<section><h6>TEASER</h6>
-
-```
-{
-  "reverse": false,
-  "color": "#000",
-  "teaserType": "articleTile",
-  "byline": null,
-  "onlyImage": false,
-  "url": null,
-  "kind": "editorial",
-  "center": false,
-  "textPosition": "topleft",
-  "titleSize": "standard",
-  "id": "NX3j9pfVXg",
-  "portrait": true,
-  "showImage": true,
-  "bgColor": "#fff"
-}
-```
-
-###### 
-
-# 
-
-## 
-
-#### 
-
-
 
 <hr /></section>
 
@@ -631,8 +633,8 @@ Von [Claude  Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -901,8 +903,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -1048,8 +1050,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
