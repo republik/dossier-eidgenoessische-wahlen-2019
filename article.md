@@ -25,7 +25,7 @@ Letzte Aktualisierung: 11.10.2019
 
 <section><h6>CENTER</h6>
 
-Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. Oktober 2019 kandidieren 4663 Personen für die 200 Sitze im Nationalrat; 183 Kandidatinnen bewerben sich für 45 Sitze im Ständerat (Appenzell Inner­rhoden [wählte bereits im April](https://www.parlament.ch/de/biografie/daniel-fässler/4056)).
+Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. Oktober 2019 kandidieren 4663 Personen für die 200 Sitze im Nationalrat; 183 Kandidatinnen bewerben sich für 45 Sitze im Ständerat (Appenzell Inner­rhoden [wählte bereits im April](https://www.parlament.ch/de/biografie/daniel-fässler/4056)).
 
 <section><h6>DYNAMIC_COMPONENT</h6>
 
@@ -90,7 +90,7 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
 
 Die grosse Kammer des Parlaments wird seit 1919 [im Proporzverfahren gewählt](https://www.parlament.ch/blog/Pages/100-jahre-proporz-lange-anlauf-neuen-wahlsystem-erste-wahl-1919.aspx). Der Kanton Zürich entsendet als bevölkerungs­reichster Kanton 35 Abgeordnete, die sechs bevölkerungs­ärmsten Kantone AI, AR, GL, NW, OW und UR jeweils nur einen. 
 
-In jüngerer Vergangen­heit konnte insbesondere die SVP einen markanten Wählerzuwachs verzeichnen. Seit 1987 steigerte sie ihren Wähler­anteil von 11 auf 29,4 Prozent und kam 2015 auf 65 Nationalrats­sitze – und dies, obwohl sich 2008 die BDP abspaltete. Der SVP gelang es unter anderem, den Schweizer Demokraten und der Auto-Partei ihre Wähler abzujagen (zusammen 8,5 Prozent im Jahr 1991).
+In jüngerer Vergangenheit konnte insbesondere die SVP einen markanten Wähler­zuwachs verzeichnen. Seit 1987 steigerte sie ihren Wähler­anteil von 11 auf 29,4 Prozent und kam 2015 auf 65 Nationalrats­sitze – und dies, obwohl sich 2008 die BDP abspaltete. Der SVP gelang es unter anderem, den Schweizer Demokraten und der Auto-Partei ihre Wähler abzujagen (zusammen 8,5 Prozent im Jahr 1991).
 
 Die anderen Bundesrats­parteien mussten in den letzten Jahren teilweise bedrohliche Verluste verzeichnen: Die CVP büsste seit 1987 fast die Hälfte ihrer Wählerschaft und 15 ihrer Sitze ein und kam bei den Wahlen 2015 auf noch 27 Abgeordnete. Die FDP konnte ihren Sink­flug 2015 stoppen und stellt seither 33 Abgeordnete (1987 waren es noch 51). Die SP stagniert nach einem Zwischen­hoch während der Nuller­jahre bei rund 19 Prozent Wähler­anteil und 43 Mandaten.
 
@@ -555,7 +555,7 @@ Ein Kommentar von [Elia Blülle](/~93d6839d-fe3e-491a-bbca-477585e776e4), 11.10.
 
 ## 
 
-#### Recherchen zeigen: Facebooks «I’m a Voter»-Button hat Wahlen und Abstimmungen in 66 Ländern beeinflusst. Jetzt plant der Konzern, das umstrittene Instrument auch bei den eidgenössischen Wahlen einzusetzen. Bern ist alarmiert. 
+#### Recherchen zeigen: Facebooks «I’m a Voter»-Button hat Wahlen und Abstimmungen in 66 Ländern beeinflusst. Jetzt plant der Konzern, das umstrittene Instrument auch bei den eidgenössischen Wahlen einzusetzen. Bern ist alarmiert.
 
 Von [Adrienne Fichter](/~adriennefichter), 16.05.2018
 
