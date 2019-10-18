@@ -19,7 +19,7 @@ feed: true
 
 ⁣
 
-Letzte Aktualisierung: 11.10.2019
+Letzte Aktualisierung: 19.10.2019
 
 <hr /></section>
 
