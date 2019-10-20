@@ -25,6 +25,8 @@ Letzte Aktualisierung: 19.10.2019
 
 <section><h6>CENTER</h6>
 
+Am 20. Oktober wählte die Schweiz ein neues Parlament. 
+
 Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. Oktober 2019 kandidieren 4663 Personen für die 200 Sitze im Nationalrat; 183 Kandidatinnen bewerben sich für 45 Sitze im Ständerat (Appenzell Inner­rhoden [wählte bereits im April](https://www.parlament.ch/de/biografie/daniel-fässler/4056)).
 
 <section><h6>DYNAMIC_COMPONENT</h6>
@@ -80,6 +82,50 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
 <hr /></section>
 
 ## Nationalrat
+
+<section><h6>CHART</h6>
+
+```
+{
+  "type": "Hemicycle",
+  "unit": "Sitze"
+}
+```
+
+### 
+
+
+
+```
+label,year,value
+SP,2015,39
+PdA,2015,1
+GPS,2015,27
+GLP,2015,15
+EVP,2015,3
+CVP,2015,26
+BDP,2015,3
+FDP,2015,29
+Lega,2015,1
+CSP,2015,1
+MCR,2015,1
+SVP,2015,54
+SP,2011,46
+GPS,2011,15
+glp,2011,12
+EVP,2011,2
+CVP,2011,28
+BDP,2011,9
+FDP,2011,30
+Lega,2011,2
+CSP,2011,1
+MCR,2011,1
+SVP,2011,65
+```
+
+
+
+<hr /></section>
 
 Die grosse Kammer des Parlaments wird seit 1919 [im Proporzverfahren gewählt](https://www.parlament.ch/blog/Pages/100-jahre-proporz-lange-anlauf-neuen-wahlsystem-erste-wahl-1919.aspx). Der Kanton Zürich entsendet als bevölkerungs­reichster Kanton 35 Abgeordnete, die sechs bevölkerungs­ärmsten Kantone AI, AR, GL, NW, OW und UR jeweils nur einen. 
 
@@ -626,8 +672,8 @@ Von [Claude  Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -896,8 +942,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -1043,8 +1089,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
