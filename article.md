@@ -19,7 +19,7 @@ feed: true
 
 ⁣
 
-Letzte Aktualisierung: 19.10.2019
+Letzte Aktualisierung: 21.10.2019
 
 <hr /></section>
 
@@ -48,7 +48,7 @@ Letzte Aktualisierung: 19.10.2019
         "label": "Frauenanteil",
         "value": "42%",
         "unit": "",
-        "description": "Frauenanteil der Gewählten für den Nationalrat",
+        "description": "Frauenanteil bei den Gewählten in den Nationalrat",
         "source": {
           "name": "BFS",
           "url": "https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/6c6d3453-0aa3-4e2b-89b3-ed100ea5acee",
@@ -57,26 +57,26 @@ Letzte Aktualisierung: 19.10.2019
         "color": "#39bbcc"
       },
       {
-        "label": "Stimmberechtigte",
-        "value": "5,4 Mio.",
+        "label": "Wahlberechtigte",
+        "value": "5 457 940",
         "unit": "",
-        "description": "Anzahl Stimmberechtigte",
+        "description": "Anzahl Wahlberechtigte",
         "source": {
           "name": "BFS",
-          "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/abstimmungen/jahr-2019.assetdetail.8126483.html",
-          "date": "19.05.2019"
+          "url": "https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/3be5b54e-8c21-40c9-8e36-fbffb5638352",
+          "date": "20.10.2019"
         },
         "color": "#39bbcc"
       },
       {
-        "label": "Stimmbeteiligung",
-        "value": "47,3%",
+        "label": "Wahlbeteiligung",
+        "value": "45,1%",
         "unit": "",
-        "description": "Anzahl Stimmberechtigte",
+        "description": "Prozent der Wahlberechtigten",
         "source": {
           "name": "BFS",
-          "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/abstimmungen/jahr-2019.assetdetail.8126483.html",
-          "date": "19.05.2019"
+          "url": "https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/3be5b54e-8c21-40c9-8e36-fbffb5638352",
+          "date": "20.10.2019"
         },
         "color": "#39bbcc"
       }
@@ -177,10 +177,18 @@ Quelle: BFS.
 
 ### Wähleranteile bei Nationalratswahlen
 
-Eidgenössische Wahlen 2019
+Bei eidgenössischen Wahlen seit 1987
 
 ```
 year,party,value
+2019,GPS,0.132
+2019,SP,0.168
+2019,CVP,0.113
+2019,GLP,0.078
+2019,FDP,0.151
+2019,BDP,0.0244
+2019,SVP,0.256
+2019,Übrige,0.078
 2015,GPS,0.070571
 2015,SP,0.188410
 2015,CVP,0.116459
@@ -303,9 +311,9 @@ parteilos,2015,1
 
 ## Wahlbeteiligung
 
-Bei den Wahlen im Oktober 2019 gaben 47,5 Prozent der Wahlberechtigten ihre Stimme ab – eine .
+Bei den Wahlen im Oktober 2019 gaben 45,1 Prozent der Wahlberechtigten ihre Stimme ab – 3,1 Prozentpunkte weniger als bei den Wahlen 2015.
 
-Die Wahlbeteiligung sank von 1935 bis 1995 stetig. Vor dem Zweiten Weltkrieg liessen sich noch vier Fünftel des Stimm­volkes für die Nationalrats­wahlen an die Urnen bewegen, 1995 waren es nur noch halb so viele. Seither ist die Wahl­beteiligung wieder leicht gewachsen: 2015 gaben wieder über 48 Prozent der Wahl­berechtigten ihre Stimme ab.
+Die Wahlbeteiligung sank von 1935 bis 1995 stetig. Vor dem Zweiten Weltkrieg liessen sich noch vier Fünftel des Stimm­volkes für die Nationalrats­wahlen an die Urnen bewegen, 1995 waren es nur noch halb so viele. Bis zu den Wahlen 2015 zeichnete sich wieder eine leichte Erholung ab – damals gaben wieder 48,5 Prozent der Wahl­berechtigten ihre Stimme ab.
 
 <section><h6>CHART</h6>
 
@@ -336,9 +344,9 @@ Die Wahlbeteiligung sank von 1935 bis 1995 stetig. Vor dem Zweiten Weltkrieg lie
 }
 ```
 
-### Plateau oder Trendwende?
+### Wahlbeteiligung
 
-Wahlbeteiligung bei Nationalratswahlen seit 1935
+Nationalratswahlen seit 1935
 
 ```
 year,value
@@ -363,9 +371,10 @@ year,value
 2007,48.2761
 2011,48.5048
 2015,48.5100
+2019,45.1
 ```
 
-Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/nationalratswahlen/wahlbeteiligung.assetdetail.217210.html).
+Quelle: [BFS](https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/3be5b54e-8c21-40c9-8e36-fbffb5638352).
 
 <hr /></section>
 
@@ -563,8 +572,8 @@ Von [Claude  Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -833,8 +842,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -980,8 +989,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
