@@ -91,13 +91,13 @@ Letzte Aktualisierung: 19.10.2019
 
 ## Nationalrat
 
-Im Nationalrat verzeichneten die Parteien mit ökologischem Schwerpunkt deutliche Sitzgewinne: Die Grüne Partei erzielte mit einem Plus von 5,9 Prozentpunkten ihr bislang bestes Ergebnis und konnte 16 Sitze – mit 27 Sitzen wird sie so zur viertstärksten Kraft im Nationalrat. Die Grünliberalen gewannen 8 Sitze hinzu und entsenden neu 15 Vertreter in die grosse Kammer. Beide Parteien schnitten weit besser ab als in [der letzten Umfrage vor der Wahl](https://www.srf.ch/news/schweiz/wahlen-2019/klimafrage-spaltet-die-waehler-liberaler-ueberdruss-und-linke-euphorie).
+Im Nationalrat verzeichneten die Parteien mit ökologischem Schwerpunkt massive Sitzgewinne: Die Grüne Partei erzielte mit einem Plus von 5,9 Prozentpunkten ihr bislang bestes Ergebnis. Sie gewann 16 Sitze dazu. Mit 27 Sitzen wurde sie so zur viertstärksten Kraft im Nationalrat. Die Grünliberalen gewannen 8 Sitze hinzu und entsenden neu 15 Vertreter in die grosse Kammer. Beide Parteien schnitten weit besser ab als in [der letzten Umfrage vor der Wahl](https://www.srf.ch/news/schweiz/wahlen-2019/klimafrage-spaltet-die-waehler-liberaler-ueberdruss-und-linke-euphorie).
 
-Auf der Verliererseite stand in erster Linie die SVP: Sie büsste 11 Sitze ein und erreichte neu nur noch 54 Nationalräte – gleich viele wie im Jahr 2011. Die SVP fuhr somit ihr schlechtestes Resultat seit 2003 ein und beendete eine langjährige Erfolgssträhne, in der sie ihren Wähleranteil 2015 auf 29,4 Prozent steigern konnte – und dies, obwohl sich 2008 die BDP abspaltete. Letztere verlor bei den Wahlen vier Sitze und erreichte mit den verbleibenden drei Nationalräten nicht mehr Fraktionsstärke.
+Auf der Verliererseite stand in erster Linie die SVP: Sie büsste 11 Sitze ein und erreichte neu nur noch 54 Nationalräte – gleich viele wie im Jahr 2011. Die SVP fuhr somit ihr schlechtestes Resultat seit 2003 ein und beendete eine langjährige Erfolgssträhne, in der sie ihren Wähleranteil 2015 auf 29,4 Prozent steigern konnte – und dies, obwohl sich 2008 die BDP von ihr abgespaltet hatte. Letztere verlor bei den Wahlen vier Sitze und erreichte mit den verbleibenden drei Nationalräten nicht mehr Fraktionsstärke.
 
 Die SP sank in der Wählergunst unerwartet stark auf 16.6 Prozent (–2.2) und erreicht mit 38 Sitzen (–5) ihr schlechtestes Resultat seit der Einführung der Proporzwahl im Jahr 1919, als sie mit 41 Sitzen in den Nationalrat einzog.
 
-Auch die FDP musste starke Verluste hinnehmen: Sie verlor 1.1 Prozentpunkte und hat mit 29 Abgeordneten nur einen mehr als die Grünen. Damit setzten die Freisinnigen ihren Niedergang fort, der sie von 60 Sitzen im Jahr 1919 auf nur noch 27 schrumpfen liess. Die CVP verlor drei Sitze landete mit 25 Abgeordneten ebenfalls auf einem neuen Tiefststand – dies trotz einem moderaten Verlust von 0,2 Prozentpunkten.
+Auch die FDP musste starke Verluste hinnehmen: Sie verlor 1.1 Prozentpunkte und hält mit 29 Abgeordneten noch einen Sitz mehr als die Grünen. Damit setzten die Freisinnigen ihren Niedergang fort, der sie von 60 Sitzen im Jahr 1919 auf nur noch 27 schrumpfen liess. Die CVP verlor drei Sitze und landete mit 25 Abgeordneten ebenfalls auf einem neuen Tiefststand – dies trotz einem moderaten Verlust von 0,2 Prozentpunkten.
 
 <section><h6>CHART</h6>
 
@@ -253,7 +253,7 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 ## Ständerat
 
-Im Ständerat sind fast die Hälfte der Sitze noch nicht endgültig entschieden.
+Im Ständerat sind fast die Hälfte der Sitze noch nicht endgültig entschieden. Diese werden in zweiten Wahlgängen bis Ende November besetzt. Es ist zu erwarten, dass die kleine Kammer weiterhin bürgerlich geprägt sein wird. Ebenfalls zeichnet sich ab, dass deutlich mehr Frauen im neuen Ständerat Einsitz nehmen werden.
 
 <section><h6>CHART</h6>
 
@@ -371,7 +371,7 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 ## Ausblick
 
-Die erste Session der 51. Legislatur der Bundes­versammlung (2019–2023) wird vom 2. bis 20. Dezember stattfinden. Am 11. Dezember steht ein wichtiges Traktandum an: die Gesamt­erneuerungs­wahl des Bundesrates. Aber auch andere Heraus­forderungen sorgen dafür, dass dem Parlament in den nächsten Jahren die Arbeit nicht ausgeht: [Klima, Digitalisierung, Gesundheit, Renten, Europa, Gleichstellung, Energiepolitik](https://github.com/republik/article-klimapolitik?autoSlug "Die grosse Abrechnung") – die Liste ist nicht vollständig.
+Die erste Session der 51. Legislatur der Bundes­versammlung (2019–2023) wird vom 2. bis 20. Dezember stattfinden. Am 11. Dezember steht ein wichtiges Traktandum an: die Gesamt­erneuerungs­wahl des Bundesrates. Zahlreiche Heraus­forderungen sorgen dafür, dass dem Parlament in den nächsten Jahren die Arbeit nicht ausgeht: [Klima, Digitalisierung, Gesundheit, Renten, Europa, Gleichstellung, Energiepolitik](https://github.com/republik/article-klimapolitik?autoSlug "Die grosse Abrechnung") – die Liste ist nicht abschliessend.
 
 <section><h6>INFOBOX</h6>
 
@@ -563,8 +563,8 @@ Von [Claude  Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -833,8 +833,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -980,8 +980,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
