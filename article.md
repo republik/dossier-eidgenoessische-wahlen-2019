@@ -69,13 +69,6 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
           "date": "19.05.2019"
         },
         "color": "#39bbcc"
-      },
-      {
-        "type": "timer",
-        "label": "Countdown",
-        "value": 1571565600000,
-        "description": "Zeit bis zur Schliessung der meisten Wahllokale am 20. Oktober um 12:00",
-        "color": "#39bbcc"
       }
     ]
   },
@@ -633,8 +626,8 @@ Von [Claude  Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -903,8 +896,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -1050,8 +1043,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
