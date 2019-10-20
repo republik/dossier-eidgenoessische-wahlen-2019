@@ -25,10 +25,6 @@ Letzte Aktualisierung: 19.10.2019
 
 <section><h6>CENTER</h6>
 
-Am 20. Oktober wählte die Schweiz ein neues Parlament. 
-
-Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. Oktober 2019 kandidieren 4663 Personen für die 200 Sitze im Nationalrat; 183 Kandidatinnen bewerben sich für 45 Sitze im Ständerat (Appenzell Inner­rhoden [wählte bereits im April](https://www.parlament.ch/de/biografie/daniel-fässler/4056)).
-
 <section><h6>DYNAMIC_COMPONENT</h6>
 
 ```
@@ -49,7 +45,7 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
         "color": "#39bbcc"
       },
       {
-        "label": "Kandidatinnen",
+        "label": "Frauenanteil",
         "value": "40,3%",
         "unit": "",
         "description": "Frauenanteil bei den Kandidierenden für den Nationalrat",
@@ -71,6 +67,18 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
           "date": "19.05.2019"
         },
         "color": "#39bbcc"
+      },
+      {
+        "label": "Stimmbeteiligung",
+        "value": "47,3%",
+        "unit": "",
+        "description": "Anzahl Stimmberechtigte",
+        "source": {
+          "name": "BFS",
+          "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/abstimmungen/jahr-2019.assetdetail.8126483.html",
+          "date": "19.05.2019"
+        },
+        "color": "#39bbcc"
       }
     ]
   },
@@ -83,6 +91,12 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
 
 ## Nationalrat
 
+Im Nationalrat verzeichneten die Parteien mit ökologischem Schwerpunkt deutliche Sitzgewinne: Die Grüne Partei konnte 16 Sitze zulegen und verfügt neu über 27 Abgeordnete; die Grünliberalen gewannen 8 Sitze hinzu und kommen damit auf 15 Vertreter in der grossen Kammer. Damit schnitten beide Parteien noch besser ab als in den Umfragen.
+
+Auf der Verliererseite stand in erster Linie die SVP: Sie büsste 11 Sitze ein und hat neu nur noch 54 Nationalräte – gleich viele wie im Jahr 2011. Die SVP fuhr somit ihr schlechtestes Resultat seit 2003 ein und beendete eine langjährige Erfolgssträhne, in der sie ihren Wähleranteil 2015 auf 29,4 Prozent steigern konnte – und dies, obwohl sich 2008 die BDP abspaltete. Letztere verlor bei den Wahlen 4 Sitze und erreichte mit den verbleibenden drei Nationalräten nicht mehr Fraktionsstärke.
+
+Die SP sank in der Wählergunst unerwartet stark auf 16.6 Prozent (–2.2) und erreicht mit 38 Sitzen (–5) ihr schlechtestes Resultat seit der Einführung der Proporzwahl im Jahr 1919, sie mit 41 Sitzen in den Nationalrat einzog.
+
 <section><h6>CHART</h6>
 
 ```
@@ -92,9 +106,9 @@ Die Schweiz wählt alle vier Jahre ein neues Parlament. Bei den Wahlen am 20. O
 }
 ```
 
-### 
+### Sitzverteilung im Nationalrat
 
-
+Eidgenössische Wahlen 2019
 
 ```
 label,year,value
@@ -123,17 +137,9 @@ MCR,2011,1
 SVP,2011,65
 ```
 
-
+Quelle: BFS.
 
 <hr /></section>
-
-Die grosse Kammer des Parlaments wird seit 1919 [im Proporzverfahren gewählt](https://www.parlament.ch/blog/Pages/100-jahre-proporz-lange-anlauf-neuen-wahlsystem-erste-wahl-1919.aspx). Der Kanton Zürich entsendet als bevölkerungs­reichster Kanton 35 Abgeordnete, die sechs bevölkerungs­ärmsten Kantone AI, AR, GL, NW, OW und UR jeweils nur einen. 
-
-In jüngerer Vergangenheit konnte insbesondere die SVP einen markanten Wähler­zuwachs verzeichnen. Seit 1987 steigerte sie ihren Wähler­anteil von 11 auf 29,4 Prozent und kam 2015 auf 65 Nationalrats­sitze – und dies, obwohl sich 2008 die BDP abspaltete. Der SVP gelang es unter anderem, den Schweizer Demokraten und der Auto-Partei ihre Wähler abzujagen (zusammen 8,5 Prozent im Jahr 1991).
-
-Die anderen Bundesrats­parteien mussten in den letzten Jahren teilweise bedrohliche Verluste verzeichnen: Die CVP büsste seit 1987 fast die Hälfte ihrer Wählerschaft und 15 ihrer Sitze ein und kam bei den Wahlen 2015 auf noch 27 Abgeordnete. Die FDP konnte ihren Sink­flug 2015 stoppen und stellt seither 33 Abgeordnete (1987 waren es noch 51). Die SP stagniert nach einem Zwischen­hoch während der Nuller­jahre bei rund 19 Prozent Wähler­anteil und 43 Mandaten.
-
-Die Grüne Partei ist seit 1975 im National­rat vertreten und erreichte 2007 mit 20 Sitzen und 9,6 Prozent Wähler­anteil ihr bislang bestes Ergebnis; heute ist sie mit 11 Sitzen die fünft­stärkste Kraft im Bundes­haus. Die beiden Neulinge GLP und BDP sind seit 2015 mit je 7 Sitzen vertreten.
 
 <section><h6>CHART</h6>
 
@@ -167,12 +173,20 @@ Die Grüne Partei ist seit 1975 im National­rat vertreten und erreichte 2007 mi
 }
 ```
 
-### Fragmentierung der Mitte
+### Fragmentierung der Parteien
 
 Stimmenanteile der Parteien bei Nationalratswahlen in Prozent
 
 ```
 year,party,value
+2019,GPS,0.13
+2019,SP,0.165
+2019,CVP,0.118
+2019,GLP,0.076
+2019,FDP,0.155
+2019,BDP,0.024
+2019,SVP,0.256
+2019,Übrige,0.079438
 2015,GPS,0.070571
 2015,SP,0.188410
 2015,CVP,0.116459
