@@ -46,13 +46,13 @@ Letzte Aktualisierung: 19.10.2019
       },
       {
         "label": "Frauenanteil",
-        "value": "40,3%",
+        "value": "42%",
         "unit": "",
-        "description": "Frauenanteil bei den Kandidierenden für den Nationalrat",
+        "description": "Frauenanteil der Gewählten für den Nationalrat",
         "source": {
           "name": "BFS",
-          "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/kataloge-datenbanken/tabellen.assetdetail.9466387.html",
-          "date": "30.09.2019"
+          "url": "https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/6c6d3453-0aa3-4e2b-89b3-ed100ea5acee",
+          "date": "20.10.2019"
         },
         "color": "#39bbcc"
       },
@@ -91,13 +91,13 @@ Letzte Aktualisierung: 19.10.2019
 
 ## Nationalrat
 
-Im Nationalrat verzeichneten die Parteien mit ökologischem Schwerpunkt deutliche Sitzgewinne: Die Grüne Partei erzielte mit einem Plus von 5,9 Prozentpunkten ihr bislang bestes Ergebnis und konnte 16 Sitze – mit 27 Sitzen wird sie so zur viertstärksten Kraft im Nationalrat. Die Grünliberalen gewannen 8 Sitze hinzu und entsenden neu  15 Vertreter in die grosse Kammer. Beide Parteien schnitten weit besser ab als in [der letzten Umfrage vor der Wahl](https://www.srf.ch/news/schweiz/wahlen-2019/klimafrage-spaltet-die-waehler-liberaler-ueberdruss-und-linke-euphorie).
+Im Nationalrat verzeichneten die Parteien mit ökologischem Schwerpunkt deutliche Sitzgewinne: Die Grüne Partei erzielte mit einem Plus von 5,9 Prozentpunkten ihr bislang bestes Ergebnis und konnte 16 Sitze – mit 27 Sitzen wird sie so zur viertstärksten Kraft im Nationalrat. Die Grünliberalen gewannen 8 Sitze hinzu und entsenden neu 15 Vertreter in die grosse Kammer. Beide Parteien schnitten weit besser ab als in [der letzten Umfrage vor der Wahl](https://www.srf.ch/news/schweiz/wahlen-2019/klimafrage-spaltet-die-waehler-liberaler-ueberdruss-und-linke-euphorie).
 
-Auf der Verliererseite stand in erster Linie die SVP: Sie büsste 11 Sitze ein und hat neu nur noch 54 Nationalräte – gleich viele wie im Jahr 2011. Die SVP fuhr somit ihr schlechtestes Resultat seit 2003 ein und beendete eine langjährige Erfolgssträhne, in der sie ihren Wähleranteil 2015 auf 29,4 Prozent steigern konnte – und dies, obwohl sich 2008 die BDP abspaltete. Letztere verlor bei den Wahlen 4 Sitze und erreichte mit den verbleibenden drei Nationalräten nicht mehr Fraktionsstärke.
+Auf der Verliererseite stand in erster Linie die SVP: Sie büsste 11 Sitze ein und erreichte neu nur noch 54 Nationalräte – gleich viele wie im Jahr 2011. Die SVP fuhr somit ihr schlechtestes Resultat seit 2003 ein und beendete eine langjährige Erfolgssträhne, in der sie ihren Wähleranteil 2015 auf 29,4 Prozent steigern konnte – und dies, obwohl sich 2008 die BDP abspaltete. Letztere verlor bei den Wahlen vier Sitze und erreichte mit den verbleibenden drei Nationalräten nicht mehr Fraktionsstärke.
 
 Die SP sank in der Wählergunst unerwartet stark auf 16.6 Prozent (–2.2) und erreicht mit 38 Sitzen (–5) ihr schlechtestes Resultat seit der Einführung der Proporzwahl im Jahr 1919, als sie mit 41 Sitzen in den Nationalrat einzog.
 
-Auch die FDP musste starke Verluste hinnehmen: Sie verlor 1.1 Prozentpunkte und hat mit 29 Abgeordneten nur einen mehr als die Grünen. Damit setzten die Freisinnigen ihren Niedergang fort, der sie von 60 Sitzen im Jahr 1919 auf neu nur noch 27 brachte. Die CVP verlor drei Sitze landete mit 25 Abgeordneten ebenfalls auf einem neuen Tiefststand – dies trotz einem moderaten Verlust von 0,2 Prozentpunkten.
+Auch die FDP musste starke Verluste hinnehmen: Sie verlor 1.1 Prozentpunkte und hat mit 29 Abgeordneten nur einen mehr als die Grünen. Damit setzten die Freisinnigen ihren Niedergang fort, der sie von 60 Sitzen im Jahr 1919 auf nur noch 27 schrumpfen liess. Die CVP verlor drei Sitze landete mit 25 Abgeordneten ebenfalls auf einem neuen Tiefststand – dies trotz einem moderaten Verlust von 0,2 Prozentpunkten.
 
 <section><h6>CHART</h6>
 
@@ -114,29 +114,29 @@ Eidgenössische Wahlen 2019
 
 ```
 label,year,value
-SP,2015,39
+SP,2019,39
+Pda,2019,1,
+Sol,2019,1
+GPS,2019,28,
+GLP,2019,16
+EVP,2019,3
+CVP,2019,25
+BDP,2019,3
+FDP,2019,29
+Lega,2019,1
+EDU,2019,1
+SVP,2019,53
+SP,2015,43
 PdA,2015,1
-GPS,2015,27
-GLP,2015,15
-EVP,2015,3
-CVP,2015,26
-BDP,2015,3
-FDP,2015,29
-Lega,2015,1
-CSP,2015,1
+GPS,2015,11
+GLP,2015,7
+EVP,2015,2
+CVP,2015,27
+BDP,2015,7
+FDP,2015,33
+Lega,2015,2
 MCR,2015,1
-SVP,2015,54
-SP,2011,46
-GPS,2011,15
-glp,2011,12
-EVP,2011,2
-CVP,2011,28
-BDP,2011,9
-FDP,2011,30
-Lega,2011,2
-CSP,2011,1
-MCR,2011,1
-SVP,2011,65
+SVP,2015,65
 ```
 
 Quelle: BFS.
@@ -175,20 +175,12 @@ Quelle: BFS.
 }
 ```
 
-### Fragmentierung der Parteien
+### Wähleranteile bei Nationalratswahlen
 
-Stimmenanteile der Parteien bei Nationalratswahlen in Prozent
+Eidgenössische Wahlen 2019
 
 ```
 year,party,value
-2019,GPS,0.13
-2019,SP,0.165
-2019,CVP,0.118
-2019,GLP,0.076
-2019,FDP,0.155
-2019,BDP,0.024
-2019,SVP,0.256
-2019,Übrige,0.079438
 2015,GPS,0.070571
 2015,SP,0.188410
 2015,CVP,0.116459
@@ -261,121 +253,57 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 ## Ständerat
 
-Der Ständerat vertritt die Interessen der Kantone auf Bundes­ebene. Jeder Kanton entsendet zwei Abgeordnete, jeder Halb­kanton einen. Bei der Wahl der Mitglieder hat die Persönlich­keit des Kandidaten oft mehr Gewicht als die Partei­zugehörigkeit.
-
-Bemerkenswert ist der Aufstieg der SP im «Stöckli»: Seit 1991 ist die Anzahl ihrer Stände­rätinnen von 3 auf heute 12 angewachsen. Markant ist auch hier der Nieder­gang der CVP, die seit ihrem besten Ergebnis im Jahr 1987 6 Sitze verloren hat (bei der Wahl des Nachfolgers von Karin Keller-Sutter gewann sie wieder einen hinzu).
-
-Seit 2007 haben sich die Grenzen in der kleinen Kammer nur wenig verschoben. Zwar ist auch hier ein langsames Erstarken der kleineren Parteien Grüne, GLP und BDP zu verzeichnen, ob sie sich jedoch auf Dauer halten können, werden erst die kommenden Wahlen zeigen.
+Im Ständerat sind fast die Hälfte der Sitze noch nicht endgültig entschieden.
 
 <section><h6>CHART</h6>
 
 ```
 {
-  "type": "Bar",
-  "y": "year",
-  "color": "party",
-  "colorLegend": true,
-  "colorSort": "none",
-  "sort": "none",
-  "domain": [
-    0,
-    46
-  ],
-  "xTicks": [
-    0,
-    46
-  ],
-  "colorRange": [
-    "#3CAD00",
-    "#d62728",
-    "#ff7f0e",
-    "#BCBD21",
-    "#2077B4",
-    "#FFDD00",
-    "#2BA02B",
-    "#bbb"
-  ],
-  "size": "narrow"
+  "type": "Hemicycle",
+  "inlineLabelThreshold": 4,
+  "size": "narrow",
+  "colorMap": {
+    "SP": "#F0554D",
+    "GPS": "#84B547",
+    "CVP": "#D6862B",
+    "BDP": "#E6C820",
+    "FDP": "#3872B5",
+    "SVP": "#4B8A3E",
+    "PARTEILOS": "#A09E9C",
+    "OFFEN": "#eee"
+  }
 }
 ```
 
-### Bürgerliche Dominanz der kleinen Kammer
+### «Stöckli» noch offen
 
-Sitzverteilung im Ständerat nach Parteien
+Sitzverteilung im Ständerat
 
 ```
-year,party,value
-2015,GPS,1.000000
-2015,SP,12.000000
-2015,CVP,13.000000
-2015,GLP,0.000000
-2015,FDP,13.000000
-2015,BDP,1.000000
-2015,SVP,5.000000
-2015,Übrige,1.000000
-2011,GPS,2.000000
-2011,SP,11.000000
-2011,CVP,13.000000
-2011,GLP,2.000000
-2011,FDP,11.000000
-2011,BDP,1.000000
-2011,SVP,5.000000
-2011,Übrige,1.000000
-2007,GPS,2.000000
-2007,SP,9.000000
-2007,CVP,15.000000
-2007,GLP,1.000000
-2007,FDP,12.000000
-2007,BDP,0.000000
-2007,SVP,7.000000
-2007,Übrige,0.000000
-2003,GPS,0.000000
-2003,SP,9.000000
-2003,CVP,15.000000
-2003,GLP,0.000000
-2003,FDP,14.000000
-2003,BDP,0.000000
-2003,SVP,8.000000
-2003,Übrige,0.000000
-1999,GPS,0.000000
-1999,SP,6.000000
-1999,CVP,15.000000
-1999,GLP,0.000000
-1999,FDP,17.000000
-1999,BDP,0.000000
-1999,SVP,7.000000
-1999,Übrige,1.000000
-1995,GPS,0.000000
-1995,SP,5.000000
-1995,CVP,16.000000
-1995,GLP,0.000000
-1995,FDP,17.000000
-1995,BDP,0.000000
-1995,SVP,5.000000
-1995,Übrige,3.000000
-1991,GPS,0.000000
-1991,SP,3.000000
-1991,CVP,16.000000
-1991,GLP,0.000000
-1991,FDP,18.000000
-1991,BDP,0.000000
-1991,SVP,4.000000
-1991,Übrige,5.000000
-1987,GPS,0.000000
-1987,SP,5.000000
-1987,CVP,19.000000
-1987,GLP,0.000000
-1987,FDP,14.000000
-1987,BDP,0.000000
-1987,SVP,4.000000
-1987,Übrige,4.000000
+label,year,value
+SP,2019,3
+GPS,2019,2
+CVP,2019,8
+FDP,2019,7
+SVP,2019,3
+parteilos,2019,1
+Offen,2019,22
+SP,2015,12
+GPS,2015,1
+CVP,2015,13
+FDP,2015,13
+BDP,2015,1
+SVP,2015,5
+parteilos,2015,1
 ```
 
-Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/staenderatswahlen.assetdetail.81547.html). Sitzverteilung zu Beginn der Legislatur.
+
 
 <hr /></section>
 
 ## Wahlbeteiligung
+
+Bei den Wahlen im Oktober 2019 gaben 47,5 Prozent der Wahlberechtigten ihre Stimme ab – eine .
 
 Die Wahlbeteiligung sank von 1935 bis 1995 stetig. Vor dem Zweiten Weltkrieg liessen sich noch vier Fünftel des Stimm­volkes für die Nationalrats­wahlen an die Urnen bewegen, 1995 waren es nur noch halb so viele. Seither ist die Wahl­beteiligung wieder leicht gewachsen: 2015 gaben wieder über 48 Prozent der Wahl­berechtigten ihre Stimme ab.
 
