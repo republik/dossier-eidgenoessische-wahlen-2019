@@ -91,11 +91,13 @@ Letzte Aktualisierung: 19.10.2019
 
 ## Nationalrat
 
-Im Nationalrat verzeichneten die Parteien mit ökologischem Schwerpunkt deutliche Sitzgewinne: Die Grüne Partei konnte 16 Sitze zulegen und verfügt neu über 27 Abgeordnete; die Grünliberalen gewannen 8 Sitze hinzu und kommen damit auf 15 Vertreter in der grossen Kammer. Damit schnitten beide Parteien noch besser ab als in den Umfragen.
+Im Nationalrat verzeichneten die Parteien mit ökologischem Schwerpunkt deutliche Sitzgewinne: Die Grüne Partei erzielte mit einem Plus von 5,9 Prozentpunkten ihr bislang bestes Ergebnis und konnte 16 Sitze – mit 27 Sitzen wird sie so zur viertstärksten Kraft im Nationalrat. Die Grünliberalen gewannen 8 Sitze hinzu und entsenden neu  15 Vertreter in die grosse Kammer. Beide Parteien schnitten weit besser ab als in [der letzten Umfrage vor der Wahl](https://www.srf.ch/news/schweiz/wahlen-2019/klimafrage-spaltet-die-waehler-liberaler-ueberdruss-und-linke-euphorie).
 
 Auf der Verliererseite stand in erster Linie die SVP: Sie büsste 11 Sitze ein und hat neu nur noch 54 Nationalräte – gleich viele wie im Jahr 2011. Die SVP fuhr somit ihr schlechtestes Resultat seit 2003 ein und beendete eine langjährige Erfolgssträhne, in der sie ihren Wähleranteil 2015 auf 29,4 Prozent steigern konnte – und dies, obwohl sich 2008 die BDP abspaltete. Letztere verlor bei den Wahlen 4 Sitze und erreichte mit den verbleibenden drei Nationalräten nicht mehr Fraktionsstärke.
 
-Die SP sank in der Wählergunst unerwartet stark auf 16.6 Prozent (–2.2) und erreicht mit 38 Sitzen (–5) ihr schlechtestes Resultat seit der Einführung der Proporzwahl im Jahr 1919, sie mit 41 Sitzen in den Nationalrat einzog.
+Die SP sank in der Wählergunst unerwartet stark auf 16.6 Prozent (–2.2) und erreicht mit 38 Sitzen (–5) ihr schlechtestes Resultat seit der Einführung der Proporzwahl im Jahr 1919, als sie mit 41 Sitzen in den Nationalrat einzog.
+
+Auch die FDP musste starke Verluste hinnehmen: Sie verlor 1.1 Prozentpunkte und hat mit 29 Abgeordneten nur einen mehr als die Grünen. Damit setzten die Freisinnigen ihren Niedergang fort, der sie von 60 Sitzen im Jahr 1919 auf neu nur noch 27 brachte. Die CVP verlor drei Sitze landete mit 25 Abgeordneten ebenfalls auf einem neuen Tiefststand – dies trotz einem moderaten Verlust von 0,2 Prozentpunkten.
 
 <section><h6>CHART</h6>
 
@@ -254,59 +256,6 @@ year,party,value
 ```
 
 Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/nationalratswahlen.assetdetail.217191.html).
-
-<hr /></section>
-
-Laut Umfragen beeinflusst 2019 vor allem die Sorge um die [Klimakrise](https://github.com/republik/dossier-klimawandel?autoSlug "Dossier: Klimakrise") die Wahl. Gemäss dem [Wahlbarometer von SRF](https://www.srf.ch/news/schweiz/wahlen-2019/klimafrage-spaltet-die-waehler-liberaler-ueberdruss-und-linke-euphorie) dürfen am 20. Oktober 2019 die Parteien mit ökologischem Schwer­punkt auf höhere Wähler­anteile hoffen: den Grünen werden 10,7 Prozent (+3,6 gegenüber 2015) prognostiziert, den Grün­liberalen 7,3 Prozent (+2,7). 
-
-Auf bürgerlicher Seite muss die SVP mit empfindlichen Verlusten rechnen, bleibt aber mit 27,3 Prozent (–2,1) die mit Abstand grösste Partei im Land. Den übrigen Parteien werden kleinere Verluste vorhergesagt – insbesodere die Aussichten der FDP haben sich in den letzten Wochen vor der Wahl verdüstert.
-
-<section><h6>CHART</h6>
-
-```
-{
-  "type": "TimeBar",
-  "y": "year",
-  "color": "party",
-  "colorLegend": true,
-  "colorSort": "none",
-  "numberFormat": "%",
-  "sort": "none",
-  "domain": [
-    -0.03,
-    0.03
-  ],
-  "xTicks": [],
-  "colorRange": [
-    "#3CAD00",
-    "#d62728",
-    "#ff7f0e",
-    "#BCBD21",
-    "#2077B4",
-    "#FFDD00",
-    "#2BA02B",
-    "#bbb"
-  ],
-  "size": "narrow"
-}
-```
-
-### Grüne Welle
-
-Prognose der Gewinne und Verluste bei den Wahlen 2019
-
-```
-year,party,value
-1,GPS,0.036
-2,SP,-0.006
-3,CVP,-0.01
-4,GLP,0.027
-5,FDP,-0.012
-6,BDP,-0.013
-7,SVP,-0.021
-```
-
-Quelle: [Wahlbarometer SRF](https://www.srf.ch/news/schweiz/wahlen-2019/klimafrage-spaltet-die-waehler-liberaler-ueberdruss-und-linke-euphorie), 09.10.2019. Fehlerbereich +/–1,4 Prozentpunkte. 
 
 <hr /></section>
 
