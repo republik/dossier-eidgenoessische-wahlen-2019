@@ -48,7 +48,7 @@ Letzte Aktualisierung: 21.10.2019
         "label": "Frauenanteil",
         "value": "42%",
         "unit": "",
-        "description": "Frauenanteil bei den gewählten Kandidaten in den Nationalrat",
+        "description": "Frauenanteil bei den gewählten Kandidierenden für den Nationalrat",
         "source": {
           "name": "BFS",
           "url": "https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/6c6d3453-0aa3-4e2b-89b3-ed100ea5acee",
