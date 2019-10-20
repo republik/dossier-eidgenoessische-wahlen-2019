@@ -72,7 +72,7 @@ Letzte Aktualisierung: 21.10.2019
         "label": "Wahlbeteiligung",
         "value": "45,1%",
         "unit": "",
-        "description": "Prozent der Wahlberechtigten",
+        "description": "Anteil der Wählenden an den Wahlberechtigten",
         "source": {
           "name": "BFS",
           "url": "https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/3be5b54e-8c21-40c9-8e36-fbffb5638352",
