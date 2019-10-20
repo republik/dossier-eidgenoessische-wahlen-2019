@@ -33,14 +33,14 @@ Letzte Aktualisierung: 21.10.2019
   "props": {
     "values": [
       {
-        "label": "Kandidaturen",
-        "value": "4663",
+        "label": "Offene Sitze im Ständerat",
+        "value": "22",
         "unit": "",
-        "description": "Anzahl Kandidierende für 200 Sitze im Nationalrat",
+        "description": "Anzahl Ständeratssitze, die einen zweiten Wahlgang benötigen",
         "source": {
-          "name": "SmartVote",
-          "url": "https://www.smartvote.ch",
-          "date": "04.10.2019"
+          "name": "BFS",
+          "url": "https://www.wahlen.admin.ch/de/ch/",
+          "date": "20.10.2019"
         },
         "color": "#39bbcc"
       },
@@ -48,7 +48,7 @@ Letzte Aktualisierung: 21.10.2019
         "label": "Frauenanteil",
         "value": "42%",
         "unit": "",
-        "description": "Frauenanteil bei den Gewählten in den Nationalrat",
+        "description": "Frauenanteil bei den gewählten Kandidaten in den Nationalrat",
         "source": {
           "name": "BFS",
           "url": "https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/6c6d3453-0aa3-4e2b-89b3-ed100ea5acee",
@@ -58,7 +58,7 @@ Letzte Aktualisierung: 21.10.2019
       },
       {
         "label": "Wahlberechtigte",
-        "value": "5 457 940",
+        "value": "5’457’940",
         "unit": "",
         "description": "Anzahl Wahlberechtigte",
         "source": {
