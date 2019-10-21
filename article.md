@@ -391,6 +391,264 @@ Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beträg
 
 <hr /></section>
 
+<section><h6>DYNAMIC_COMPONENT</h6>
+
+```
+{
+  "src": "https://cdn.repub.ch/",
+  "autoHtml": true
+}
+```
+
+<hr /></section>
+
+<section><h6>ARTICLECOLLECTION</h6>
+
+```
+{
+  "membersOnly": true,
+  "unauthorizedText": ""
+}
+```
+
+## 
+
+<section><h6>TEASERGROUP</h6>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-briefing-spezial-wahlen-2019?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-briefing-aus-bern?autoSlug",
+  "titleSize": "standard",
+  "id": "XpyxX_w2S",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Briefing aus Bern
+
+# Klima, Linksrutsch, Frauenwahl – was Sie zu diesen Wahlen wissen müssen
+
+## 
+
+#### Das Sonderbriefing aus Bern zu den eidgenössischen Wahlen.
+
+Von [Ronja Beck](/~robeck "Ronja Beck"), [Oliver Fuchs](/~ofuchs "Oliver Fuchs") und [Andreas Moor](/~amoor), 21.10.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "formatColor": "#08809A",
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-lange-sicht-nach-wahlen?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "formatUrl": "https://github.com/republik/format-auf-langer-sicht?autoSlug",
+  "titleSize": "standard",
+  "id": "NygP19bEI-",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### Auf lange Sicht
+
+# Die Wahl­resultate in sechs Schweizerkarten
+
+## 
+
+#### Wo haben die Parteien verloren, in welchen Wählerschichten haben sie gewonnen, wer war in den Städten vorne, wer auf dem Land? Die Wahlanalyse auf der Ebene der zweitausend Schweizer Gemeinden.
+
+Von [Simon Schmid](/~simonschmid), 21.10.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-historischer-linksrutsch?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "GxPuGZRIOq",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Historischer Linksrutsch
+
+## 
+
+#### Die Klimapolitik ist die Forderung der Stunde. Aber diese Wahlen bringen vor allem eine Wende nach links.
+
+Ein Kommentar von [Daniel Binswanger](/~dbinswanger), 21.10.2019
+
+<hr /></section>
+
+<hr /></section>
+
+<hr /></section>
+
+<section><h6>DYNAMIC_COMPONENT</h6>
+
+```
+{
+  "src": "https://cdn.repub.ch/",
+  "autoHtml": true
+}
+```
+
+<hr /></section>
+
+<section><h6>ARTICLECOLLECTION</h6>
+
+```
+{
+  "membersOnly": true,
+  "unauthorizedText": ""
+}
+```
+
+## 
+
+<section><h6>TEASERGROUP</h6>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-injektion-europa?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "rRMpXAdhB",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Was ist unsere beste Chance? Richtig: Die EU
+
+## 
+
+#### Letzte Worte vor der Wahl: Durch die Wahlwoche mit der Republik-Redaktion (I).
+
+Ein Kommentar von [Simon Schmid](/~simonschmid), 14.10.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-gleichstellung?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "1HtZ1qktPq",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Liebe Schweiz: Es ist Zeit für 50 Prozent Frauen im Parlament
+
+## 
+
+#### Durch die Wahlwoche mit der Republik-Redaktion (IV).
+
+Ein Kommentar von [Andrea Arežina](/~aarezina "Andrea Arežina") und [Bettina Hamilton-Irvine](/~bhamilton.irvine), 17.10.2019
+
+<hr /></section>
+
+<section><h6>TEASER</h6>
+
+```
+{
+  "reverse": false,
+  "color": "#000",
+  "teaserType": "articleTile",
+  "byline": null,
+  "onlyImage": false,
+  "url": "https://github.com/republik/article-schweiz-wir-muessen-reden?autoSlug",
+  "kind": "editorial",
+  "center": false,
+  "textPosition": "topleft",
+  "titleSize": "standard",
+  "id": "nHnQzLse_Y",
+  "portrait": true,
+  "showImage": true,
+  "bgColor": "#fff"
+}
+```
+
+###### 
+
+# Schweiz, du hast ein Demokratieproblem
+
+## 
+
+#### Durch die Wahlwoche mit der Republik-Redaktion (V).
+
+Ein Kommentar von [Carlos Hanimann](/~chanimann), 18.10.2019
+
+<hr /></section>
+
+<hr /></section>
+
+<hr /></section>
+
 
 
 <hr /></section>
