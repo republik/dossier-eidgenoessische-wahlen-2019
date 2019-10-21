@@ -91,13 +91,13 @@ Letzte Aktualisierung: 21.10.2019
 
 ## Nationalrat
 
-Im Nationalrat verzeichneten die Parteien mit ökologischem Schwerpunkt massive Sitzgewinne: Die Grüne Partei erzielte mit einem Plus von 6,1 Prozentpunkten ihr bislang bestes Ergebnis. Sie gewann 17 Sitze dazu. Mit 28 Sitzen wurde sie so zur viertstärksten Kraft im Nationalrat. Die Grünliberalen gewannen 9 Sitze hinzu und entsenden neu 16 Vertreter in die grosse Kammer. Beide Parteien schnitten weit besser ab als in [der letzten Umfrage vor der Wahl](https://www.srf.ch/news/schweiz/wahlen-2019/klimafrage-spaltet-die-waehler-liberaler-ueberdruss-und-linke-euphorie).
+Im Nationalrat verzeichneten die Parteien mit ökologischem Schwer­punkt massive Sitzgewinne: Die Grüne Partei erzielte mit einem Plus von 6,1 Prozentpunkten ihr bislang bestes Ergebnis. Sie gewann 17 Sitze dazu. Mit 28 Sitzen wurde sie so zur viertstärksten Kraft im Nationalrat. Die Grünliberalen gewannen 9 Sitze hinzu und entsenden neu 16 Vertreter in die grosse Kammer. Beide Parteien schnitten weit besser ab als in [der letzten Umfrage vor der Wahl](https://www.srf.ch/news/schweiz/wahlen-2019/klimafrage-spaltet-die-waehler-liberaler-ueberdruss-und-linke-euphorie).
 
-Auf der Verliererseite stand in erster Linie die SVP: Sie büsste 12 Sitze ein und erreichte neu nur noch 53 Nationalräte. Die Partei fuhr mit einem Wähleranteil von 25,6 Prozent ihr schlechtestes Resultat seit 2003 ein und beendete eine langjährige Erfolgssträhne, in der sie ihren Wähleranteil 2015 auf 29,4 Prozent steigern konnte – und dies, obwohl sich 2008 die BDP von ihr abgespaltet hatte. Letztere verlor bei den Wahlen vier Sitze und erreichte mit den verbleibenden drei Nationalräten nicht mehr Fraktionsstärke.
+Auf der Verliererseite stand in erster Linie die SVP: Sie büsste 12 Sitze ein und erreichte neu nur noch 53 Nationalräte. Die Partei fuhr mit einem Wähler­anteil von 25,6 Prozent ihr schlechtestes Resultat seit 2003 ein und beendete eine langjährige Erfolgs­strähne, in der sie ihren Wähleranteil 2015 auf 29,4 Prozent steigern konnte – und dies, obwohl sich 2008 die BDP von ihr abgespaltet hatte. Letztere verlor bei den Wahlen 4 Sitze und erreichte mit den verbleibenden 3 Nationalräten nicht mehr Fraktionsstärke.
 
-Die SP sank in der Wählergunst unerwartet stark auf 16.8 Prozent (–2) und erreicht mit 39 Sitzen (–4) ihr schlechtestes Resultat seit der Einführung der Proporzwahl im Jahr 1919, als sie mit 41 Sitzen in den Nationalrat einzog.
+Die SP sank in der Wählergunst unerwartet stark auf 16,8 Prozent (–2) und erreicht mit 39 Sitzen (–4) ihr schlechtestes Resultat seit der Einführung der Proporz­wahl im Jahr 1919, als sie mit 41 Sitzen in den Nationalrat einzog.
 
-Auch die FDP musste starke Verluste hinnehmen: Sie verlor 1,3 Prozentpunkte liegt nur noch rund zwei Prozentpunkte vor den Grünen. Damit setzt der Freisinn seinen Niedergang fort, der ihn von 60 Sitzen im Jahr 1919 auf heute nur noch 29 schrumpfen liess. Die CVP verlor drei Sitze und landete mit 25 Abgeordneten ebenfalls auf einem neuen Tiefststand – dies trotz einem moderaten Verlust von 0,2 Prozentpunkten.
+Auch die FDP musste starke Verluste hinnehmen: Sie verlor 1,3 Prozentpunkte  und liegt nur noch rund 2 Prozent­punkte vor den Grünen. Damit setzt der Freisinn seinen Niedergang fort, der ihn von 60 Sitzen im Jahr 1919 auf heute nur noch 29 schrumpfen liess. Die CVP verlor 3 Sitze und landete mit 25 Abgeordneten ebenfalls auf einem neuen Tiefststand – dies trotz einem moderaten Verlust von 0,2 Prozentpunkten.
 
 <section><h6>CHART</h6>
 
@@ -114,7 +114,7 @@ Eidgenössische Wahlen 2019
 
 ```
 label,year,value
-Pda,2019,1,
+PdA,2019,1,
 Sol,2019,1
 SP,2019,39
 GPS,2019,28,
@@ -261,7 +261,7 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 ## Ständerat
 
-Im Ständerat sind fast die Hälfte der Sitze noch nicht endgültig entschieden. Diese werden in zweiten Wahlgängen bis Ende November besetzt. Es ist zu erwarten, dass die kleine Kammer weiterhin bürgerlich geprägt sein wird. Ebenfalls zeichnet sich ab, dass deutlich mehr Frauen im neuen Ständerat Einsitz nehmen werden.
+Im Ständerat sind fast die Hälfte der Sitze noch nicht endgültig vergeben. Diese werden in zweiten Wahlgängen bis Ende November besetzt. Es ist zu erwarten, dass die kleine Kammer weiterhin bürgerlich geprägt sein wird. Ebenfalls zeichnet sich ab, dass deutlich mehr Frauen im neuen Ständerat Einsitz nehmen werden.
 
 <section><h6>CHART</h6>
 
@@ -387,7 +387,7 @@ Die erste Session der 51. Legislatur der Bundes­versammlung (2019–2023) wird
 
 ### Zum Dossier Wahlen 2019
 
-Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beträgen zu den eidgenössischen Wahlen am 20. Oktober 2019. Alle Quellen und Original­daten sowie die Methoden ihrer Aufbereitung [sind hier dokumentiert](https://github.com/republik/dossier-eidgenoessische-wahlen-2019) (ein­schliess­lich eines [Protokolls der Aktualisierungen](https://github.com/republik/dossier-eidgenoessische-wahlen-2019/commits/master)).
+Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beträgen zu den eidgenössischen Wahlen am 20. Oktober 2019. Alle Quellen und Original­daten sowie die Methoden ihrer Aufbereitung [sind hier dokumentiert](https://github.com/republik/dossier-eidgenoessische-wahlen-2019) (einschliesslich eines [Protokolls der Aktualisierungen](https://github.com/republik/dossier-eidgenoessische-wahlen-2019/commits/master)).
 
 <hr /></section>
 
@@ -532,7 +532,7 @@ Von [Adrienne Fichter](/~adriennefichter), 16.05.2018
 
 #### Die Jugend interessiert sich wieder für Politik. Und trotzdem zeichnet sich bei den Zürcher Wahlen eine rekordtiefe Beteiligung ab. Was tun?
 
-Von [Claude  Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
+Von [Claude Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 <hr /></section>
 
