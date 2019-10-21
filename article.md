@@ -540,16 +540,34 @@ Ein Kommentar von [Daniel Binswanger](/~dbinswanger), 21.10.2019
 
 <hr /></section>
 
+
+
+<hr /></section>
+
 <section><h6>DYNAMIC_COMPONENT</h6>
 
 ```
 {
-  "src": "https://cdn.repub.ch/",
-  "autoHtml": true
+  "autoHtml": false,
+  "props": {
+    "item": {
+      "color": "#fff",
+      "author": "Von <a title='Andrea Arežina' href='/~aarezina'>Andrea Arežina</a>, <a title='Elia Blülle' href='/~eblulle' >Elia Blülle</a>, <a title='Dennis Bühler' href='/~dbuehler'>Dennis Bühler</a>, <a title='Anja Conzett' href='/~acon'>Anja Conzett</a>, <a title='Bettina Hamilton-Irvine' href='/~bhamilton.irvine'>Bettina Hamilton-Irvine</a>, <a title='Daniel Ryser' href='/~dryser'>Daniel Ryser</a> (Text) und Goran Basic (Bilder), 21.10.2019",
+      "url": "",
+      "title": "Grünsonntag",
+      "split": true,
+      "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/magazine/images/324ae6404339bbe2da42752f3a374cfe6babea05.jpeg",
+      "lead": "Reportage über einen Wahltag der Superlative.",
+      "bgColor": "#000"
+    }
+  },
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.9"
 }
 ```
 
 <hr /></section>
+
+<section><h6>CENTER</h6>
 
 <section><h6>ARTICLECOLLECTION</h6>
 
