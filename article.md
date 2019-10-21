@@ -139,7 +139,7 @@ Lega,2015,2
 MCR,2015,1
 ```
 
-Quelle: BFS.
+Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen.html).
 
 <hr /></section>
 
