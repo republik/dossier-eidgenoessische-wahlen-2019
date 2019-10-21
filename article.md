@@ -269,6 +269,7 @@ Im Ständerat sind fast die Hälfte der Sitze noch nicht endgültig entschieden.
 {
   "type": "Hemicycle",
   "inlineLabelThreshold": 4,
+  "unit": "Sitze",
   "size": "narrow",
   "colorMap": {
     "SP": "#F0554D",
@@ -328,7 +329,7 @@ Die Wahlbeteiligung sank von 1935 bis 1995 stetig. Vor dem Zweiten Weltkrieg lie
     "1967",
     "1983",
     "1999",
-    "2015"
+    "2019"
   ],
   "yTicks": [
     0,
@@ -572,8 +573,8 @@ Von [Claude  Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -842,8 +843,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -989,8 +990,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
