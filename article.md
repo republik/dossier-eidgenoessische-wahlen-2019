@@ -391,16 +391,34 @@ Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beträg
 
 <hr /></section>
 
+
+
+<hr /></section>
+
 <section><h6>DYNAMIC_COMPONENT</h6>
 
 ```
 {
-  "src": "https://cdn.repub.ch/",
-  "autoHtml": true
+  "autoHtml": false,
+  "props": {
+    "item": {
+      "color": "#000",
+      "author": "Von der <a href='/impressum'>Republik-Redaktion</a>, 21.10.2019",
+      "url": "https://www.republik.ch/wahltindaer/bundesversammlung",
+      "title": "Das neue Parlament",
+      "split": true,
+      "image": "https://cdn.repub.ch/s3/republik-assets/github/republik/magazine/images/487d641a65654a03295dbec63c5f4eb904cf8af2.jpeg",
+      "lead": "Alle Gewählten im Republik Wahltindär.",
+      "bgColor": "#DAFFCA"
+    }
+  },
+  "src": "https://cdn.republik.space/s3/republik-assets/dynamic-components/dossier/banner.js?v2.9"
 }
 ```
 
 <hr /></section>
+
+<section><h6>CENTER</h6>
 
 <section><h6>ARTICLECOLLECTION</h6>
 
