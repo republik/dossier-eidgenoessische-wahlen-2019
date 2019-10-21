@@ -91,13 +91,13 @@ Letzte Aktualisierung: 21.10.2019
 
 ## Nationalrat
 
-Im Nationalrat verzeichneten die Parteien mit ökologischem Schwerpunkt massive Sitzgewinne: Die Grüne Partei erzielte mit einem Plus von 6,1 Prozentpunkten ihr bislang bestes Ergebnis. Sie gewann 17 Sitze dazu. Mit 28 Sitzen wurde sie so zur viertstärksten Kraft im Nationalrat. Die Grünliberalen gewannen 9 Sitze hinzu und entsenden neu 16 Vertreter in die grosse Kammer. Beide Parteien schnitten weit besser ab als in [der letzten Umfrage vor der Wahl](https://www.srf.ch/news/schweiz/wahlen-2019/klimafrage-spaltet-die-waehler-liberaler-ueberdruss-und-linke-euphorie).
+Im Nationalrat verzeichneten die Parteien mit ökologischem Schwerpunkt massive Sitzgewinne: Die Grüne Partei erzielte mit einem Plus von 6,1 Prozentpunkten ihr bislang bestes Ergebnis. Sie gewann 17 Sitze dazu. Mit 28 Sitzen wurde sie so zur viertstärksten Kraft im Nationalrat. Die Grünliberalen gewannen 9 Sitze hinzu und entsenden neu 16 Vertreter in die grosse Kammer. Beide Parteien schnitten weit besser ab als in [der letzten Umfrage vor der Wahl](https://www.srf.ch/news/schweiz/wahlen-2019/klimafrage-spaltet-die-waehler-liberaler-ueberdruss-und-linke-euphorie).
 
-Auf der Verliererseite stand in erster Linie die SVP: Sie büsste 12 Sitze ein und erreichte neu nur noch 53 Nationalräte. Die Partei fuhr mit einem Wähleranteil von 25,6 Prozent ihr schlechtestes Resultat seit 2003 ein und beendete eine langjährige Erfolgssträhne, in der sie ihren Wähleranteil 2015 auf 29,4 Prozent steigern konnte – und dies, obwohl sich 2008 die BDP von ihr abgespaltet hatte. Letztere verlor bei den Wahlen vier Sitze und erreichte mit den verbleibenden drei Nationalräten nicht mehr Fraktionsstärke.
+Auf der Verliererseite stand in erster Linie die SVP: Sie büsste 12 Sitze ein und erreichte neu nur noch 53 Nationalräte. Die Partei fuhr mit einem Wähleranteil von 25,6 Prozent ihr schlechtestes Resultat seit 2003 ein und beendete eine langjährige Erfolgssträhne, in der sie ihren Wähleranteil 2015 auf 29,4 Prozent steigern konnte – und dies, obwohl sich 2008 die BDP von ihr abgespaltet hatte. Letztere verlor bei den Wahlen vier Sitze und erreichte mit den verbleibenden drei Nationalräten nicht mehr Fraktionsstärke.
 
-Die SP sank in der Wählergunst unerwartet stark auf 16.8 Prozent (–2) und erreicht mit 39 Sitzen (–4) ihr schlechtestes Resultat seit der Einführung der Proporzwahl im Jahr 1919, als sie mit 41 Sitzen in den Nationalrat einzog.
+Die SP sank in der Wählergunst unerwartet stark auf 16.8 Prozent (–2) und erreicht mit 39 Sitzen (–4) ihr schlechtestes Resultat seit der Einführung der Proporzwahl im Jahr 1919, als sie mit 41 Sitzen in den Nationalrat einzog.
 
-Auch die FDP musste starke Verluste hinnehmen: Sie verlor 1,3 Prozentpunkte liegt nur noch run zwei Prozentpunkte vor den Grünen. Damit setzt der Freisinn seinen Niedergang fort, der ihn von 60 Sitzen im Jahr 1919 auf heute nur noch 29 schrumpfen liess. Die CVP verlor drei Sitze und landete mit 25 Abgeordneten ebenfalls auf einem neuen Tiefststand – dies trotz einem moderaten Verlust von 0,2 Prozentpunkten.
+Auch die FDP musste starke Verluste hinnehmen: Sie verlor 1,3 Prozentpunkte liegt nur noch rund zwei Prozentpunkte vor den Grünen. Damit setzt der Freisinn seinen Niedergang fort, der ihn von 60 Sitzen im Jahr 1919 auf heute nur noch 29 schrumpfen liess. Die CVP verlor drei Sitze und landete mit 25 Abgeordneten ebenfalls auf einem neuen Tiefststand – dies trotz einem moderaten Verlust von 0,2 Prozentpunkten.
 
 <section><h6>CHART</h6>
 
@@ -311,9 +311,9 @@ parteilos,2015,1
 
 ## Wahlbeteiligung
 
-Bei den Wahlen im Oktober 2019 gaben 45,1 Prozent der Wahlberechtigten ihre Stimme ab – 3,1 Prozentpunkte weniger als bei den Wahlen 2015.
+Bei den Wahlen im Oktober 2019 gaben 45,1 Prozent der Wahlberechtigten ihre Stimme ab – 3,1 Prozentpunkte weniger als bei den Wahlen 2015.
 
-Die Wahlbeteiligung sank von 1935 bis 1995 stetig. Vor dem Zweiten Weltkrieg liessen sich noch vier Fünftel des Stimm­volkes für die Nationalrats­wahlen an die Urnen bewegen, 1995 waren es nur noch halb so viele. Bis zu den Wahlen 2015 zeichnete sich wieder eine leichte Erholung ab – damals gaben wieder 48,5 Prozent der Wahl­berechtigten ihre Stimme ab.
+Die Wahlbeteiligung sank von 1935 bis 1995 stetig. Vor dem Zweiten Weltkrieg liessen sich noch vier Fünftel des Stimm­volkes für die Nationalrats­wahlen an die Urnen bewegen, 1995 waren es nur noch halb so viele. Bis zu den Wahlen 2015 zeichnete sich wieder eine leichte Erholung ab – damals gaben wieder 48,5 Prozent der Wahl­berechtigten ihre Stimme ab.
 
 <section><h6>CHART</h6>
 
@@ -572,8 +572,8 @@ Von [Claude  Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -842,8 +842,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -989,8 +989,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
