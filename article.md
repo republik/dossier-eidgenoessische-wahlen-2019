@@ -493,7 +493,7 @@ Von [Ronja Beck](/~robeck "Ronja Beck"), [Oliver Fuchs](/~ofuchs "Oliver Fuchs")
 
 ###### Auf lange Sicht
 
-# Die Wahl­resultate in sechs Schweizerkarten
+# Die Wahl­resultate in sechs Schweizer­karten
 
 ## 
 
@@ -867,8 +867,8 @@ Von [Claude Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -1137,8 +1137,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -1284,8 +1284,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
