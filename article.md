@@ -97,7 +97,7 @@ Auf der Verliererseite stand in erster Linie die SVP: Sie büsste 12 Sitze ein u
 
 Die SP sank in der Wählergunst unerwartet stark auf 16.8 Prozent (–2) und erreicht mit 39 Sitzen (–4) ihr schlechtestes Resultat seit der Einführung der Proporzwahl im Jahr 1919, als sie mit 41 Sitzen in den Nationalrat einzog.
 
-Auch die FDP musste starke Verluste hinnehmen: Sie verlor 1,3 Prozentpunkte und hält mit 29 Abgeordneten noch einen Sitz mehr als die Grünen. Damit setzten die Freisinnigen ihren Niedergang fort, der sie von 60 Sitzen im Jahr 1919 auf heute nur noch 27 schrumpfen liess. Die CVP verlor drei Sitze und landete mit 25 Abgeordneten ebenfalls auf einem neuen Tiefststand – dies trotz einem moderaten Verlust von 0,2 Prozentpunkten.
+Auch die FDP musste starke Verluste hinnehmen: Sie verlor 1,3 Prozentpunkte liegt nur noch run zwei Prozentpunkte vor den Grünen. Damit setzt der Freisinn seinen Niedergang fort, der ihn von 60 Sitzen im Jahr 1919 auf heute nur noch 29 schrumpfen liess. Die CVP verlor drei Sitze und landete mit 25 Abgeordneten ebenfalls auf einem neuen Tiefststand – dies trotz einem moderaten Verlust von 0,2 Prozentpunkten.
 
 <section><h6>CHART</h6>
 
