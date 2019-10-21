@@ -19,7 +19,7 @@ feed: true
 
 ⁣
 
-Letzte Aktualisierung: 21.10.2019
+Letzte Aktualisierung: 22.10.2019
 
 <hr /></section>
 
@@ -497,7 +497,7 @@ Von [Ronja Beck](/~robeck "Ronja Beck"), [Oliver Fuchs](/~ofuchs "Oliver Fuchs")
 
 ## 
 
-#### Wo haben die Parteien verloren, in welchen Wählerschichten haben sie gewonnen, wer war in den Städten vorne, wer auf dem Land? Die Wahlanalyse auf der Ebene der zweitausend Schweizer Gemeinden.
+#### Wo haben die Parteien verloren, in welchen Wähler­schichten haben sie gewonnen, wer war in den Städten vorne, wer auf dem Land? Die Wahl­analyse auf der Ebene der zweitausend Schweizer Gemeinden.
 
 Von [Simon Schmid](/~simonschmid), 21.10.2019
 
@@ -671,7 +671,7 @@ Ein Kommentar von [Andrea Arežina](/~aarezina "Andrea Arežina") und [Bettina H
 
 ###### 
 
-# Schweiz, du hast ein Demokratieproblem
+# Schweiz, du hast ein Demokratie­problem
 
 ## 
 
