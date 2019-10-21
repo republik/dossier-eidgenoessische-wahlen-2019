@@ -45,7 +45,7 @@ Letzte Aktualisierung: 21.10.2019
         "color": "#39bbcc"
       },
       {
-        "label": "Frauenanteil",
+        "label": "Frauenanteil Nationalrat",
         "value": "42%",
         "unit": "",
         "description": "Frauenanteil bei den gewählten Kandidierenden für den Nationalrat",
