@@ -19,7 +19,7 @@ feed: true
 
 ⁣
 
-Letzte Aktualisierung: 22.10.2019
+Letzte Aktualisierung: 05.11.2019
 
 <hr /></section>
 
@@ -34,13 +34,13 @@ Letzte Aktualisierung: 22.10.2019
     "values": [
       {
         "label": "Offene Sitze im Ständerat",
-        "value": "22",
+        "value": "19",
         "unit": "",
         "description": "Anzahl Ständeratssitze, die einen zweiten Wahlgang benötigen",
         "source": {
           "name": "BFS",
           "url": "https://www.wahlen.admin.ch/de/ch/",
-          "date": "20.10.2019"
+          "date": "05.11.2019"
         },
         "color": "#39bbcc"
       },
@@ -139,7 +139,7 @@ Lega,2015,2
 MCR,2015,1
 ```
 
-Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen.html).
+Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/eidg-wahlen-2019/resultate-nationalrat.html).
 
 <hr /></section>
 
@@ -284,7 +284,7 @@ Im Ständerat sind fast die Hälfte der Sitze noch nicht endgültig vergeben. Di
 }
 ```
 
-### «Stöckli» noch offen
+### «Stöckli» noch nicht vollständig
 
 Sitzverteilung im Ständerat
 
@@ -292,11 +292,11 @@ Sitzverteilung im Ständerat
 label,year,value
 SP,2019,3
 GPS,2019,2
-CVP,2019,8
+CVP,2019,11
 FDP,2019,7
 SVP,2019,3
 parteilos,2019,1
-Offen,2019,22
+Offen,2019,19
 SP,2015,12
 GPS,2015,1
 CVP,2015,13
@@ -306,7 +306,7 @@ SVP,2015,5
 parteilos,2015,1
 ```
 
-
+Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/eidg-wahlen-2019/resultate-staenderat.html).
 
 <hr /></section>
 
