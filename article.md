@@ -19,7 +19,7 @@ feed: true
 
 ⁣
 
-Letzte Aktualisierung: 05.11.2019
+Letzte Aktualisierung: 10.11.2019
 
 <hr /></section>
 
@@ -34,13 +34,13 @@ Letzte Aktualisierung: 05.11.2019
     "values": [
       {
         "label": "Offene Sitze im Ständerat",
-        "value": "19",
+        "value": "15",
         "unit": "",
         "description": "Anzahl Ständeratssitze, die einen zweiten Wahlgang benötigen",
         "source": {
           "name": "BFS",
           "url": "https://www.wahlen.admin.ch/de/ch/",
-          "date": "05.11.2019"
+          "date": "10.11.2019"
         },
         "color": "#39bbcc"
       },
@@ -268,7 +268,7 @@ Im Ständerat sind fast die Hälfte der Sitze noch nicht endgültig vergeben. Di
 ```
 {
   "type": "Hemicycle",
-  "inlineLabelThreshold": 4,
+  "inlineLabelThreshold": 5,
   "unit": "Sitze",
   "size": "narrow",
   "colorMap": {
@@ -290,13 +290,13 @@ Sitzverteilung im Ständerat
 
 ```
 label,year,value
-SP,2019,3
-GPS,2019,2
+SP,2019,4
+GPS,2019,4
 CVP,2019,11
-FDP,2019,7
+FDP,2019,8
 SVP,2019,3
 parteilos,2019,1
-Offen,2019,19
+Offen,2019,15
 SP,2015,12
 GPS,2015,1
 CVP,2015,13
@@ -869,8 +869,8 @@ Von [Claude Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -1139,8 +1139,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -1286,8 +1286,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
