@@ -34,13 +34,13 @@ Letzte Aktualisierung: 11.11.2019
     "values": [
       {
         "label": "Offene Sitze im Ständerat",
-        "value": "15",
+        "value": "13",
         "unit": "",
         "description": "Anzahl Ständeratssitze, die einen zweiten Wahlgang benötigen",
         "source": {
           "name": "BFS",
           "url": "https://www.wahlen.admin.ch/de/ch/",
-          "date": "10.11.2019"
+          "date": "11.11.2019"
         },
         "color": "#39bbcc"
       },
@@ -290,13 +290,13 @@ Sitzverteilung im Ständerat
 
 ```
 label,year,value
-SP,2019,4
+SP,2019,5
 GPS,2019,4
 CVP,2019,11
-FDP,2019,8
+FDP,2019,9
 SVP,2019,3
 parteilos,2019,1
-Offen,2019,15
+Offen,2019,13
 SP,2015,12
 GPS,2015,1
 CVP,2015,13
@@ -869,8 +869,8 @@ Von [Claude Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -1139,8 +1139,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -1286,8 +1286,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
