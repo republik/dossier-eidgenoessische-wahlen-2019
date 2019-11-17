@@ -268,7 +268,7 @@ Im Ständerat sind fast die Hälfte der Sitze noch nicht endgültig vergeben. Di
 ```
 {
   "type": "Hemicycle",
-  "inlineLabelThreshold": 5,
+  "inlineLabelThreshold": 6,
   "unit": "Sitze",
   "size": "narrow",
   "colorMap": {
@@ -292,11 +292,11 @@ Sitzverteilung im Ständerat
 label,year,value
 SP,2019,9
 GPS,2019,4
-Offen,2019,4
 CVP,2019,12
 FDP,2019,11
 SVP,2019,5
 parteilos,2019,1
+Offen,2019,4
 SP,2015,12
 GPS,2015,1
 CVP,2015,13
