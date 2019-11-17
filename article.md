@@ -19,7 +19,7 @@ feed: true
 
 ⁣
 
-Letzte Aktualisierung: 11.11.2019
+Letzte Aktualisierung: 17.11.2019
 
 <hr /></section>
 
@@ -34,13 +34,13 @@ Letzte Aktualisierung: 11.11.2019
     "values": [
       {
         "label": "Offene Sitze im Ständerat",
-        "value": "13",
+        "value": "4",
         "unit": "",
         "description": "Anzahl Ständeratssitze, die einen zweiten Wahlgang benötigen",
         "source": {
           "name": "BFS",
           "url": "https://www.wahlen.admin.ch/de/ch/",
-          "date": "11.11.2019"
+          "date": "17.11.2019"
         },
         "color": "#39bbcc"
       },
@@ -290,13 +290,13 @@ Sitzverteilung im Ständerat
 
 ```
 label,year,value
-SP,2019,5
+SP,2019,9
 GPS,2019,4
-CVP,2019,11
-FDP,2019,9
-SVP,2019,3
+Offen,2019,4
+CVP,2019,12
+FDP,2019,11
+SVP,2019,5
 parteilos,2019,1
-Offen,2019,13
 SP,2015,12
 GPS,2015,1
 CVP,2015,13
