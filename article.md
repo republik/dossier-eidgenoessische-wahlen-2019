@@ -261,7 +261,7 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 ## Ständerat
 
-Im Ständerat sind fast die Hälfte der Sitze noch nicht endgültig vergeben. Diese werden in zweiten Wahlgängen bis Ende November besetzt. Es ist zu erwarten, dass die kleine Kammer weiterhin bürgerlich geprägt sein wird. Ebenfalls zeichnet sich ab, dass deutlich mehr Frauen im neuen Ständerat Einsitz nehmen werden.
+Im Ständerat sind fast alle Sitze vergeben. Kommendes Wochenende fallen noch in drei Kantonen die letzten Entscheide: Aargau, Baselland und Schwyz. Die kleine Kammer wird weiterhin bürgerlich geprägt sein wird, und es sind mehr Frauen vertreten.
 
 <section><h6>CHART</h6>
 
@@ -869,8 +869,8 @@ Von [Claude Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -1139,8 +1139,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -1286,8 +1286,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
