@@ -261,7 +261,7 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 ## Ständerat
 
-Im Ständerat sind fast alle Sitze vergeben. Kommendes Wochenende fallen noch in drei Kantonen die letzten Entscheide: Aargau, Baselland und Schwyz. Die kleine Kammer wird weiterhin bürgerlich geprägt sein wird, und es sind mehr Frauen vertreten.
+Im Ständerat sind fast alle Sitze vergeben. Kommendes Wochenende fallen noch in drei Kantonen die letzten Entscheide: Aargau, Baselland und Schwyz. Die kleine Kammer wird weiterhin bürgerlich geprägt sein, und es sind mehr Frauen vertreten.
 
 <section><h6>CHART</h6>
 
