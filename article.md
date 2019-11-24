@@ -19,7 +19,7 @@ feed: true
 
 ⁣
 
-Letzte Aktualisierung: 17.11.2019
+Letzte Aktualisierung: 24.11.2019
 
 <hr /></section>
 
@@ -32,30 +32,6 @@ Letzte Aktualisierung: 17.11.2019
   "autoHtml": false,
   "props": {
     "values": [
-      {
-        "label": "Offene Sitze im Ständerat",
-        "value": "4",
-        "unit": "",
-        "description": "Anzahl Ständeratssitze, die einen zweiten Wahlgang benötigen",
-        "source": {
-          "name": "BFS",
-          "url": "https://www.wahlen.admin.ch/de/ch/",
-          "date": "17.11.2019"
-        },
-        "color": "#39bbcc"
-      },
-      {
-        "label": "Frauenanteil Nationalrat",
-        "value": "42%",
-        "unit": "",
-        "description": "Frauenanteil bei den gewählten Kandidierenden für den Nationalrat",
-        "source": {
-          "name": "BFS",
-          "url": "https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/6c6d3453-0aa3-4e2b-89b3-ed100ea5acee",
-          "date": "20.10.2019"
-        },
-        "color": "#39bbcc"
-      },
       {
         "label": "Wahlberechtigte",
         "value": "5’457’940",
@@ -76,6 +52,30 @@ Letzte Aktualisierung: 17.11.2019
         "source": {
           "name": "BFS",
           "url": "https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/3be5b54e-8c21-40c9-8e36-fbffb5638352",
+          "date": "20.10.2019"
+        },
+        "color": "#39bbcc"
+      },
+      {
+        "label": "Grüne Welle",
+        "value": "21%",
+        "unit": "",
+        "description": "Kombinierter Wähleranteil für den Nationalrat von GLP und Grüner Partei; +9,3 Prozentpunkte gegenüber 2015",
+        "source": {
+          "name": "BFS",
+          "url": "https://www.wahlen.admin.ch/de/ch/",
+          "date": "20.10.2019"
+        },
+        "color": "#39bbcc"
+      },
+      {
+        "label": "Frauenanteil Nationalrat",
+        "value": "42%",
+        "unit": "",
+        "description": "Frauenanteil bei den gewählten Kandidierenden für den Nationalrat",
+        "source": {
+          "name": "BFS",
+          "url": "https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/6c6d3453-0aa3-4e2b-89b3-ed100ea5acee",
           "date": "20.10.2019"
         },
         "color": "#39bbcc"
@@ -261,14 +261,14 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 ## Ständerat
 
-Im Ständerat sind fast alle Sitze vergeben. Kommendes Wochenende fallen noch in drei Kantonen die letzten Entscheide: Aargau, Baselland und Schwyz. Die kleine Kammer wird weiterhin bürgerlich geprägt sein, und es sind mehr Frauen vertreten.
+Im Ständerat wurden die letzten zweiten Wahlgänge am 24. November entschieden. Mit einem Verlust von insgesamt drei Sitzen steht die SP als grösste Verliererin da, während die Grünen vier Mandate hinzugewinnen konnten. Auf bürgerlicher Seite gewann die SVP einen Sitz hinzu, während die BDP ihren einzigen Sitz abgeben musste. Die FDP verlor ihren Sitz für den Kanton Tessin erstmals in 126 Jahren. Mit einer Steigerung von sieben auf 12 weibliche Mitglieder hat das Stöckli den Frauenanteil gegenüber 2015 auf 35 Prozent gesteigert.
 
 <section><h6>CHART</h6>
 
 ```
 {
   "type": "Hemicycle",
-  "inlineLabelThreshold": 6,
+  "inlineLabelThreshold": 5,
   "unit": "Sitze",
   "size": "narrow",
   "colorMap": {
@@ -284,19 +284,18 @@ Im Ständerat sind fast alle Sitze vergeben. Kommendes Wochenende fallen noch in
 }
 ```
 
-### «Stöckli» noch nicht vollständig
+### Stabiles Stöckli
 
 Sitzverteilung im Ständerat
 
 ```
 label,year,value
 SP,2019,9
-GPS,2019,4
-CVP,2019,12
-FDP,2019,11
-SVP,2019,5
+GPS,2019,5
+CVP,2019,13
+FDP,2019,12
+SVP,2019,6
 parteilos,2019,1
-Offen,2019,4
 SP,2015,12
 GPS,2015,1
 CVP,2015,13
@@ -869,8 +868,8 @@ Von [Claude Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -1139,8 +1138,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -1286,8 +1285,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
