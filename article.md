@@ -139,7 +139,7 @@ Lega,2015,2
 MCR,2015,1
 ```
 
-Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/eidg-wahlen-2019/resultate-nationalrat.html).
+Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/eidg-wahlen-2019/resultate-nationalrat.html)
 
 <hr /></section>
 
@@ -255,13 +255,13 @@ year,party,value
 1987,Übrige,0.231649
 ```
 
-Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/nationalratswahlen.assetdetail.217191.html).
+Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/nationalratswahlen.assetdetail.217191.html)
 
 <hr /></section>
 
 ## Ständerat
 
-Im Ständerat wurden die letzten zweiten Wahlgänge am 24. November entschieden. Mit einem Verlust von insgesamt drei Sitzen steht die SP als grösste Verliererin da, während die Grünen vier Mandate hinzugewinnen konnten. Auf bürgerlicher Seite gewann die SVP einen Sitz hinzu, während die BDP ihren einzigen Sitz abgeben musste. Die FDP verlor ihren Sitz für den Kanton Tessin erstmals in 126 Jahren. Mit einer Steigerung von sieben auf 12 weibliche Mitglieder hat das Stöckli den Frauenanteil gegenüber 2015 auf 35 Prozent gesteigert.
+Im Ständerat wurden die letzten zweiten Wahlgänge am 24. November entschieden. Mit einem Verlust von insgesamt 3 Sitzen steht die SP als grösste Verliererin da, während die Grünen 4 Mandate hinzu­gewinnen konnten. Auf bürgerlicher Seite gewann die SVP 1 Sitz hinzu, während die BDP ihren einzigen Sitz abgeben musste. Die FDP verlor ihren Sitz für den Kanton Tessin erstmals in 126 Jahren. Mit einer Steigerung von 7 auf 12 weibliche Mitglieder hat das «Stöckli» den Frauen­anteil gegenüber 2015 auf 35 Prozent gesteigert.
 
 <section><h6>CHART</h6>
 
@@ -284,7 +284,7 @@ Im Ständerat wurden die letzten zweiten Wahlgänge am 24. November entschieden
 }
 ```
 
-### Stabiles Stöckli
+### Stabiles «Stöckli»
 
 Sitzverteilung im Ständerat
 
@@ -305,7 +305,7 @@ SVP,2015,5
 parteilos,2015,1
 ```
 
-Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/eidg-wahlen-2019/resultate-staenderat.html).
+Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/eidg-wahlen-2019/resultate-staenderat.html)
 
 <hr /></section>
 
@@ -374,7 +374,7 @@ year,value
 2019,45.1
 ```
 
-Quelle: [BFS](https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/3be5b54e-8c21-40c9-8e36-fbffb5638352).
+Quelle: [BFS](https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/3be5b54e-8c21-40c9-8e36-fbffb5638352)
 
 <hr /></section>
 
@@ -386,7 +386,7 @@ Die erste Session der 51. Legislatur der Bundes­versammlung (2019–2023) wird
 
 ### Zum Dossier Wahlen 2019
 
-Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beträgen zu den eidgenössischen Wahlen am 20. Oktober 2019. Alle Quellen und Original­daten sowie die Methoden ihrer Aufbereitung [sind hier dokumentiert](https://github.com/republik/dossier-eidgenoessische-wahlen-2019) (einschliesslich eines [Protokolls der Aktualisierungen](https://github.com/republik/dossier-eidgenoessische-wahlen-2019/commits/master)).
+Das Dossier bündelt wissens­werte Fakten und eine Auswahl von Republik-Beiträgen zu den eidgenössischen Wahlen am 20. Oktober 2019. Alle Quellen und Original­daten sowie die Methoden ihrer Aufbereitung [sind hier dokumentiert](https://github.com/republik/dossier-eidgenoessische-wahlen-2019) (einschliesslich eines [Protokolls der Aktualisierungen](https://github.com/republik/dossier-eidgenoessische-wahlen-2019/commits/master)).
 
 <hr /></section>
 
@@ -868,8 +868,8 @@ Von [Claude Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -1138,8 +1138,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -1285,8 +1285,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
