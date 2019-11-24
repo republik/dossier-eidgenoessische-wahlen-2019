@@ -261,7 +261,7 @@ Quelle: [BFS](https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/wahlen/na
 
 ## Ständerat
 
-Im Ständerat wurden die letzten zweiten Wahlgänge am 24. November entschieden. Mit einem Verlust von insgesamt drei Sitzen steht die SP als grösste Verliererin da, während die Grünen vier Mandate hinzugewinnen konnten. Auf bürgerlicher Seite gewann die SVP einen Sitz hinzu, während die BDP ihren einzigen Sitz abgeben musste. Die FDP verlor ihren Sitz für den Kanton Tessin erstmals in 126 Jahren. Mit einer Steigerung von sieben auf 12 weibliche Mitglieder hat das Stöckli den Frauenanteil gegenüber 2015 auf 35 Prozent gesteigert.
+Im Ständerat wurden die letzten zweiten Wahlgänge am 24. November entschieden. Mit einem Verlust von insgesamt drei Sitzen steht die SP als grösste Verliererin da, während die Grünen vier Mandate hinzugewinnen konnten. Auf bürgerlicher Seite gewann die SVP einen Sitz hinzu, während die BDP ihren einzigen Sitz abgeben musste. Die FDP verlor ihren Sitz für den Kanton Tessin erstmals in 126 Jahren. Mit einer Steigerung von sieben auf 12 weibliche Mitglieder hat das Stöckli den Frauenanteil gegenüber 2015 auf 35 Prozent gesteigert.
 
 <section><h6>CHART</h6>
 
@@ -868,8 +868,8 @@ Von [Claude Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -1138,8 +1138,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -1285,8 +1285,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
