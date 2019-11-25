@@ -42,7 +42,7 @@ Letzte Aktualisierung: 24.11.2019
         "description": "Anzahl Wahlberechtigte",
         "source": {
           "name": "BFS",
-          "url": "https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/3be5b54e-8c21-40c9-8e36-fbffb5638352",
+          "url": "https://opendata.swiss/dataset/eidg-wahlen-2019/resource/a4f56b9b-595c-488a-9f00-bb812374aa48",
           "date": "20.10.2019"
         },
         "color": "#39bbcc"
@@ -54,7 +54,7 @@ Letzte Aktualisierung: 24.11.2019
         "description": "Anteil der Wählenden an den Wahlberechtigten",
         "source": {
           "name": "BFS",
-          "url": "https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/3be5b54e-8c21-40c9-8e36-fbffb5638352",
+          "url": "https://opendata.swiss/dataset/eidg-wahlen-2019/resource/a4f56b9b-595c-488a-9f00-bb812374aa48",
           "date": "20.10.2019"
         },
         "color": "#39bbcc"
@@ -78,7 +78,7 @@ Letzte Aktualisierung: 24.11.2019
         "description": "Frauenanteil bei den gewählten Kandidierenden für den Nationalrat",
         "source": {
           "name": "BFS",
-          "url": "https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/6c6d3453-0aa3-4e2b-89b3-ed100ea5acee",
+          "url": "https://opendata.swiss/dataset/eidg-wahlen-2019/resource/a4cd7464-b284-4c4f-980c-6ab2a9edba1a",
           "date": "20.10.2019"
         },
         "color": "#39bbcc"
@@ -377,7 +377,7 @@ year,value
 2019,45.1
 ```
 
-Quelle: [BFS](https://opendata.swiss/de/dataset/eidg-wahlen-2019/resource/3be5b54e-8c21-40c9-8e36-fbffb5638352)
+Quelle: [BFS](https://opendata.swiss/dataset/eidg-wahlen-2019/resource/a4f56b9b-595c-488a-9f00-bb812374aa48)
 
 <hr /></section>
 
@@ -871,8 +871,8 @@ Von [Claude Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -1141,8 +1141,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -1288,8 +1288,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
