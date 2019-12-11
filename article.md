@@ -8,9 +8,7 @@ gallery: true
 facebookImage: images/140a0a8f18ccd1179e52505c9c5d3d3f4f615f70.png?size=1204x630
 title: "Dossier: Wahlen\_2019"
 template: dossier
-shortTitle: >-
-  Alle Ständeräte sind gewählt: Daten, Fakten und Hintergründe zu den Wahlen
-  2019 im Dossier
+shortTitle: "Dossier Wahlen\_2019: Alle Ständeräte sind gewählt: Daten, Fakten und Hintergründe – und ein Best-of der Republik-Beiträge"
 feed: true
 ---
 
@@ -871,8 +869,8 @@ Von [Claude Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -1141,8 +1139,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
@@ -1288,8 +1286,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "unauthorizedText": "",
-  "membersOnly": false
+  "membersOnly": false,
+  "unauthorizedText": ""
 }
 ```
 
