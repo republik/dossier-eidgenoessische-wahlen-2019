@@ -20,7 +20,7 @@ feed: true
 
 ⁣
 
-Letzte Aktualisierung: 24.11.2019
+Letzte Aktualisierung: 13.12.2019
 
 <hr /></section>
 
@@ -381,7 +381,7 @@ Quelle: [BFS](https://opendata.swiss/dataset/eidg-wahlen-2019/resource/a4f56b9b-
 
 ## Ausblick
 
-Die erste Session der 51. Legislatur der Bundes­versammlung (2019–2023) wird vom 2. bis 20. Dezember stattfinden. Am 11. Dezember steht ein wichtiges Traktandum an: die Gesamt­erneuerungs­wahl des Bundesrates. Zahlreiche Heraus­forderungen sorgen dafür, dass dem Parlament in den nächsten Jahren die Arbeit nicht ausgeht: [Klima, Digitalisierung, Gesundheit, Renten, Europa, Gleichstellung, Energiepolitik](https://github.com/republik/article-klimapolitik?autoSlug "Die grosse Abrechnung") – die Liste ist nicht abschliessend.
+Die erste Session der 51. Legislatur der Bundes­versammlung (2019–2023) findet vom 2. bis 20. Dezember 2019 statt. Bei der Gesamterneuerungswahl des Bundesrates am 11. Dezember wurden alles sieben Mitglieder der Regierung bestätigt. Zahlreiche Heraus­forderungen sorgen dafür, dass dem Parlament in den nächsten Jahren die Arbeit nicht ausgeht: [Klima, Digitalisierung, Gesundheit, Renten, Europa, Gleichstellung, Energiepolitik](https://github.com/republik/article-klimapolitik?autoSlug "Die grosse Abrechnung") – die Liste ist nicht abschliessend.
 
 <section><h6>INFOBOX</h6>
 
@@ -869,8 +869,8 @@ Von [Claude Longchamp](/~clongchamp "Claude  Longchamp"), 18.03.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -1139,8 +1139,8 @@ Von [Claude Longchamp](/~clongchamp "Claude Longchamp"), 17.06.2019
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
@@ -1286,8 +1286,8 @@ Von [Carlos Hanimann](/~chanimann) (Text) und Adam Higton (Illustration), 05.07.
 
 ```
 {
-  "membersOnly": false,
-  "unauthorizedText": ""
+  "unauthorizedText": "",
+  "membersOnly": false
 }
 ```
 
