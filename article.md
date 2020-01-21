@@ -9,6 +9,7 @@ facebookImage: images/140a0a8f18ccd1179e52505c9c5d3d3f4f615f70.png?size=1204x630
 title: "Dossier: Wahlen\_2019"
 template: dossier
 shortTitle: "Dossier Wahlen\_2019: Alle Ständeräte sind gewählt: Daten, Fakten und Hintergründe – und ein Best-of der Republik-Beiträge"
+description: 'Fakten, Hintergründe, Kommentare – die wichtigsten Beiträge zum «Grünsonntag».'
 feed: true
 ---
 
